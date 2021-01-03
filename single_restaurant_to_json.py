@@ -1,7 +1,8 @@
 from bs4 import BeautifulSoup
 import requests
 import csv
-import pandas as pd
+import json
+
 url="https://www.foodpanda.my/chain/cb0hc/domino-s-pizza-pos-integration"
 html =  requests.get(url)
 
@@ -11,6 +12,7 @@ item=soup.find_all('div',class_='dish-category-section__inner-wrapper')
 
 dish_category_title=[]
 dish_name=[]
+dish_description=[]
 original_price=[]
 discounted_price=[]
 image_url=[]
@@ -22,7 +24,14 @@ for data in item:
         dish_category_title.append(h2)
         item=title.text.strip()
         dish_name.append(item)
-        
+    
+    title_descs=data.find_all('div',class_='dish-info')
+    for title_desc in title_descs:       
+        try:
+           desc=title_desc.find('p',class_='dish-description e-description').text.strip()
+        except:
+            desc="Dish Description not available"
+        dish_description.append(desc)    
 
     prices=data.find_all('span',class_='price p-price')
     for price in prices:
@@ -46,13 +55,16 @@ for data in item:
         img=(((img[1])[1:]).split('?'))[0]
         image_url.append(img)
 
-# now lists are made for the categories
-#we will now use the lists as pandas series and create a pandas dataframe
+#now that we have all the data in lists 
+#we create a dictionary with all the lists
+#and then dump that to a json
 
-df=pd.DataFrame({'dish_category_title':dish_category_title,
+dict={'dish_category_title':dish_category_title,
 'dish_name':dish_name,
+'dish_description':dish_description,
 'original_price':original_price,
 'discounted_price':discounted_price,
-'image_url':image_url})
+'image_url':image_url}
 
-df.to_csv('menu_scrapped.csv')
+json_object = json.dumps(dict)
+print(json_object)
