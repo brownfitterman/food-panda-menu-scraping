@@ -55,6 +55,4 @@ df=pd.DataFrame({'dish_category_title':dish_category_title,
 'discounted_price':discounted_price,
 'image_url':image_url})
 
-print(df.head())
-
-
+df.to_csv('menu_scrapped.csv')
