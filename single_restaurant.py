@@ -33,7 +33,7 @@ for data in item:
         org_price=(((org_price.split('>'))[1]).split('<'))[0]
         try:
             x=price.index('from')
-            dis_price="from"+dis_price
+            dis_price="from "+dis_price
         except:
             pass
         original_price.append(org_price)
