@@ -22,9 +22,9 @@ soup0=BeautifulSoup( htm.text,'lxml')
 
 rests0=soup0.find('ul',class_='city-list')
 
-print('Welcome to Food Panda Scrapper!')
+print('Welcome to Food Panda Restaurants Info Scrapper!')
 print()
-print('This is Food Panda Malaysia')
+print('Food Panda Malaysia')
 print()
 print()
 print('Food Panda is available in these cities of Malaysia:')
@@ -70,7 +70,7 @@ for rest_url in all_r:
     u=u+1
     rest_name=rest_url[17:]
     print('Restaurant #'+str(u)+' '+ 'Name: '+ rest_name+'  scraped successfully',end=' ')
-    for i in range(45-len(rest_name)):
+    for i in range(50-len(rest_name)):
         print(" ",end="")
     print(str(total_rests-u)+" left")
     rest_url="https://www.foodpanda.my"+rest_url+"#restaurant-info"
@@ -138,6 +138,8 @@ filename=cityname+"_restaurants_info.csv"
 
 df.to_csv(filename)
 
+print()
+print()
 print("All "+ str(total_rests)+ " restaurants info scraped successfully!")
-print('Exported to csv successfully!')
+print('Exported to csv')
 print('Check '+filename)
