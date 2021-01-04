@@ -2,6 +2,8 @@ from bs4 import BeautifulSoup
 import requests
 import csv
 import pandas as pd
+
+
 url="https://www.foodpanda.my/chain/cb0hc/domino-s-pizza-pos-integration"
 html =  requests.get(url)
 
@@ -67,3 +69,4 @@ df=pd.DataFrame({'dish_category_title':dish_category_title,
 'image_url':image_url})
 
 df.to_csv('menu_scraped.csv')
+
