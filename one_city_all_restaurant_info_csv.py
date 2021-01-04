@@ -1,6 +1,3 @@
-# import time
-# startTime = time.time()
-
 from bs4 import BeautifulSoup
 import requests
 import csv
@@ -137,14 +134,10 @@ df=pd.DataFrame({'Name of Restaurant':name,
 'Image URL':image_url})
 
 
-filename=cityname+"_info.csv"
+filename=cityname+"_restaurants_info.csv"
 
 df.to_csv(filename)
 
-print('Restaurant info exported to csv successfully!')
+print("All "+ str(total_rests)+ " restaurants info scraped successfully!")
+print('Exported to csv successfully!')
 print('Check '+filename)
-
-# executionTime = (time.time() - startTime)
-# print()
-# print()
-# print('Execution time in seconds: ' + str(executionTime))
