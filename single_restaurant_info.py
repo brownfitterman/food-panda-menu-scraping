@@ -24,26 +24,29 @@ for data in data_all:
     count=data.find('span',class_='count').text.strip() 
     print(ven_name)  
     print(rat) 
-    print(count) 
-    
-     #no. of people votes taken for the rating
+    print(count) #no. of people votes taken for the rating
 
-    tags=data.find('ul',class_='vendor-cuisines')
-    for tag in tags:
-        li=tag.find('li')
-        #li=li.text
-        print(li)
+    # tags=data.find('ul',class_='vendor-cuisines')
+    # for tag in tags:
+    #     li=tag.find('li')
+    #     #li=li.text
+    #     print(li)
     
 
         
-    op_time=data.find('div',class_='opening-time')
-    op_time=op_time.text.replace(' ','').strip()
-    print(op_time)
         
-        
+    # timing=data.find('span',class_='green-class')
+    # timing=timing.text.strip()
+    # print(timing , end='')
+    timings=data.find('span',class_='schedule-times')
+    time=timings.text.strip()
+    print(time)
+
+
     hours=data.find('ul',class_='vendor-delivery-times')
-    hours=((hours.text.replace(' ','').strip()).split(','))[0]
+    hours=(hours.text.replace(' ','').strip())
     print(hours)
+
     
     loc=data.find('p',class_='vendor-location')
     loc=loc.text.strip()

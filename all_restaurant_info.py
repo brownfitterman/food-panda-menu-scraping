@@ -42,14 +42,20 @@ for data in data_all:
     
 
         
-    op_time=data.find('div',class_='opening-time')
-    op_time=op_time.text.replace(' ','').strip()
+
+
+    timings=data.find('span',class_='schedule-times')
+    op_time=timings.text.strip()
+    # timing=data.find('span',class_='green-class')
+    # timing=timing.text.strip()
+    # op_time=timing+" "+op_time
     opening_time.append(op_time)
-        
-        
+
+
     hours=data.find('ul',class_='vendor-delivery-times')
-    hours=((hours.text.replace(' ','').strip()).split(','))[0]
+    hours=(hours.text.replace(' ','').strip())
     delivery_hours.append(hours)
+
     
     loc=data.find('p',class_='vendor-location')
     loc=loc.text.strip()
@@ -63,3 +69,6 @@ print(delivery_hours)
 print(rating)
 print(rating_count)
 print(image_url)
+
+
+
