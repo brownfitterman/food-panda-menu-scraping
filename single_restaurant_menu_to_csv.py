@@ -41,8 +41,14 @@ for data in item:
         price=str(price)
         price=price.split()
         dis_price=price[-4]
-        org_price=price[-2]
-        org_price=(((org_price.split('>'))[1]).split('<'))[0]
+        if "MYR" not in dis_price:
+            dis_price="N/A"
+        try:
+            org_price=price[-2]      
+            org_price=(((org_price.split('>'))[1]).split('<'))[0]
+        except:
+            org_price=price[-2] 
+            
         try:
             x=price.index('from')
             dis_price="from "+dis_price
@@ -60,6 +66,11 @@ for data in item:
 
 # now lists are made for the categories
 #we will now use the lists as pandas series and create a pandas dataframe
+
+if (len(image_url)!=len(dish_name)):
+    for i in range(len(dish_name)):
+        image_url.append("N/A")
+
 
 df=pd.DataFrame({'dish_category_title':dish_category_title,
 'dish_name':dish_name,

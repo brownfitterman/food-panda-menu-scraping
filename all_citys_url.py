@@ -10,4 +10,4 @@ rests=soup.find('ul',class_='city-list')
 list_1=rests.find_all('li')
 for url in list_1:
     url_city=url.find('a',class_='city-tile')['href'].strip()
-    print(url_city)
+    print(len(url_city))

@@ -7,6 +7,7 @@ html =  requests.get(url)
 soup=BeautifulSoup( html.text,'lxml')
 
 
+
 # data=soup.find_all('script',id_='template-confirm-preorder')
 data_all=soup.find_all('div',class_='modal fade rich-description')
 
@@ -20,8 +21,14 @@ for data in data_all:
     print(img)
     
     ven_name=data.find('h1',class_='vendor-name').text.strip() 
-    rat=data.find('span',class_='rating').text.strip() 
-    count=data.find('span',class_='count').text.strip() 
+    try:
+        rat=data.find('span',class_='rating').text.strip() 
+    except:
+        rat="N/A"
+    try:
+        count=data.find('span',class_='count').text.strip() 
+    except:
+        count="N/A"
     print(ven_name)  
     print(rat) 
     print(count) #no. of people votes taken for the rating
