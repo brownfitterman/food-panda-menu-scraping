@@ -85,7 +85,7 @@ for rest_url in all_r:
         img=data.find('div',class_='b-lazy vendor-picture')
         img=str(img)
         img=((img.split())[3]).split('=')
-        img=((img[1]).split('?'))[0]
+        img=(((img[1]).split('?'))[0])[1:]
         image_url.append(img)
         
         ven_name=data.find('h1',class_='vendor-name').text.strip() 

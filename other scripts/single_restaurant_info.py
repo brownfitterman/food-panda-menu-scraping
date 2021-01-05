@@ -17,7 +17,7 @@ for data in data_all:
     img=data.find('div',class_='b-lazy vendor-picture')
     img=str(img)
     img=((img.split())[3]).split('=')
-    img=((img[1]).split('?'))[0]
+    img=(((img[1]).split('?'))[0])[1:]
     print(img)
     
     ven_name=data.find('h1',class_='vendor-name').text.strip() 
