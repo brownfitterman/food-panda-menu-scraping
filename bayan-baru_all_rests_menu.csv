@@ -1,0 +1,1453 @@
+,restaurant_name,dish_category_title,dish_name,dish_description,original_price,discounted_price,image_url
+0,979-hokkien-mee-nine-seven-nine-kopitiam,Mains,Hokkien Mee,Dish Description not available,MYR5.90,from N/A,N/A
+1,979-char-koay-teow,Noodles,Thai Styled Char Kuey Teow with Fried Egg,Dish Description not available,MYR8.80,N/A,N/A
+2,979-char-koay-teow,Noodles,Char Kuey Teow,Dish Description not available,MYR7.50,from N/A,N/A
+3,979-char-koay-teow,Noodles,Char Bee Tai Bak,Dish Description not available,MYR7.50,from N/A,N/A
+4,979-char-koay-teow,Noodles,Char Yellow Noodle,Dish Description not available,MYR7.50,from N/A,N/A
+5,979-char-koay-teow,Rice Set,Pra Kra Pao Set Rice with Fried Egg,Dish Description not available,MYR9.60,N/A,N/A
+6,fried-rice-special,Rice,Belacan Fried Rice,Dish Description not available,MYR8.60,from N/A,N/A
+7,fried-rice-special,Rice,Yang Zhou Fried Rice,Dish Description not available,MYR8.60,from N/A,N/A
+8,fried-rice-special,Rice,Pattaya Fried Rice,Dish Description not available,MYR8.60,from N/A,N/A
+9,fried-rice-special,Rice,Dried Radish Fried Rice,Dish Description not available,MYR8.60,from N/A,N/A
+10,fried-rice-special,Rice,Salted Fish Fried Rice,Dish Description not available,MYR8.60,from N/A,N/A
+11,fried-rice-special,Rice,Butter Chicken Fried Rice,Dish Description not available,MYR8.60,from N/A,N/A
+12,fried-rice-special,Rice,Pineapple Fried Rice,Dish Description not available,MYR8.60,from N/A,N/A
+13,fried-rice-special,Rice,Black Pepper Fried Rice,Dish Description not available,MYR8.60,from N/A,N/A
+14,fried-rice-special,Rice,Tomyam Fried Rice,Dish Description not available,MYR8.60,from N/A,N/A
+15,fried-rice-special,Rice,Sambal Fried Rice,Dish Description not available,MYR8.60,from N/A,N/A
+16,fried-rice-special,Rice,Hot & Spicy Fried Rice,Dish Description not available,MYR8.60,from N/A,N/A
+17,qi-yen-char-koay-teow,Mains,Char Koay Teow,Dish Description not available,MYR6.60,from N/A,N/A
+18,qi-yen-char-koay-teow,Mains,Fried Noodle,Dish Description not available,MYR6.60,from N/A,N/A
+19,qi-yen-char-koay-teow,Mains,Fried Mee Tai Bak,Dish Description not available,MYR6.60,from N/A,N/A
+20,qi-yen-char-koay-teow,Mains,Fried Rice,Dish Description not available,MYR7.40,from N/A,N/A
+21,qi-yen-char-koay-teow,Mains,Sambal Fried Rice,Dish Description not available,MYR7.40,from N/A,N/A
+22,rashida-roti-canai-kompleks-makanan-lebuh-nipah,Roti,Roti Canai,Dish Description not available,MYR1.80,N/A,N/A
+23,rashida-roti-canai-kompleks-makanan-lebuh-nipah,Roti,Roti Telur,Dish Description not available,MYR3.30,N/A,N/A
+24,rashida-roti-canai-kompleks-makanan-lebuh-nipah,Roti,Roti Telur Bawang,Dish Description not available,MYR3.70,N/A,N/A
+25,rashida-roti-canai-kompleks-makanan-lebuh-nipah,Roti,Roti Bom,Dish Description not available,MYR3.00,N/A,N/A
+26,rashida-roti-canai-kompleks-makanan-lebuh-nipah,Roti,Roti Planta,Dish Description not available,MYR3.00,N/A,N/A
+27,rashida-roti-canai-kompleks-makanan-lebuh-nipah,Roti,Roti Celup Telur,Roti Benggali,MYR2.20,N/A,N/A
+28,rashida-roti-canai-kompleks-makanan-lebuh-nipah,Roti,Roti Doll,Dish Description not available,MYR3.30,N/A,N/A
+29,rashida-roti-canai-kompleks-makanan-lebuh-nipah,Roti,Roti Cheese,Dish Description not available,MYR3.30,N/A,N/A
+30,rashida-roti-canai-kompleks-makanan-lebuh-nipah,Roti,Roti Telur Cheese,Dish Description not available,MYR4.60,N/A,N/A
+31,rashida-roti-canai-kompleks-makanan-lebuh-nipah,Lain-lain,Nasi Lemak,Dish Description not available,MYR1.80,N/A,N/A
+32,rashida-roti-canai-kompleks-makanan-lebuh-nipah,Lain-lain,Karipap,1 Pc,MYR0.90,N/A,N/A
+33,shen-huat-wan-than-mee,Noodles,Wan Tan Mee,Dish Description not available,MYR5.80,from N/A,N/A
+34,shen-huat-wan-than-mee,Noodles,Wan Tan Mee Soup,Dish Description not available,MYR5.80,from N/A,N/A
+35,lucky-eatery-alor-setar-chicken-noodle,Mains,Signature Chicken Noodle,Dish Description not available,MYR7.40,from N/A,N/A
+36,lucky-eatery-alor-setar-chicken-noodle,Mains,Black Soy Sauce Chicken Noodle,Dish Description not available,MYR7.40,from N/A,N/A
+37,lucky-eatery-alor-setar-chicken-noodle,Mains,Tomyam Chicken Noodle,Dry,MYR7.40,from N/A,N/A
+38,brothers-koay-teow-th-ng,Mains,Koay Teow Th'ng,Dish Description not available,MYR7.50,N/A,N/A
+39,brothers-koay-teow-th-ng,Mains,Koay Teow Dry,Dish Description not available,MYR7.50,N/A,N/A
+40,lam-huat-roasted-chicken-duck-rice,Rice,Chicken Rice,Dish Description not available,MYR8.10,from N/A,N/A
+41,lam-huat-roasted-chicken-duck-rice,Rice,Sio Bak Rice,Dish Description not available,MYR9.60,from N/A,N/A
+42,lam-huat-roasted-chicken-duck-rice,Rice,Char Siew Rice,Dish Description not available,MYR9.60,from N/A,N/A
+43,lam-huat-roasted-chicken-duck-rice,Rice,Chicken Drumstick Rice,Dish Description not available,MYR9.20,from N/A,N/A
+44,lam-huat-roasted-chicken-duck-rice,Rice,Chicken Wings Rice,Dish Description not available,MYR9.20,from N/A,N/A
+45,lam-huat-roasted-chicken-duck-rice,Rice,Duck Rice,Dish Description not available,MYR10.60,from N/A,N/A
+46,lam-huat-roasted-chicken-duck-rice,Rice,Duck Drumstick Rice,Dish Description not available,MYR10.60,from N/A,N/A
+47,lam-huat-roasted-chicken-duck-rice,2 In 1 Mix Rice Sets,Chicken & Sio Bak Rice,Dish Description not available,MYR11.30,from N/A,N/A
+48,lam-huat-roasted-chicken-duck-rice,2 In 1 Mix Rice Sets,Chicken & Char Siew Rice,Dish Description not available,MYR11.30,from N/A,N/A
+49,lam-huat-roasted-chicken-duck-rice,2 In 1 Mix Rice Sets,Chicken Thigh & Sio Bak Rice,Dish Description not available,MYR11.30,from N/A,N/A
+50,lam-huat-roasted-chicken-duck-rice,2 In 1 Mix Rice Sets,Chicken Thigh & Char Siew Rice,Dish Description not available,MYR11.30,from N/A,N/A
+51,lam-huat-roasted-chicken-duck-rice,2 In 1 Mix Rice Sets,Sio Bak & Char Siew Rice,Dish Description not available,MYR9.60,from N/A,N/A
+52,lam-huat-roasted-chicken-duck-rice,2 In 1 Mix Rice Sets,Chicken Wing & Sio Bak Rice,Dish Description not available,MYR12.80,from N/A,N/A
+53,lam-huat-roasted-chicken-duck-rice,2 In 1 Mix Rice Sets,Chicken Wing & Char Siew Rice,Dish Description not available,MYR12.80,from N/A,N/A
+54,lam-huat-roasted-chicken-duck-rice,2 In 1 Mix Rice Sets,Chicken Drumstick & Sio Bak Rice,Dish Description not available,MYR12.80,from N/A,N/A
+55,lam-huat-roasted-chicken-duck-rice,2 In 1 Mix Rice Sets,Chicken Drumstick & Char Siew Rice,Dish Description not available,MYR12.80,from N/A,N/A
+56,lam-huat-roasted-chicken-duck-rice,2 In 1 Mix Rice Sets,Duck & Sio Bak Rice,Dish Description not available,MYR14.30,from N/A,N/A
+57,lam-huat-roasted-chicken-duck-rice,2 In 1 Mix Rice Sets,Duck & Char Siew Rice,Dish Description not available,MYR14.30,from N/A,N/A
+58,lam-huat-roasted-chicken-duck-rice,2 In 1 Mix Rice Sets,Duck & Chicken Rice,Dish Description not available,MYR16.20,from N/A,N/A
+59,lam-huat-roasted-chicken-duck-rice,3 In 1 Mix Rice Sets,Chicken & Char Siew & Sio Bak Rice,Dish Description not available,MYR11.30,from N/A,N/A
+60,lam-huat-roasted-chicken-duck-rice,3 In 1 Mix Rice Sets,Chicken Thigh & Char Siew & Sio Bak Rice,Dish Description not available,MYR11.30,from N/A,N/A
+61,lam-huat-roasted-chicken-duck-rice,3 In 1 Mix Rice Sets,"Chicken Wing, Char Siew & Sio Bak Rice",Dish Description not available,MYR12.80,from N/A,N/A
+62,lam-huat-roasted-chicken-duck-rice,3 In 1 Mix Rice Sets,"Chicken Drumstick, Char Siew & Sio Bak Rice",Dish Description not available,MYR12.80,from N/A,N/A
+63,lam-huat-roasted-chicken-duck-rice,3 In 1 Mix Rice Sets,Duck & Char Siew & Sio Bak Rice,Dish Description not available,MYR14.30,from N/A,N/A
+64,lam-huat-roasted-chicken-duck-rice,Ala Carte,Ala Carte Sio Bak,Dish Description not available,MYR10.30,N/A,N/A
+65,lam-huat-roasted-chicken-duck-rice,Ala Carte,Ala Carte Char Siew,Dish Description not available,MYR10.30,N/A,N/A
+66,lam-huat-roasted-chicken-duck-rice,Ala Carte,Ala Carte Duck Meat,Dish Description not available,MYR8.80,N/A,N/A
+67,lam-huat-roasted-chicken-duck-rice,Ala Carte,Ala Carte Duck Drumstick,Dish Description not available,MYR8.80,N/A,N/A
+68,lam-huat-roasted-chicken-duck-rice,Ala Carte,Ala Carte Chicken Drumstick,Dish Description not available,MYR7.40,N/A,N/A
+69,lam-huat-roasted-chicken-duck-rice,Ala Carte,Ala Carte Chicken Wing,Dish Description not available,MYR3.70,N/A,N/A
+70,lam-huat-roasted-chicken-duck-rice,Ala Carte,Ala Carte Quarter Chicken,Dish Description not available,MYR17.70,from N/A,N/A
+71,lam-huat-roasted-chicken-duck-rice,Ala Carte,Whole Chicken,Dish Description not available,MYR52.90,N/A,N/A
+72,lam-huat-roasted-chicken-duck-rice,Ala Carte,Half Chicken,Dish Description not available,MYR26.50,N/A,N/A
+73,lam-huat-roasted-chicken-duck-rice,Ala Carte,Whole Duck,Dish Description not available,MYR82.30,N/A,N/A
+74,lam-huat-roasted-chicken-duck-rice,Ala Carte,Half Duck,Dish Description not available,MYR41.10,N/A,N/A
+75,lam-huat-roasted-chicken-duck-rice,Ala Carte,Sio Bak (1kg),Dish Description not available,MYR120.50,N/A,N/A
+76,lam-huat-roasted-chicken-duck-rice,Ala Carte,Sio Bak (500g),Dish Description not available,MYR60.30,N/A,N/A
+77,lam-huat-roasted-chicken-duck-rice,Ala Carte,Char Siew (1kg),Dish Description not available,MYR147.00,N/A,N/A
+78,lam-huat-roasted-chicken-duck-rice,Ala Carte,Char Siew (500g),Dish Description not available,MYR73.50,N/A,N/A
+79,naught-y-john,Special's Black Syiok Ahh,Bossku No Limit,"Mozarella Inside Out, tuna + chicken + beef + lamb, Long Charcoal Bread 40cm & full wrap egg, Beef/Chicken Peperoni",MYR28.50,MYR22.80,N/A
+80,naught-y-john,Special's Black Syiok Ahh,Beef Reloaded,"Mozarella Inside Out + Slice Cheese beef + chicken, Long Charcoal Bread 40cm, full wrap egg, Beef/Chicken Peperoni",MYR25.80,MYR20.64,N/A
+81,naught-y-john,Special's Black Syiok Ahh,Lamb Crook,"Mozarella Inside Out + Slice Cheese, Lamb, Long Charcoal Bread 40cm, full wrap egg, Beef/Chicken Peperoni",MYR28.50,MYR22.80,N/A
+82,naught-y-john,Roti John Ayam,Ayam Biasa,"Chicken Patty, Long Bread 40cm, Inside Wrap egg, Special Sauce Mix",MYR10.00,MYR8.00,N/A
+83,naught-y-john,Roti John Ayam,Ayam Cheese Moza,"Mozarella Inside Out, Chicken, Long Bread 40cm, Inside Wrap egg, Special Sauce Mix",MYR14.30,MYR11.44,N/A
+84,naught-y-john,Roti John Ayam,Ayam Cheese Slice,"Chicken Patty, Cheese Slice, Long Bread 40cm, Inside Wrap egg, Special Sauce Mix",MYR11.50,MYR9.20,N/A
+85,naught-y-john,Roti John Tuna,Tuna Biasa,"Tuna Patty, Long Bread 40cm, Inside Wrap egg, Special Sauce Mix",MYR10.00,MYR8.00,N/A
+86,naught-y-john,Roti John Tuna,Tuna Cheese Moza,"Chicken Patty, Mozarella Cheese Inside Out, Long Bread 40cm, Inside Wrap egg, Special Sauce Mix",MYR14.30,MYR11.44,N/A
+87,naught-y-john,Roti John Tuna,Tuna Cheese Slice,"Tuna Patty, Cheese Slice, Long Bread 40cm, Inside Wrap egg, Special Sauce Mix",MYR11.50,MYR9.20,N/A
+88,naught-y-john,Roti John Daging,Daging Biasa,"Beef Patty, Long Bread 40cm, Inside Wrap egg, Special Sauce Mix",MYR10.00,MYR8.00,N/A
+89,naught-y-john,Roti John Daging,Daging Cheese Moza,"Beef Patty, Mozarella Cheese Inside Out, Long Bread 40cm, Inside Wrap egg, Special Sauce Mix",MYR14.30,MYR11.44,N/A
+90,naught-y-john,Roti John Daging,Daging Cheese Slice,"Beef Patty, Cheese Slice, Long Bread 40cm, Inside Wrap egg, Special Sauce Mix",MYR11.50,MYR9.20,N/A
+91,naught-y-john,Roti John Kambing,Kambing Biasa,"Lamb Patty, Long Bread 40cm, Inside Wrap egg, Special Sauce Mix",MYR14.30,MYR11.44,N/A
+92,naught-y-john,Roti John Kambing,Kambing cheese Moza,"Lamb Patty, Mozarella Cheese Inside Out, Long Bread 40cm, Inside Wrap egg, Special Sauce Mix",MYR18.60,MYR14.88,N/A
+93,naught-y-john,Roti John Kambing,Kambing Cheese Slice,"Lamb Patty, Cheese Slice, Long Bread 40cm, Inside Wrap egg, Special Sauce Mix",MYR15.80,MYR12.64,N/A
+94,naught-y-john,Roti John Fish Fillet,Roti John Fish Fillet Biasa,"Kod Fish, Long Bread 40cm with sesame, Special Sauce Mixture, Egg",MYR14.30,MYR11.44,N/A
+95,naught-y-john,Roti John Fish Fillet,Roti John Fish Fillet Cheese Slice,"Kod Fish, Cheese Slice, Long Bread 40cm with sesame, Special Sauce Mixture, Egg",MYR15.80,MYR12.64,N/A
+96,naught-y-john,Roti John Fish Fillet,Roti John Fish Fillet Mozarella,"Kod Fish, Mozarella Cheese Inside Out, Long Bread 40cm with sesame, Special Sauce Mixture, Egg",MYR18.60,MYR14.88,N/A
+97,naught-y-john,Roti John Wagyu Beef,Roti John Wagyu Beef Biasa,Long Bread 40CM + Wagyu Beef Patty + Special Mix Sauce + Inside Wrap Egg,MYR48.00,MYR38.40,N/A
+98,naught-y-john,Roti John Wagyu Beef,Roti John Wagyu Beef Cheese Slice,Long Bread 40CM + Wagyu Beef Patty + Cheese Slice + Special Mix Sauce + Inside Wrap Egg,MYR49.00,MYR39.20,N/A
+99,naught-y-john,Roti John Wagyu Beef,Roti John Wagyu Beef Cheese Mozarella,Long Bread 40CM + Wagyu Beef Patty + Cheese Mozarella Inside & Outside + Special Mix Sauce + Inside Wrap Egg,MYR52.00,MYR41.60,N/A
+100,naught-y-john,Extras,Full Wrap Egg,To Add Full Wrap on the whole Bread,MYR4.30,MYR3.44,N/A
+101,naught-y-john,Extras,Cheese Moza,To Add Mozarella Cheese (Melting Chesse),MYR5.80,MYR4.64,N/A
+102,naught-y-john,Extras,Patty's,To Add More Patty's,MYR4.30,MYR3.44,N/A
+103,naught-y-john,Extras,Roti John Black,Change From Normal Bread to Charcoal Bread,MYR4.30,MYR3.44,N/A
+104,naught-y-john,Extras,KOREAN CHEESE CORN DO*,Mozarella cheese + sausage + coated with crispy flour,MYR8.00,from MYR6.40,N/A
+105,ay,Limited Time Offer,Meat Stack,"If you love meat, this is it! Nothing but a genormous Meat Stack with layers of Chicken Strips, Chicken Slice, Beef Pepperoni and Beef Salami",MYR15.75,from N/A,N/A
+106,ay,New Flavours,Breaded Chicken Cutlet,Dish Description not available,MYR14.20,from N/A,N/A
+107,ay,New Flavours,Smoked Chicken,Dish Description not available,MYR13.90,from N/A,N/A
+108,ay,New Flavours,Bulgogi Chicken,Dish Description not available,MYR13.50,from N/A,N/A
+109,ay,New Flavours,Chicken & Cheese Toasties,Dish Description not available,MYR5.25,N/A,N/A
+110,ay,New Flavours,Mushroom & Cheese Toasties,Dish Description not available,MYR4.65,N/A,N/A
+111,ay,Classic,Meatball Marinara Melt,Comes with a generous helping of Italian-style meatballs bathed in our own tangy tomato marinara sauce (our founder’s mom’s secret recipe) served hot with your choice of fresh vegetables and condiments. Mangia!,MYR13.20,from N/A,N/A
+112,ay,Classic,Chicken Teriyaki,"An Asian classic, is made with tender chicken pieces dressed lightly with teriyaki sauce, served hot and topped with your choice of fresh vegetables and condiments.",MYR13.40,from N/A,N/A
+113,ay,Classic,Spicy Italian,"Spice up your life with some real flavour. Served on freshly baked bread and toasted to perfection, the Spicy Italian sandwich features spicy beef pepperoni and delicious slices of beef salami. For a more personalised taste, add fresh peppers, oil, vinegar or anything else to suit your liking.",MYR13.40,from N/A,N/A
+114,ay,Classic,Seafood Sensation,"The Subway Seafood Sensation has sweet, tender chunks of seafood blended with creamy light mayonnaise to make a delightfully delicious sub, served with your choice of vegetables and condiments on freshly baked bread.",MYR12.70,from N/A,N/A
+115,ay,Classic,Veggie Delite,"A delightfully fresh combination of juicy lettuce, tomatoes, green peppers, onions and your choice of condiments served on freshly baked bread. It’s a scrumptiously crunchy sandwich.",MYR8.25,from N/A,N/A
+116,ay,Classic - Footlong,Veggie Delite FL,"A delightfully fresh combination of juicy lettuce, tomatoes, green peppers, onions and your choice of condiments served on freshly baked bread. It’s a scrumptiously crunchy sandwich.",MYR13.55,from N/A,N/A
+117,ay,Classic - Footlong,Seafood Sensation FL,"The Subway Seafood Sensation has sweet, tender chunks of seafood blended with creamy light mayonnaise to make a delightfully delicious sub, served with your choice of vegetables and condiments on freshly baked bread.",MYR22.20,from N/A,N/A
+118,ay,Classic - Footlong,Spicy Italian FL,"Spice up your life with some real flavour. Served on freshly baked bread and toasted to perfection, the Spicy Italian sandwich features spicy beef pepperoni and delicious slices of beef salami. For a more personalised taste, add fresh peppers, oil, vinegar or anything else to suit your liking.",MYR22.90,from N/A,N/A
+119,ay,Classic - Footlong,Meatball Marinara Melt FL,Comes with a generous helping of Italian-style meatballs bathed in our own tangy tomato marinara sauce (our founder’s mom’s secret recipe) served hot with your choice of fresh vegetables and condiments. Mangia!,MYR22.70,from N/A,N/A
+120,ay,Classic - Footlong,Chicken Teriyaki FL,"An Asian classic, is made with tender chicken pieces dressed lightly with teriyaki sauce, served hot and topped with your choice of fresh vegetables and condiments.",MYR22.90,from N/A,N/A
+121,ay,Favourite,Steak & Cheese,"Inspired by the hoagie that made Philadelphia famous, our version of the Cheese Steak features mouth-watering slices of lean and tender steak with sautéed onions and green peppers topped with melted cheese.",MYR13.90,from N/A,N/A
+122,ay,Favourite,BBQ Chicken,Dish Description not available,MYR14.00,from N/A,N/A
+123,ay,Favourite,Roasted Beef,"A classic favorite, comprises of lean and tender sliced roast beef with your choice of fresh vegetables and condiments.",MYR14.20,from N/A,N/A
+124,ay,Favourite,Roasted Chicken,"Feel peckish for chicken? Then try our Oven Roasted Chicken Breast. A tender, boneless chicken breast patty roasted to perfection, with your choice of fresh vegetables and condiments is served on freshly baked bread. Just like mom used to make.",MYR14.20,from N/A,N/A
+125,ay,Favourite,Chicken Slice,"For those who prefer lighter meat, enjoy a Savory Chicken Sub now. Lean and tender, gourmet style sliced chicken with your choice of crisp vegetables and condiments served on freshly baked bread.",MYR13.90,from N/A,N/A
+126,ay,Favourite,Turkey & Chicken Slice,With a sandwich this hearty you won't know you're eating low fat. Delicious sliced turkey breast and chicken slice with your choice of fresh vegetables and fat-free condiments—served on freshly baked bread.,MYR13.90,from N/A,N/A
+127,ay,Favourite,Turkey,"It’s the classic tender turkey breast and all your favorite veggies and selected condiments. Try it with cheese and have it fresh toasted for a hot, melty and delicious taste.",MYR14.20,from N/A,N/A
+128,ay,Favourite,Tuna,Dolphin-safe Tuna and creamy mayonnaise is lovingly blended together to make one of the world’s favorite comfort foods.,MYR14.20,from N/A,N/A
+129,ay,Favourite - Footlong,BBQ Chicken FL,Dish Description not available,MYR23.65,from N/A,N/A
+130,ay,Favourite - Footlong,Turkey FL,"It’s the classic tender turkey breast and all your favorite veggies and selected condiments. Try it with cheese and have it fresh toasted for a hot, melty and delicious taste.",MYR23.85,from N/A,N/A
+131,ay,Favourite - Footlong,Turkey & Chicken Slice FL,With a sandwich this hearty you won't know you're eating low fat. Delicious sliced turkey breast and chicken slice with your choice of fresh vegetables and fat-free condiments—served on freshly baked bread.,MYR23.55,from N/A,N/A
+132,ay,Favourite - Footlong,Chicken Slice FL,"For those who prefer lighter meat, enjoy a Savory Chicken Sub now. Lean and tender, gourmet style sliced chicken with your choice of crisp vegetables and condiments served on freshly baked bread.",MYR23.55,from N/A,N/A
+133,ay,Favourite - Footlong,Tuna FL,Dolphin-safe Tuna and creamy mayonnaise is lovingly blended together to make one of the world’s favorite comfort foods.,MYR23.85,from N/A,N/A
+134,ay,Favourite - Footlong,Roasted Chicken FL,"Feel peckish for chicken? Then try our Oven Roasted Chicken Breast. A tender, boneless chicken breast patty roasted to perfection, with your choice of fresh vegetables and condiments is served on freshly baked bread. Just like mom used to make.",MYR23.85,from N/A,N/A
+135,ay,Favourite - Footlong,Roasted Beef FL,"A classic favorite, comprises of lean and tender sliced roast beef with your choice of fresh vegetables and condiments.",MYR23.85,from N/A,N/A
+136,ay,Favourite - Footlong,Steak & Cheese FL,"Inspired by the hoagie that made Philadelphia famous, our version of the Cheese Steak features mouth-watering slices of lean and tender steak with sautéed onions and green peppers topped with melted cheese.",MYR23.55,from N/A,N/A
+137,ay,Signature,Italian B.M.T.™,"An old world favourite sandwich that is made up of beef salami, beef pepperoni and chicken slice. Some say B.M.T.™ stands for biggest, meatiest, tastiest.",MYR14.90,from N/A,N/A
+138,ay,Signature,Subway Club™,"Subway Club™ is another delectable sandwich. A taste-tempting combination of our famous lean and tender, sliced turkey breast, sliced roast beef; and savory, chicken slice with your choice of fresh vegetables and condiments.",MYR15.00,from N/A,N/A
+139,ay,Signature - Footlong,Subway Club™ FL,"Subway Club™ is another delectable sandwich. A taste-tempting combination of our famous lean and tender, sliced turkey breast, sliced roast beef; and savory, chicken slice with your choice of fresh vegetables and condiments.",MYR24.75,from N/A,N/A
+140,ay,Signature - Footlong,Italian B.M.T.™ FL,"An old world favourite sandwich that is made up of beef salami, beef pepperoni and chicken slice. Some say B.M.T.™ stands for biggest, meatiest, tastiest.",MYR24.65,from N/A,N/A
+141,ay,Wrap or Salad,Chicken Slice,"Turn your favorite SUBWAY® meats and veggies into a mouth-watering salad made just the way you want it. Top it with ranch dressing or light Italian for a flavourful, satisfying meal.",MYR13.90,from N/A,N/A
+142,ay,Wrap or Salad,Chicken Teriyaki,"An Asian classic, is made with tender chicken pieces dressed lightly with teriyaki sauce, served hot and topped with your choice of fresh vegetables and condiments.",MYR13.40,from N/A,N/A
+143,ay,Wrap or Salad,Italian B.M.T.™,"An old world favourite sandwich that is made up of beef salami, beef pepperoni and chicken slice. Some say B.M.T.™ stands for biggest, meatiest, tastiest.",MYR14.90,from N/A,N/A
+144,ay,Wrap or Salad,Meatball,Comes with a generous helping of Italian-style meatballs bathed in our own tangy tomato marinara sauce (our founder’s mom’s secret recipe) served hot with your choice of fresh vegetables and condiments. Mangia!,MYR13.20,from N/A,N/A
+145,ay,Wrap or Salad,Roasted Beef,"A classic favorite, comprises of lean and tender sliced roast beef with your choice of fresh vegetables and condiments.",MYR14.20,from N/A,N/A
+146,ay,Wrap or Salad,Roasted Chicken,"Feel peckish for chicken? Then try our Oven Roasted Chicken Breast. A tender, boneless chicken breast patty roasted to perfection, with your choice of fresh vegetables and condiments is served on freshly baked bread. Just like mom used to make.",MYR14.20,from N/A,N/A
+147,ay,Wrap or Salad,Seafood Sensation,"The Subway Seafood &amp; Crab has sweet, tender chunks of seafood blended with creamy light mayonnaise to make a delightfully delicious salad, served with your choice of vegetables and dressing.",MYR12.70,from N/A,N/A
+148,ay,Wrap or Salad,Spicy Italian,"Turn your favorite SUBWAY® meats and veggies into a mouth-watering salad made just the way you want it. Top it with ranch dressing or light Italian for a flavourful, satisfying meal.",MYR13.40,from N/A,N/A
+149,ay,Wrap or Salad,Steak & Cheese,"Inspired by the hoagie that made Philadelphia famous, our version of the Cheese Steak features mouth-watering slices of lean and tender steak with sautéed onions and green peppers topped with melted cheese.",MYR13.90,from N/A,N/A
+150,ay,Wrap or Salad,Subway Club™,"Subway Club™ is another delectable sandwich. A taste-tempting combination of our famous lean and tender, sliced turkey breast, sliced roast beef; and savory, chicken slice with your choice of fresh vegetables and condiments.",MYR15.00,from N/A,N/A
+151,ay,Wrap or Salad,Tuna,Dolphin-safe Tuna and creamy mayonnaise is lovingly blended together to make one of the world’s favorite comfort foods.,MYR14.20,from N/A,N/A
+152,ay,Wrap or Salad,Turkey & Chicken Slice,"Turn your favorite SUBWAY® meats and veggies into a mouth-watering salad made just the way you want it. Top it with ranch dressing or light Italian for a flavourful, satisfying meal.",MYR13.90,from N/A,N/A
+153,ay,Wrap or Salad,Turkey,"Turn your favorite SUBWAY® meats and veggies into a mouth-watering salad made just the way you want it. Top it with ranch dressing or light Italian for a flavourful, satisfying meal.",MYR14.20,from N/A,N/A
+154,ay,Wrap or Salad,Veggie Delite™,"A delightfully crunchy fresh combination of garden fresh lettuce, tomatoes, green peppers, onions, olives and pickles and your choice of condiments. It’s like a salad sandwich.",MYR8.25,from N/A,N/A
+155,ay,Wrap or Salad,BBQ Chicken,Dish Description not available,MYR14.00,from N/A,N/A
+156,ay,Wrap or Salad,Smoked Chicken,Dish Description not available,MYR13.90,from N/A,N/A
+157,ay,Wrap or Salad,Breaded Chicken Cutlet,Dish Description not available,MYR14.20,from N/A,N/A
+158,ay,Wrap or Salad,Bulgogi Chicken,Dish Description not available,MYR13.50,from N/A,N/A
+159,ay,Beverages & Sides,Cookies,Dish Description not available,MYR2.55,from N/A,N/A
+160,ay,Beverages & Sides,Chips,Dish Description not available,MYR3.60,N/A,N/A
+161,ay,Beverages & Sides,Hot Teh Tarik,Dish Description not available,MYR3.50,N/A,N/A
+162,ay,Beverages & Sides,Hot Chocolate,Dish Description not available,MYR3.50,N/A,N/A
+163,ay,Beverages & Sides,Hot Tea,Dish Description not available,MYR3.50,N/A,N/A
+164,ay,Beverages & Sides,Hot Black Coffee,Dish Description not available,MYR3.50,N/A,N/A
+165,ay,Beverages & Sides,Hot White Coffee,Dish Description not available,MYR3.50,N/A,N/A
+166,ay,Beverages & Sides,Hot Cappuccino,Dish Description not available,MYR4.60,N/A,N/A
+167,ay,Beverages & Sides,Hot Mocha,Dish Description not available,MYR4.60,N/A,N/A
+168,ay,Beverages & Sides,Dasani Water,Bottle,MYR3.05,N/A,N/A
+169,ay,Beverages & Sides,Coca Cola,Dish Description not available,MYR3.05,from N/A,N/A
+170,ay,Beverages & Sides,Sprite,Dish Description not available,MYR3.05,from N/A,N/A
+171,ay,Beverages & Sides,Fanta Grape,Dish Description not available,MYR3.05,from N/A,N/A
+172,ay,Beverages & Sides,Minute Maid Orange,Dish Description not available,MYR3.05,from N/A,N/A
+173,ay,Beverages & Sides,Heaven & Earth Ice Lemon Tea,Dish Description not available,MYR3.05,from N/A,N/A
+174,ay,Beverages & Sides,Minute Maid Tropical,Bottle,MYR4.20,N/A,N/A
+175,ay,Beverages & Sides,Minute Maid Mango,Bottle,MYR4.20,N/A,N/A
+176,ay,Beverages & Sides,Jasmine Green Tea,Bottle,MYR4.20,N/A,N/A
+177,ay,Beverages & Sides,Passion Fruit Tea,Bottle,MYR4.20,N/A,N/A
+178,ay,Beverages & Sides,Ice Lemon Tea,Bottle,MYR4.20,N/A,N/A
+179,rui-xing-rojak-wei-yi-unique-cafe,Mains,Rojak,Dish Description not available,MYR7.40,from N/A,N/A
+180,rui-xing-rojak-wei-yi-unique-cafe,Fruits,Watermelon,Dish Description not available,MYR2.20,N/A,N/A
+181,rui-xing-rojak-wei-yi-unique-cafe,Fruits,Papaya,Dish Description not available,MYR2.20,N/A,N/A
+182,rui-xing-rojak-wei-yi-unique-cafe,Fruits,Honeydew,Dish Description not available,MYR2.20,N/A,N/A
+183,rui-xing-rojak-wei-yi-unique-cafe,Fruits,Honydew Ned,Dish Description not available,MYR3.00,N/A,N/A
+184,rui-xing-rojak-wei-yi-unique-cafe,Fruits,Mango,Dish Description not available,MYR3.00,N/A,N/A
+185,rui-xing-rojak-wei-yi-unique-cafe,Fruits,Guava,Dish Description not available,MYR2.20,N/A,N/A
+186,rui-xing-rojak-wei-yi-unique-cafe,Fruits,Pink Guava,Dish Description not available,MYR3.00,N/A,N/A
+187,rui-xing-rojak-wei-yi-unique-cafe,Fruits,Pear,Dish Description not available,MYR3.70,N/A,N/A
+188,rui-xing-rojak-wei-yi-unique-cafe,Fruits,Kiwi,Dish Description not available,MYR3.70,N/A,N/A
+189,rui-xing-rojak-wei-yi-unique-cafe,Fruits,Dragon Fruit,Dish Description not available,MYR3.00,N/A,N/A
+190,rui-xing-rojak-wei-yi-unique-cafe,Fruits,Bali Pineapple,Dish Description not available,MYR3.00,N/A,N/A
+191,rui-xing-rojak-wei-yi-unique-cafe,Fruits,Baciku,Dish Description not available,MYR2.20,N/A,N/A
+192,rui-xing-rojak-wei-yi-unique-cafe,Fruits,Nangka,Dish Description not available,MYR4.40,N/A,N/A
+193,rui-xing-rojak-wei-yi-unique-cafe,Fruits,Ambura,Dish Description not available,MYR2.20,N/A,N/A
+194,rui-xing-rojak-wei-yi-unique-cafe,Fruits,Tomato,Dish Description not available,MYR2.20,N/A,N/A
+195,apom-balik-46,Apom Balik,Apom Balik Biasa,Dish Description not available,MYR1.50,from N/A,N/A
+196,apom-balik-46,Apom Balik,Apom Balik Jagung Extra,Dish Description not available,MYR2.20,from N/A,N/A
+197,apom-balik-46,Apom Balik,Apom Balik Coklat,Dish Description not available,MYR2.50,from N/A,N/A
+198,apom-balik-46,Apom Balik,Apom Balik Telur,Dish Description not available,MYR3.00,N/A,N/A
+199,apom-balik-46,Apom Balik,Apom Balik Gula Merah,Dish Description not available,MYR1.80,from N/A,N/A
+200,apom-balik-46,Apom Balik,Apom Balik Peanut Butter,Dish Description not available,MYR3.70,from N/A,N/A
+201,apom-balik-46,Laksa,Laksa Jantan Combo,Laksa telur dan teh o ais,MYR9.50,N/A,N/A
+202,pisa-corner-healthy-porridge,Congee,Congee with Century Egg and Pork,Dish Description not available,MYR7.20,from N/A,N/A
+203,pisa-corner-healthy-porridge,Congee,Scallop Congee,Dish Description not available,MYR8.60,from N/A,N/A
+204,pisa-corner-healthy-porridge,Congee,Pork Intestine Congee,Dish Description not available,MYR8.60,from N/A,N/A
+205,pisa-corner-healthy-porridge,Congee,Congee with Salted Egg and Pork,Dish Description not available,MYR7.20,N/A,N/A
+206,pisa-corner-healthy-porridge,Congee,Pumpkin Congee with Salted Egg and Pork,Dish Description not available,MYR8.60,N/A,N/A
+207,pisa-corner-healthy-porridge,Congee,Sweet Potato Congee with Salted Egg and Pork,Dish Description not available,MYR8.60,N/A,N/A
+208,lucky-eatery-leong-kee-chinese-soup-rice-set,Mains,ABC Spare Ribs Soup and Rice Set,Dish Description not available,MYR11.80,N/A,N/A
+209,lucky-eatery-leong-kee-chinese-soup-rice-set,Mains,Old Cucumber Soup and Rice Set,Dish Description not available,MYR11.80,N/A,N/A
+210,lucky-eatery-leong-kee-chinese-soup-rice-set,Mains,Lotus Root Spare Ribs Soup and Rice Set,Dish Description not available,MYR11.80,N/A,N/A
+211,lucky-eatery-leong-kee-chinese-soup-rice-set,Mains,Winter Melon Spare Ribs Soup and Rice Set,Dish Description not available,MYR11.80,N/A,N/A
+212,lucky-eatery-leong-kee-chinese-soup-rice-set,Mains,Black Beans Pork Leg Soup and Rice Set,Dish Description not available,MYR14.80,N/A,N/A
+213,lucky-eatery-leong-kee-chinese-soup-rice-set,Mains,Watercress Spare Ribs Soup and Rice Set,Dish Description not available,MYR11.80,N/A,N/A
+214,lucky-eatery-leong-kee-chinese-soup-rice-set,Mains,White Radish Ribs Soup and Rice Set,Dish Description not available,MYR11.80,N/A,N/A
+215,lucky-eatery-leong-kee-chinese-soup-rice-set,Mains,Peanut Chicken Feet Soup and Rice Set,Dish Description not available,MYR11.80,N/A,N/A
+216,lucky-eatery-leong-kee-chinese-soup-rice-set,Mains,Peanut Spare Ribs Soup and Rice Set,Dish Description not available,MYR11.80,N/A,N/A
+217,lucky-eatery-leong-kee-chinese-soup-rice-set,Mains,Drumstick Herbs Soup and Rice Set,Dish Description not available,MYR14.80,N/A,N/A
+218,lucky-eatery-leong-kee-chinese-soup-rice-set,Mains,Decoction of Six Ingredients Soup and Rice Set,Dish Description not available,MYR14.80,N/A,N/A
+219,lucky-eatery-leong-kee-chinese-soup-rice-set,Mains,Bitter Gourd Spare Ribs Soup,Dish Description not available,MYR11.80,from N/A,N/A
+220,lucky-eatery-leong-kee-chinese-soup-rice-set,Mains,Pig Maw Soup and Rice Set,Dish Description not available,MYR14.80,N/A,N/A
+221,lucky-eatery-leong-kee-chinese-soup-rice-set,Mains,Black Chicken Herbs Soup,Dish Description not available,MYR16.80,N/A,N/A
+222,korean-cuisine,Korean Mains,D. Topokki,Dish Description not available,MYR9.90,MYR8.42,N/A
+223,korean-cuisine,Korean Mains,E. Bibimbap,With soup of the day,MYR9.90,MYR8.42,N/A
+224,korean-cuisine,Korean Mains,F. Kimchi Chicken Soup and Rice,Dish Description not available,MYR9.90,MYR8.42,N/A
+225,korean-cuisine,Korean Mains,Kimchi Friend Rice,Chicken and friend egg,MYR8.90,MYR7.56,N/A
+226,korean-cuisine,Korean Mains,Korean Fried Chicken(Kimchi),4pcs chicken,MYR9.00,MYR7.65,N/A
+227,korean-cuisine,Korean Mains,White Rice,Dish Description not available,MYR1.50,MYR1.28,N/A
+228,korean-cuisine,Korean Mains,Fried Egg,Dish Description not available,MYR1.50,MYR1.28,N/A
+229,korean-cuisine,Korean Mains,Korean Fried Chicken(Original),4pcs chicken,MYR9.00,MYR7.65,N/A
+230,korean-cuisine,Korean Mains,Korean Fried Chicken(Cheese),4 pcs chicken,MYR9.00,MYR7.65,N/A
+231,korean-cuisine,Korean Mains,Kimchi Pan Cake,Vegetarian,MYR13.00,MYR11.05,N/A
+232,korean-cuisine,Korean Mains,Korean Style Friend Glass Noodle(Jap Chae),Vegetarian,MYR9.90,MYR8.42,N/A
+233,korean-cuisine,Korean Mains,Kimchi Pan Cake,Vegetarian,MYR13.00,MYR11.05,N/A
+234,korean-cuisine,Korean Cover Rice,H. Kimchi Chicken Rice,Dish Description not available,MYR9.90,MYR8.42,N/A
+235,korean-cuisine,Korean Cover Rice,I. Jajung Chicken Rice(Sweet),Dish Description not available,MYR8.90,MYR7.56,N/A
+236,korean-cuisine,Korean Cover Rice,J. Sweet and Spicy Chicken Rice,Dish Description not available,MYR8.90,MYR7.56,N/A
+237,korean-cuisine,Korean Cover Rice,G. Korean Chili Chicken Rice,Dish Description not available,MYR9.90,MYR8.42,N/A
+238,korean-cuisine,Korean Cover Rice,K. Cheese Chicken Rice,Dish Description not available,MYR9.90,MYR8.42,N/A
+239,korean-cuisine,Korean Cover Rice,L. Mayonnaise Chicken Rice,Dish Description not available,MYR8.90,MYR7.56,N/A
+240,korean-cuisine,Korean Cover Rice,M. Sweet Basil Chicken Rice,Dish Description not available,MYR8.90,MYR7.56,N/A
+241,korean-cuisine,Korean Cover Rice,N. Mixed Mushroom Chicken Rice,Dish Description not available,MYR8.90,MYR7.56,N/A
+242,mutiara-curry-mee,A La Carte,Curry Mee,Dish Description not available,MYR6.60,from N/A,N/A
+243,balachan-chicken,Mains,Chicken Wing,Dish Description not available,MYR2.20,N/A,N/A
+244,balachan-chicken,Mains,Chicken Meat,Dish Description not available,MYR4.00,N/A,N/A
+245,balachan-chicken,Mains,Chicken Drumstick,Dish Description not available,MYR4.00,N/A,N/A
+246,balachan-chicken,Mains,Chicken Whole Leg,Dish Description not available,MYR7.50,N/A,N/A
+247,,Limited Time Only,2-pc Nasi Lemak KFC Combo,"2-pc Chicken (OR), 1 Nasi Lemak, 1 Hard Boiled Egg, 1 Sambal Anchovies, Peanuts, Cucumber, choice of 1 drink",MYR17.99,from N/A,N/A
+248,,Limited Time Only,Zinger Fillet Nasi Lemak KFC Combo,"1-pc Zinger Fillet, 1 Nasi Lemak, 1 Hard Boiled Egg, 1 Sambal Anchovies, Peanuts, Cucumber, choice of 1 drink",MYR16.49,from N/A,N/A
+249,,Limited Time Only,1-pc Nasi Lemak KFC Combo,"1-pc Chicken (OR), 1 Nasi Lemak, 1 Hard Boiled Egg, 1 Sambal Anchovies, Peanuts, Cucumber, choice of 1 drink",MYR14.99,from N/A,N/A
+250,,Limited Time Only,Nasi Lemak KFC Combo,"1 Nasi Lemak, 1 Hard Boiled Egg, 1 Sambal Anchovies, Peanuts, Cucumber, choice of 1 drink",MYR9.99,from N/A,N/A
+251,,Limited Time Only,2-pc Nasi Lemak KFC,"2-pc Chicken (OR), 1 Nasi Lemak, 1 Hard Boiled Egg, 1 Sambal Anchovies, Peanuts, Cucumber",MYR15.49,from N/A,N/A
+252,,Limited Time Only,Zinger Fillet Nasi Lemak KFC,"1-pc Zinger Fillet, 1 Nasi Lemak, 1 Hard Boiled Egg, 1 Sambal Anchovies, Peanuts, Cucumber",MYR13.99,from N/A,N/A
+253,,Limited Time Only,1-pc Nasi Lemak KFC,"1-pc Chicken (OR), 1 Nasi Lemak, 1 Hard Boiled Egg, 1 Sambal Anchovies, Peanuts, Cucumber",MYR12.49,from N/A,N/A
+254,,Limited Time Only,Nasi Lemak KFC,"1 Nasi Lemak,1 Hard Boiled Egg, 1 Sambal Anchovies, Peanuts, Cucumber",MYR7.49,from N/A,N/A
+255,,Box Meals,Zinger Riser Box Meal,"1 Zinger Riser, 1-pc Chicken (OR), choice of 1 drink",MYR14.99,from N/A,N/A
+256,,Box Meals,Colonel Burger Box Meal,"1 Colonel Burger, 1-pc Chicken (OR), choice of 1 drink",MYR12.99,from N/A,N/A
+257,,Box Meals,Twister Lite Box Meal,"1 Twister Lite, 1-pc Chicken (OR), choice of 1 drink",MYR12.49,from N/A,N/A
+258,,Box Meals,Zinger Porridge Box Meal,"1 Zinger Porridge, 1-pc Chicken (OR), choice of 1 drink",MYR12.49,from N/A,N/A
+259,,Box Meals,Egg Riser Box Meal,"1 Egg Riser, 1-pc Chicken (OR), choice of 1 drink",MYR11.49,from N/A,N/A
+260,,Value Combos,Zinger Riser Combo (with hash brown),"1 Zinger Riser, 1 Hash brown, choice of 1 drink",MYR12.99,from N/A,N/A
+261,,Value Combos,Colonel Burger Combo (with hash brown),"1 Colonel Burger, 1 Hash brown, choice of 1 drink",MYR10.99,from N/A,N/A
+262,,Value Combos,Twister Lite Combo (with hash brown),"1 Twister Lite, 1 Hash brown, choice of 1 drink",MYR10.49,from N/A,N/A
+263,,Value Combos,Zinger Porridge Combo (with hash brown),"1 Zinger Porridge, 1 Hash brown, choice of 1 drink",MYR10.49,from N/A,N/A
+264,,Value Combos,Egg Riser Combo (with hash brown),"1 Egg Riser, 1 Hash brown, choice of 1 drink",MYR9.49,from N/A,N/A
+265,,Value Combos,Zinger Riser Combo,"1 Zinger Riser, choice of 1 drink",MYR11.49,from N/A,N/A
+266,,Value Combos,Colonel Burger Combo,"1 Colonel Burger, 1 Crispier Fries (R), choice of 1 drink",MYR11.49,from N/A,N/A
+267,,Value Combos,Twister Lite Combo,"1 Twister Lite, choice of 1 drink",MYR8.99,from N/A,N/A
+268,,Value Combos,Zinger Porridge Combo,"1 Zinger Porridge, choice of 1 drink",MYR8.99,from N/A,N/A
+269,,Value Combos,Egg Riser Combo,"1 Egg Riser, choice of 1 drinks",MYR7.99,from N/A,N/A
+270,,À La Carte,Zinger Riser,Zinger Riser,MYR8.99,N/A,N/A
+271,,À La Carte,Colonel Burger,Colonel Burger,MYR6.99,N/A,N/A
+272,,À La Carte,Twister Lite,Twister Lite,MYR6.49,N/A,N/A
+273,,À La Carte,Zinger Porridge,Zinger Porridge,MYR6.49,N/A,N/A
+274,,À La Carte,Egg Riser,Egg Riser,MYR5.49,N/A,N/A
+275,,Add-On Sides,Hash Brown,Hash Brown,MYR3.50,N/A,N/A
+276,,Add-On Sides,Sunny Side Up Egg,Sunny Side Up Egg,MYR2.00,N/A,N/A
+277,,Add-On Sides,Hard Boiled Egg,1 Hard Boiled Egg,MYR2.00,N/A,N/A
+278,,Add-On Sides,Sambal Sauce,Sambal Sauce,MYR1.50,N/A,N/A
+279,,Beverages,Pepsi Black Can,Pepsi Black (Can),MYR3.99,N/A,N/A
+280,,Beverages,Pepsi Can,Pepsi (Can),MYR3.99,N/A,N/A
+281,,Beverages,Revive (Can),Revive (Can),MYR3.99,N/A,N/A
+282,,Beverages,Lipton Ice Lemon Tea (Can),Lipton Ice Lemon Tea (Can),MYR5.49,N/A,N/A
+283,,Beverages,Milo Original (Can),Milo Original (Can),MYR5.49,N/A,N/A
+284,,Beverages,Nescafe Original (Can),Nescafe Original (Can),MYR5.49,N/A,N/A
+285,,Beverages,Tropicana Twister Orange (355ml),Tropicana Twister Orange (355ml),MYR5.99,N/A,N/A
+286,yi-wan-zhou,Mains,Century Egg + Chicken Flossy Porridge,Dish Description not available,MYR6.50,N/A,N/A
+287,yi-wan-zhou,Mains,Pork Intestine Porridge,Dish Description not available,MYR7.50,N/A,N/A
+288,yi-wan-zhou,Mains,Chicken Porridge,Dish Description not available,MYR7.00,N/A,N/A
+289,yi-wan-zhou,Mains,Fresh Fish Meat Porridge,Dish Description not available,MYR9.50,N/A,N/A
+290,yi-wan-zhou,Mains,Four Flavour Porridge,Dish Description not available,MYR12.50,N/A,N/A
+291,yi-wan-zhou,Mains,Shredded Chicken porridge,Dish Description not available,MYR5.50,N/A,N/A
+292,yi-wan-zhou,Mains,Fish Porridge 生鱼粥,Dish Description not available,MYR8.50,N/A,N/A
+293,yi-wan-zhou,Mains,Preserved Egg with shredded Chicken porridge 皮蛋鸡絲粥,Dish Description not available,MYR6.50,N/A,N/A
+294,yi-wan-zhou,Mains,Tomyam Fish Mee Hun / Maggie 鱼肉米粉,Dish Description not available,MYR9.00,N/A,N/A
+295,yi-wan-zhou,Mains,Milk Fish Mee Hun 牛奶鱼肉米粉,Dish Description not available,MYR9.00,N/A,N/A
+296,yi-wan-zhou,Mains,Clear Soup Fish Mee Hun 清汤鱼肉米粉,Dish Description not available,MYR9.00,N/A,N/A
+297,yi-wan-zhou,Mains,Bitter Gourd Fish Mee Hun 苦瓜鱼肉米粉,Dish Description not available,MYR9.00,N/A,N/A
+298,yi-wan-zhou,Mains,Dried Fish Mee Hun / Maggie 干抄鱼肉米粉,Dish Description not available,MYR9.00,N/A,N/A
+299,yi-wan-zhou,Mains,Hot and Sour Fish Mee Hun 酸辣米粉汤,Dish Description not available,MYR9.00,N/A,N/A
+300,yi-wan-zhou,Mains,Fish Meat Bihun Soup,Dish Description not available,MYR9.00,N/A,N/A
+301,yi-wan-zhou,Mains,Tomyam Bihun Soup,Dish Description not available,MYR9.00,N/A,N/A
+302,yi-wan-zhou,Mains,Milky Bihun Soup,Dish Description not available,MYR9.00,N/A,N/A
+303,yi-wan-zhou,Mains,Spicy Bihun Soup,Dish Description not available,MYR9.00,N/A,N/A
+304,y-eatery-rainbows-nasi-lemak,Extras,Hot Dog,Dish Description not available,MYR2.20,N/A,N/A
+305,y-eatery-rainbows-nasi-lemak,Extras,Fried Chicken,Dish Description not available,MYR7.30,N/A,N/A
+306,y-eatery-rainbows-nasi-lemak,Extras,Asam Fish,Dish Description not available,MYR7.30,N/A,N/A
+307,y-eatery-rainbows-nasi-lemak,Extras,Curry Chicken,Dish Description not available,MYR8.60,N/A,N/A
+308,y-eatery-rainbows-nasi-lemak,Extras,Lemak Rice,(Rice only),MYR2.20,N/A,N/A
+309,y-eatery-rainbows-nasi-lemak,Extras,Boiled Egg,Dish Description not available,MYR1.50,N/A,N/A
+310,y-eatery-rainbows-nasi-lemak,Nasi Lemak Sets,Hot Dog Set,Hot dog nasi lemak set,MYR10.00,N/A,N/A
+311,y-eatery-rainbows-nasi-lemak,Nasi Lemak Sets,Fried Chicken Set,Fried chicken nasi lemak set,MYR11.50,N/A,N/A
+312,y-eatery-rainbows-nasi-lemak,Nasi Lemak Sets,Curry Chicken Set,Curry chicken nasi lemak set,MYR12.80,N/A,N/A
+313,y-eatery-rainbows-nasi-lemak,Nasi Lemak Sets,Asam Fish Set,Fried fish nasi lemak set,MYR11.50,N/A,N/A
+314,serai-thai,Ayam,Ayam Goreng Kunyit,Dish Description not available,MYR6.40,N/A,N/A
+315,serai-thai,Ayam,Ayam Masak Kicap,Dish Description not available,MYR6.40,N/A,N/A
+316,serai-thai,Ayam,Ayam Masak Halia,Dish Description not available,MYR6.40,N/A,N/A
+317,serai-thai,Ayam,Ayam Masak Pedas,Dish Description not available,MYR6.40,N/A,N/A
+318,serai-thai,Ayam,Ayam Masak Merah,Dish Description not available,MYR6.40,N/A,N/A
+319,serai-thai,Ayam,Ayam Masak Padprik,Dish Description not available,MYR6.40,N/A,N/A
+320,serai-thai,Ayam,Ayam Masam Manis,Dish Description not available,MYR6.40,N/A,N/A
+321,serai-thai,Ayam,Ayam BlackPepper,Dish Description not available,MYR6.40,N/A,N/A
+322,serai-thai,Ayam,Ayam Masak Osyter,Dish Description not available,MYR7.20,N/A,N/A
+323,serai-thai,Ayam,Ayam Bawang Putih,Dish Description not available,MYR6.40,N/A,N/A
+324,serai-thai,Ayam,Ayam Goreng Tomyam,Dish Description not available,MYR6.40,N/A,N/A
+325,serai-thai,Ayam,Ayam Masak Padkapau,Dish Description not available,MYR6.40,N/A,N/A
+326,serai-thai,Daging,Daging Goreng Kunyit,Dish Description not available,MYR6.40,N/A,N/A
+327,serai-thai,Daging,Daging Masak Kicap,Dish Description not available,MYR6.40,N/A,N/A
+328,serai-thai,Daging,Daging  Masak Halia,Dish Description not available,MYR6.40,N/A,N/A
+329,serai-thai,Daging,Daging  Masak Pedas,Dish Description not available,MYR6.40,N/A,N/A
+330,serai-thai,Daging,Daging  Masak Merah,Dish Description not available,MYR6.40,N/A,N/A
+331,serai-thai,Daging,Daging  Masak Padprik,Dish Description not available,MYR6.40,N/A,N/A
+332,serai-thai,Daging,Daging BlackPepper,Dish Description not available,MYR6.40,N/A,N/A
+333,serai-thai,Daging,Daging Masak Osyter,Dish Description not available,MYR6.40,N/A,N/A
+334,serai-thai,Daging,Daging  Masak Padkapau,Dish Description not available,MYR6.40,N/A,N/A
+335,serai-thai,Kerabu,Kerabu Ikan Bilis,Dish Description not available,MYR5.80,N/A,N/A
+336,serai-thai,Kerabu,Kerabu Daging,Dish Description not available,MYR6.40,N/A,N/A
+337,serai-thai,Kerabu,Kerabu Ayam,Dish Description not available,MYR6.40,N/A,N/A
+338,serai-thai,Kerabu,Kerabu Seafood,Dish Description not available,MYR7.90,N/A,N/A
+339,serai-thai,Kerabu,Kerabu Udang,Dish Description not available,MYR7.20,N/A,N/A
+340,serai-thai,Kerabu,Kerabu Sotong,Dish Description not available,MYR7.20,N/A,N/A
+341,serai-thai,Udang / Sotong,Goreng Kunyit,Dish Description not available,MYR7.20,N/A,N/A
+342,serai-thai,Udang / Sotong,Masak Kicap,Dish Description not available,MYR7.20,N/A,N/A
+343,serai-thai,Udang / Sotong,Masak Pedas,Dish Description not available,MYR7.20,N/A,N/A
+344,serai-thai,Udang / Sotong,Masak Merah,Dish Description not available,MYR7.20,N/A,N/A
+345,serai-thai,Udang / Sotong,Masak Padprik,Dish Description not available,MYR7.20,N/A,N/A
+346,serai-thai,Udang / Sotong,Masak Blackpepper,Dish Description not available,MYR7.20,N/A,N/A
+347,serai-thai,Udang / Sotong,Masak Osyter,Dish Description not available,MYR7.20,N/A,N/A
+348,serai-thai,Tom Yam,Tomyam Ayam,Dish Description not available,MYR7.20,N/A,N/A
+349,serai-thai,Tom Yam,Tomyam Daging,Dish Description not available,MYR7.20,N/A,N/A
+350,serai-thai,Tom Yam,Tomyam Sayur,Dish Description not available,MYR7.20,N/A,N/A
+351,serai-thai,Tom Yam,Tomyam Sotong,Dish Description not available,MYR7.90,N/A,N/A
+352,serai-thai,Tom Yam,Tomyam Udang,Dish Description not available,MYR7.90,N/A,N/A
+353,serai-thai,Tom Yam,Tomyam Seafood,Dish Description not available,MYR8.50,N/A,N/A
+354,serai-thai,Tom Yam,Tomyam Campur,Dish Description not available,MYR7.90,N/A,N/A
+355,serai-thai,Tom Yam,Tomyam Cendawan,Dish Description not available,MYR7.20,N/A,N/A
+356,serai-thai,Sup,Sup Ayam,Dish Description not available,MYR7.20,N/A,N/A
+357,serai-thai,Sup,Sup Daging,Dish Description not available,MYR7.20,N/A,N/A
+358,serai-thai,Sup,Sup Cendawan,Dish Description not available,MYR7.20,N/A,N/A
+359,serai-thai,Sup,Sup Campur,Dish Description not available,MYR7.90,N/A,N/A
+360,serai-thai,Sup,Sup Tulang,Dish Description not available,MYR11.50,N/A,N/A
+361,serai-thai,Sup,Sup Ekor,Dish Description not available,MYR14.30,N/A,N/A
+362,serai-thai,Sup,Sup Sayur,Dish Description not available,MYR7.20,N/A,N/A
+363,serai-thai,Telur,Telur Mata,Dish Description not available,MYR1.50,N/A,N/A
+364,serai-thai,Telur,Telur Dadar,Dish Description not available,MYR1.70,N/A,N/A
+365,serai-thai,Telur,Telur Kicap,Dish Description not available,MYR5.80,N/A,N/A
+366,serai-thai,Telur,Telur Pedas,Dish Description not available,MYR5.80,N/A,N/A
+367,serai-thai,Telur,Telur Bungkus,Dish Description not available,MYR6.40,N/A,N/A
+368,serai-thai,Telur,Telur Bistik,Dish Description not available,MYR6.40,N/A,N/A
+369,serai-thai,Sayur,Kangkung Goreng Biasa,Dish Description not available,MYR5.80,N/A,N/A
+370,serai-thai,Sayur,Kangkung Goreng Belacan,Dish Description not available,MYR5.80,N/A,N/A
+371,serai-thai,Sayur,Kailan Ikan Masin,Dish Description not available,MYR6.40,N/A,N/A
+372,serai-thai,Sayur,Kailan Goreng Biasa,Dish Description not available,MYR5.80,N/A,N/A
+373,serai-thai,Sayur,Kailan Belacan,Dish Description not available,MYR5.80,N/A,N/A
+374,serai-thai,Sayur,Sayur Goreng Campur,Dish Description not available,MYR5.80,N/A,N/A
+375,serai-thai,Nasi Putih,Nasi Putih,Dish Description not available,MYR2.20,N/A,N/A
+376,serai-thai,Menu Nasi,Nasi Bujang,Dish Description not available,MYR3.60,N/A,N/A
+377,serai-thai,Menu Nasi,Nasi Goreng Cina,Dish Description not available,MYR5.00,N/A,N/A
+378,serai-thai,Menu Nasi,Nasi Goreng Biasa,Dish Description not available,MYR5.80,N/A,N/A
+379,serai-thai,Menu Nasi,Nasi Goreng Kampung,Dish Description not available,MYR6.40,N/A,N/A
+380,serai-thai,Menu Nasi,Nasi Goreng Kerabu,Dish Description not available,MYR5.80,N/A,N/A
+381,serai-thai,Menu Nasi,Nasi Goreng Ikan Masin,Dish Description not available,MYR6.40,N/A,N/A
+382,serai-thai,Menu Nasi,Nasi Goreng Belacan,Dish Description not available,MYR6.40,N/A,N/A
+383,serai-thai,Menu Nasi,Nasi Goreng Thai,Dish Description not available,MYR7.20,N/A,N/A
+384,serai-thai,Menu Nasi,Nasi Goreng Pataya,Dish Description not available,MYR7.20,N/A,N/A
+385,serai-thai,Menu Nasi,Nasi Goreng Tomyam,Dish Description not available,MYR7.20,N/A,N/A
+386,serai-thai,Menu Nasi,Nasi Goreng Cendawan,Dish Description not available,MYR7.20,N/A,N/A
+387,serai-thai,Menu Nasi,Nasi Goreng Cili Padi,Dish Description not available,MYR5.80,N/A,N/A
+388,serai-thai,Menu Nasi,Nasi Goreng Daging,Dish Description not available,MYR7.20,N/A,N/A
+389,serai-thai,Menu Nasi,Nasi Goreng Ayam Pedas,Dish Description not available,MYR7.90,N/A,N/A
+390,serai-thai,Menu Nasi,Nasi Goreng Ayam Kunyit,Dish Description not available,MYR7.90,N/A,N/A
+391,serai-thai,Menu Nasi,Nasi Goreng Daging Merah,Dish Description not available,MYR7.90,N/A,N/A
+392,serai-thai,Menu Nasi,Nasi Goreng Padkapau,Dish Description not available,MYR7.90,N/A,N/A
+393,serai-thai,Menu Nasi,Nasi Goreng Padprik,Dish Description not available,MYR7.90,N/A,N/A
+394,serai-thai,Menu Nasi,Nasi Goreng Udang,Dish Description not available,MYR7.90,N/A,N/A
+395,serai-thai,Menu Nasi,Nasi Goreng Sotong,Dish Description not available,MYR7.90,N/A,N/A
+396,serai-thai,Menu Nasi,Nasi Goreng USA,Dish Description not available,MYR9.30,N/A,N/A
+397,serai-thai,Menu Nasi,Nasi Goreng Daging BlackPepper,Dish Description not available,MYR7.90,N/A,N/A
+398,serai-thai,Menu Nasi,Nasi Goreng Daging Pedas,Dish Description not available,MYR7.90,N/A,N/A
+399,serai-thai,Menu Nasi,Nasi Goreng Special,Dish Description not available,MYR9.30,N/A,N/A
+400,serai-thai,Menu Nasi,Nasi Goreng Ayam Merah,Dish Description not available,MYR7.90,N/A,N/A
+401,serai-thai,Menu Nasi,Nasi Goreng Daging Osyter,Dish Description not available,MYR7.90,N/A,N/A
+402,serai-thai,Minuman,Sirap,Dish Description not available,MYR1.50,N/A,N/A
+403,serai-thai,Minuman,Sirap Limau,Dish Description not available,MYR2.20,from N/A,N/A
+404,serai-thai,Minuman,Sirap Bandung,Dish Description not available,MYR2.20,from N/A,N/A
+405,serai-thai,Minuman,Horlicks,Dish Description not available,MYR3.50,N/A,N/A
+406,serai-thai,Minuman,Barli Limau,Dish Description not available,MYR2.20,from N/A,N/A
+407,serai-thai,Minuman,Limau,Dish Description not available,MYR2.20,from N/A,N/A
+408,serai-thai,Minuman,Cincau,Dish Description not available,MYR2.20,N/A,N/A
+409,serai-thai,Minuman,Jagung,Dish Description not available,MYR2.50,N/A,N/A
+410,serai-thai,Minuman,Teh,Dish Description not available,MYR2.50,N/A,N/A
+411,serai-thai,Minuman,Teh Halia,Dish Description not available,MYR2.80,N/A,N/A
+412,serai-thai,Minuman,Teh O,Dish Description not available,MYR2.00,N/A,N/A
+413,serai-thai,Minuman,Teh O Limau,Dish Description not available,MYR2.50,N/A,N/A
+414,serai-thai,Minuman,Bandung Cincau,Dish Description not available,MYR3.20,N/A,N/A
+415,serai-thai,Minuman,Kopi,Dish Description not available,MYR2.50,N/A,N/A
+416,serai-thai,Minuman,Neslo,Dish Description not available,MYR4.00,N/A,N/A
+417,serai-thai,Minuman,Milo,Dish Description not available,MYR3.50,N/A,N/A
+418,serai-thai,Minuman,Nescafe,Dish Description not available,MYR3.50,N/A,N/A
+419,serai-thai,Minuman,Limau Asam Boi,Dish Description not available,MYR3.00,N/A,N/A
+420,serai-thai,Minuman,Barli,Dish Description not available,MYR1.80,N/A,N/A
+421,serai-thai,Minuman,Jagung Cincau,Dish Description not available,MYR2.40,N/A,N/A
+422,serai-thai,Minuman,Extra Joss Anggur,Dish Description not available,MYR3.00,N/A,N/A
+423,serai-thai,Fresh Juices,Jus Apple,Dish Description not available,MYR4.00,N/A,N/A
+424,serai-thai,Fresh Juices,Apple Asam Boi,Dish Description not available,MYR4.50,N/A,N/A
+425,serai-thai,Fresh Juices,Jus Oren,Dish Description not available,MYR4.20,N/A,N/A
+426,serai-thai,Fresh Juices,Carrot Milk,Dish Description not available,MYR4.00,N/A,N/A
+427,serai-thai,Fresh Juices,Teh O Laici,Dish Description not available,MYR3.80,N/A,N/A
+428,mama-nasi-ayam-lebuh-nipah-kompleks-makanan-lebuh-nipah,Nasi,Nasi Ayam,Dish Description not available,MYR7.40,N/A,N/A
+429,mama-nasi-ayam-lebuh-nipah-kompleks-makanan-lebuh-nipah,Nasi,Nasi Goreng Ayam Tokwan,Dish Description not available,MYR7.40,N/A,N/A
+430,mama-nasi-ayam-lebuh-nipah-kompleks-makanan-lebuh-nipah,Nasi,Nasi Goreng Ikan Masin,Dish Description not available,MYR7.40,N/A,N/A
+431,mama-nasi-ayam-lebuh-nipah-kompleks-makanan-lebuh-nipah,Sup,Bihun Sup Ayam,Dish Description not available,MYR7.40,N/A,N/A
+432,mama-nasi-ayam-lebuh-nipah-kompleks-makanan-lebuh-nipah,Sup,Moi Sup + Telur Masin,Dish Description not available,MYR5.90,N/A,N/A
+433,mama-nasi-ayam-lebuh-nipah-kompleks-makanan-lebuh-nipah,KUIH,Samosa Ubi Kari (4pcs),Dish Description not available,MYR3.00,N/A,N/A
+434,koboyashi-japanese-cuisine,Mains,Seafood Teppanyaki,With soup and vegetable of the day,MYR16.90,N/A,N/A
+435,koboyashi-japanese-cuisine,Mains,Unagi Tei,Dish Description not available,MYR26.50,N/A,N/A
+436,koboyashi-japanese-cuisine,Mains,Salmon Teriyaki,Dish Description not available,MYR13.50,N/A,N/A
+437,koboyashi-japanese-cuisine,Mains,Sakana Teriyaki,Dish Description not available,MYR8.30,N/A,N/A
+438,koboyashi-japanese-cuisine,Mains,Tori Teriyaki,Dish Description not available,MYR8.30,N/A,N/A
+439,koboyashi-japanese-cuisine,Mains,Oyakodon,Dish Description not available,MYR8.30,N/A,N/A
+440,koboyashi-japanese-cuisine,Mains,Tori Katsu Kare Chicken,Dish Description not available,MYR8.30,N/A,N/A
+441,koboyashi-japanese-cuisine,Mains,Tori Katsui Chicken,Dish Description not available,MYR8.30,N/A,N/A
+442,koboyashi-japanese-cuisine,Mains,Sakana Tei Fish,Dish Description not available,MYR8.30,N/A,N/A
+443,koboyashi-japanese-cuisine,Mains,Japanese Curry Chicken,Dish Description not available,MYR8.30,N/A,N/A
+444,koboyashi-japanese-cuisine,Mains,Tori Shogayaki,Dish Description not available,MYR8.30,N/A,N/A
+445,koboyashi-japanese-cuisine,Mains,Teppanyaki Chicken,Dish Description not available,MYR9.80,N/A,N/A
+446,koboyashi-japanese-cuisine,Mains,Teppanyaki Fried Rice,Dish Description not available,MYR5.60,N/A,N/A
+447,koboyashi-japanese-cuisine,Mains,Zosui Porridge,Choices of chicken or fish,MYR5.60,N/A,N/A
+448,koboyashi-japanese-cuisine,Mains,Yaki Udon,Dish Description not available,MYR6.30,N/A,N/A
+449,koboyashi-japanese-cuisine,Mains,Yaki Ramen,Dish Description not available,MYR6.30,N/A,N/A
+450,koboyashi-japanese-cuisine,Mains,Nabeyaki Udon,Dish Description not available,MYR6.30,N/A,N/A
+451,koboyashi-japanese-cuisine,Mains,Nabeyaki Ramen,Dish Description not available,MYR6.30,N/A,N/A
+452,koboyashi-japanese-cuisine,Mains,Kare Udon,Dish Description not available,MYR9.80,N/A,N/A
+453,koboyashi-japanese-cuisine,Mains,Sukiyaki,Dish Description not available,MYR6.90,N/A,N/A
+454,koboyashi-japanese-cuisine,Mains,Chicken Roll,Dish Description not available,MYR6.90,N/A,N/A
+455,yong-tau-foo-curry-chee-cheong-fun-wei-yi-unique-cafe,Mains,Yong Tau Foo with Yam Rice,1 Set,MYR10.30,N/A,N/A
+456,yong-tau-foo-curry-chee-cheong-fun-wei-yi-unique-cafe,Mains,Yong Tau Foo with Noodles,1 Set,MYR10.30,N/A,N/A
+457,yong-tau-foo-curry-chee-cheong-fun-wei-yi-unique-cafe,Mains,Curry Chee Cheong Fun,Dish Description not available,MYR5.20,from N/A,N/A
+458,nald-s,Value Meals,Sambal Scrambled Egg Sandwich Breakfast Meal,Dish Description not available,MYR9.91,from N/A,N/A
+459,nald-s,Value Meals,Sambal Sausage Scrambled Egg Sandwich Breakfast Meal,Dish Description not available,MYR11.32,from N/A,N/A
+460,nald-s,Value Meals,Sambal Crispy Chicken Scrambled Egg Sandwich Breakfast Meal,Dish Description not available,MYR11.32,from N/A,N/A
+461,nald-s,Value Meals,Nasi Lemak McD,Dish Description not available,MYR7.55,from N/A,N/A
+462,nald-s,Value Meals,Crispy Chicken & Scrambled Egg Sandwich Breakfast Meal,Dish Description not available,MYR11.32,from N/A,N/A
+463,nald-s,Value Meals,Scrambled Egg Sandwich Breakfast Meal,Dish Description not available,MYR9.91,from N/A,N/A
+464,nald-s,Value Meals,Sausage Scrambled Egg Sandwich Breakfast Meal,Dish Description not available,MYR11.32,from N/A,N/A
+465,nald-s,Value Meals,Sausage McMuffin Breakfast Meal,Dish Description not available,MYR10.85,from N/A,N/A
+466,nald-s,Value Meals,Sausage McMuffin with Egg Breakfast Meal,Dish Description not available,MYR11.79,from N/A,N/A
+467,nald-s,Value Meals,Double Sausage McMuffin with Egg Breakfast Meal,Dish Description not available,MYR13.21,from N/A,N/A
+468,nald-s,Value Meals,Crispy Chicken McMuffin Breakfast Meal,Dish Description not available,MYR11.79,from N/A,N/A
+469,nald-s,Value Meals,Crispy Chicken McMuffin with Egg Breakfast Meal,Dish Description not available,MYR12.74,from N/A,N/A
+470,nald-s,Value Meals,2pcs Hot Cakes Breakfast Meal,Dish Description not available,MYR14.15,from N/A,N/A
+471,nald-s,Value Meals,Big Breakfast Breakfast Meal,Dish Description not available,MYR14.62,from N/A,N/A
+472,nald-s,Value Meals,Small Bubur Ayam Breakfast Meal,Dish Description not available,MYR10.38,from N/A,N/A
+473,nald-s,McCafe Coffee & Cake Combo,Iced Latte (M) + Belgium Chocolate,Dish Description not available,MYR12.25,N/A,N/A
+474,nald-s,McCafe Coffee & Cake Combo,Hot Latte (S) + Belgium Chocolate,Dish Description not available,MYR12.25,N/A,N/A
+475,nald-s,McCafe Coffee & Cake Combo,Iced Latte (M) + Classic Cheesecake,Dish Description not available,MYR12.25,N/A,N/A
+476,nald-s,McCafe Coffee & Cake Combo,Hot Latte (S) + Classic Cheesecake,Dish Description not available,MYR12.25,N/A,N/A
+477,nald-s,McCafe Coffee & Cake Combo,Iced Latte (M) + Red Velvet Cake,Dish Description not available,MYR12.25,N/A,N/A
+478,nald-s,McCafe Coffee & Cake Combo,Hot Latte (S)+ Red Velvet Cake,Dish Description not available,MYR12.25,N/A,N/A
+479,nald-s,McCafe Coffee & Cake Combo,Iced Latte (M) + Cookies & Cream Cheesecake,Dish Description not available,MYR12.25,N/A,N/A
+480,nald-s,McCafe Coffee & Cake Combo,Iced Americano (M)+ Cookies & Cream Cheesecake,Dish Description not available,MYR12.25,N/A,N/A
+481,nald-s,McCafe Coffee & Cake Combo,Hot Americano (M) + Cookies & Cream Cheesecake,Dish Description not available,MYR12.25,N/A,N/A
+482,nald-s,McCafe Coffee & Cake Combo,Hot Latte (S) + Cookies & Cream Cheesecake,Dish Description not available,MYR12.25,N/A,N/A
+483,nald-s,McCafe Cakes,Banana Walnut Muffin,Dish Description not available,MYR6.13,N/A,N/A
+484,nald-s,McCafe Cakes,Double Chocolate Muffin,Dish Description not available,MYR6.13,N/A,N/A
+485,nald-s,McCafe Cakes,Belgium Chocolate Cake,Dish Description not available,MYR11.31,N/A,N/A
+486,nald-s,McCafe Cakes,Chocolate Lava Cake,Dish Description not available,MYR11.31,N/A,N/A
+487,nald-s,McCafe Cakes,Classic Cheese Cake,Dish Description not available,MYR11.31,N/A,N/A
+488,nald-s,McCafe Cakes,Cookies and Cream Cheese Cake,Dish Description not available,MYR11.31,N/A,N/A
+489,nald-s,McCafe Cakes,Red Velvet Cake,Dish Description not available,MYR11.31,N/A,N/A
+490,nald-s,McCafe Drinks,Large Iced Blended Mocha Oreo,Dish Description not available,MYR13.68,N/A,N/A
+491,nald-s,McCafe Drinks,Medium Iced Blended Mocha Oreo,Dish Description not available,MYR12.74,N/A,N/A
+492,nald-s,McCafe Drinks,Large Iced Blended Chocolate Oreo,Dish Description not available,MYR13.68,N/A,N/A
+493,nald-s,McCafe Drinks,Medium Iced Blended Chocolate Oreo,Dish Description not available,MYR12.74,N/A,N/A
+494,nald-s,McCafe Drinks,Large Iced Chocolate Oreo,Dish Description not available,MYR13.20,N/A,N/A
+495,nald-s,McCafe Drinks,Medium Iced Chocolate Oreo,Dish Description not available,MYR12.25,N/A,N/A
+496,nald-s,McCafe Drinks,Large Ice Blended Mocha,Dish Description not available,MYR12.08,N/A,N/A
+497,nald-s,McCafe Drinks,Medium Ice Blended Mocha,Dish Description not available,MYR11.13,N/A,N/A
+498,nald-s,McCafe Drinks,Large Ice Blended Chocolate,Dish Description not available,MYR12.08,N/A,N/A
+499,nald-s,McCafe Drinks,Medium Ice Blended Chocolate,Dish Description not available,MYR11.13,N/A,N/A
+500,nald-s,McCafe Drinks,Large Iced Latte,Dish Description not available,MYR9.91,N/A,N/A
+501,nald-s,McCafe Drinks,Medium Iced Latte,Dish Description not available,MYR8.96,N/A,N/A
+502,nald-s,McCafe Drinks,Large Iced Americano,Dish Description not available,MYR8.02,N/A,N/A
+503,nald-s,McCafe Drinks,Medium Iced Americano,Dish Description not available,MYR7.08,N/A,N/A
+504,nald-s,McCafe Drinks,Large Iced Mocha,Dish Description not available,MYR10.85,N/A,N/A
+505,nald-s,McCafe Drinks,Medium Iced Mocha,Dish Description not available,MYR10.37,N/A,N/A
+506,nald-s,McCafe Drinks,Large Iced Chocolate,Dish Description not available,MYR10.85,N/A,N/A
+507,nald-s,McCafe Drinks,Medium Iced Chocolate,Dish Description not available,MYR10.37,N/A,N/A
+508,nald-s,McCafe Drinks,Large Latte,Dish Description not available,MYR9.42,N/A,N/A
+509,nald-s,McCafe Drinks,Medium Latte,Dish Description not available,MYR8.48,N/A,N/A
+510,nald-s,McCafe Drinks,Small Latte,Dish Description not available,MYR7.54,N/A,N/A
+511,nald-s,McCafe Drinks,Large Americano,Dish Description not available,MYR7.54,N/A,N/A
+512,nald-s,McCafe Drinks,Medium Americano,Dish Description not available,MYR6.59,N/A,N/A
+513,nald-s,McCafe Drinks,Small Americano,Dish Description not available,MYR5.65,N/A,N/A
+514,nald-s,McCafe Drinks,Large Cappuccino,Dish Description not available,MYR9.42,N/A,N/A
+515,nald-s,McCafe Drinks,Medium Cappuccino,Dish Description not available,MYR8.48,N/A,N/A
+516,nald-s,McCafe Drinks,Small Cappuccino,Dish Description not available,MYR7.54,N/A,N/A
+517,nald-s,McCafe Drinks,Large Flat White,Dish Description not available,MYR9.42,N/A,N/A
+518,nald-s,McCafe Drinks,Medium Flat White,Dish Description not available,MYR8.48,N/A,N/A
+519,nald-s,McCafe Drinks,Small Flat White,Dish Description not available,MYR7.54,N/A,N/A
+520,nald-s,Sides,Hash Brown,Dish Description not available,MYR4.53,from N/A,N/A
+521,nald-s,Desserts,Chocolate Brownie McFlurry,Dish Description not available,MYR7.08,N/A,N/A
+522,nald-s,Desserts,Double Chocolate Oreo McFlurry,Dish Description not available,MYR7.08,N/A,N/A
+523,nald-s,Desserts,Oreo McFlurry,Dish Description not available,MYR6.60,N/A,N/A
+524,nald-s,Desserts,Chocolate Sundae,Dish Description not available,MYR4.53,from N/A,N/A
+525,nald-s,Desserts,Strawberry Sundae,Dish Description not available,MYR4.53,from N/A,N/A
+526,nald-s,Beverages,Large Prosperity McFizz,Dish Description not available,MYR6.60,N/A,N/A
+527,nald-s,Beverages,Medium Prosperity McFizz,Dish Description not available,MYR5.66,N/A,N/A
+528,nald-s,Beverages,Large Orange Juice,Dish Description not available,MYR7.08,N/A,N/A
+529,nald-s,Beverages,Medium Orange Juice,Dish Description not available,MYR6.13,N/A,N/A
+530,nald-s,Beverages,Small Orange Juice,Dish Description not available,MYR4.53,N/A,N/A
+531,nald-s,Beverages,Medium Tea,Dish Description not available,MYR5.66,N/A,N/A
+532,nald-s,Beverages,Small Tea,Dish Description not available,MYR4.72,N/A,N/A
+533,nald-s,Beverages,Small Hot Teh Tarik,Dish Description not available,MYR4.72,N/A,N/A
+534,nald-s,Beverages,Medium Hot Milo,Dish Description not available,MYR5.66,N/A,N/A
+535,nald-s,Beverages,Small Hot Milo,Dish Description not available,MYR4.53,N/A,N/A
+536,nald-s,Beverages,Large Coca-Cola,Dish Description not available,MYR5.66,N/A,N/A
+537,nald-s,Beverages,Medium Coca-Cola,Dish Description not available,MYR4.53,N/A,N/A
+538,nald-s,Beverages,Small Coca-Cola,Dish Description not available,MYR3.58,N/A,N/A
+539,nald-s,Beverages,Large Sprite,Dish Description not available,MYR5.66,N/A,N/A
+540,nald-s,Beverages,Medium Sprite,Dish Description not available,MYR4.53,N/A,N/A
+541,nald-s,Beverages,Small Sprite,Dish Description not available,MYR3.58,N/A,N/A
+542,nald-s,Beverages,Large 100 Plus,Dish Description not available,MYR5.66,N/A,N/A
+543,nald-s,Beverages,Medium 100 Plus,Dish Description not available,MYR4.53,N/A,N/A
+544,nald-s,Beverages,Small 100 Plus,Dish Description not available,MYR3.58,N/A,N/A
+545,nald-s,Beverages,Large Iced Lemon Tea,Dish Description not available,MYR6.59,N/A,N/A
+546,nald-s,Beverages,Medium Iced Lemon Tea,Dish Description not available,MYR5.94,N/A,N/A
+547,nald-s,Beverages,Small Iced Lemon Tea,Dish Description not available,MYR3.58,N/A,N/A
+548,nald-s,Beverages,Large Iced Milo,Dish Description not available,MYR8.02,N/A,N/A
+549,nald-s,Beverages,Medium Iced Milo,Dish Description not available,MYR7.08,N/A,N/A
+550,nald-s,Beverages,Small Iced Milo,Dish Description not available,MYR4.53,N/A,N/A
+551,nald-s,Beverages,Bottled Water,Dish Description not available,MYR4.53,N/A,N/A
+552,nald-s,Happy Meals,HM Sausage McMuffin,Dish Description not available,MYR9.43,from N/A,N/A
+553,nald-s,Happy Meals,HM Bubur Ayam McD,Dish Description not available,MYR9.43,from N/A,N/A
+554,nald-s,Happy Meals,HM Hotcakes,Dish Description not available,MYR9.91,from N/A,N/A
+555,nald-s,Ala Carte,Sambal Scrambled Egg Sandwich,Dish Description not available,MYR7.08,from N/A,N/A
+556,nald-s,Ala Carte,Sambal Sausage Scrambled Egg Sandwich,Dish Description not available,MYR8.02,from N/A,N/A
+557,nald-s,Ala Carte,Sambal Crispy Chicken Scrambled Egg Sandwich,Dish Description not available,MYR8.02,from N/A,N/A
+558,nald-s,Ala Carte,Crispy Chicken & Scrambled Egg Sandwich,Dish Description not available,MYR7.55,from N/A,N/A
+559,nald-s,Ala Carte,Scrambled Egg Sandwich,Dish Description not available,MYR6.60,from N/A,N/A
+560,nald-s,Ala Carte,Sausage Scrambled Egg Sandwich,Dish Description not available,MYR7.55,from N/A,N/A
+561,nald-s,Ala Carte,Sausage McMuffin,Dish Description not available,MYR6.60,from N/A,N/A
+562,nald-s,Ala Carte,Sausage McMuffin with Egg,Dish Description not available,MYR7.55,from N/A,N/A
+563,nald-s,Ala Carte,Double Sausage McMuffin with Egg,Dish Description not available,MYR9.91,from N/A,N/A
+564,nald-s,Ala Carte,Crispy Chicken McMuffin,Dish Description not available,MYR7.55,from N/A,N/A
+565,nald-s,Ala Carte,Crispy Chicken Muffin with Egg,Dish Description not available,MYR8.49,from N/A,N/A
+566,nald-s,Ala Carte,2 pcs Hotcakes,Dish Description not available,MYR10.38,from N/A,N/A
+567,nald-s,Ala Carte,Big Breakfast,Dish Description not available,MYR10.85,from N/A,N/A
+568,nald-s,Ala Carte,Medium Bubur Ayam McD Ala Carte,Dish Description not available,MYR7.55,from N/A,N/A
+569,nald-s,Ala Carte,Small Bubur Ayam McD Ala Carte,Dish Description not available,MYR6.60,from N/A,N/A
+570,lucky-eatery-thai-food,Tom Yam,6. Tom Yam Seafood,Dish Description not available,MYR14.80,N/A,N/A
+571,lucky-eatery-thai-food,Tom Yam,7. White Tom Yam,Dish Description not available,MYR14.80,N/A,N/A
+572,lucky-eatery-thai-food,Mains,10. Mu Pat Pit,"Comes with rice, pork and fried egg on top",MYR10.30,N/A,N/A
+573,lucky-eatery-thai-food,Mains,11. Pat Kappao Siew Bak,"Comes with thai basil style cook with roasted pork, rice and fried egg on top",MYR10.30,N/A,N/A
+574,lucky-eatery-thai-food,Mains,12. Mu Fried Garlic,"Comes with fried garlic pork, rice and fried egg on top",MYR11.80,N/A,N/A
+575,lucky-eatery-thai-food,Mains,13. Pat Kappao Bak,"Comes with thai basil style cook with chicken or minced pork, rice and fried egg on top",MYR10.30,N/A,N/A
+576,lucky-eatery-thai-food,Mains,13. Pat Kappao Chicken,"Comes with thai basil style cook with chicken or minced pork, rice and fried egg on top",MYR10.30,N/A,N/A
+577,lucky-eatery-thai-food,Mains,14. Kailan Char Siew Bak,"Comes with stir fried kailan with roasted pork, rice and fried egg on top",MYR10.30,N/A,N/A
+578,lucky-eatery-thai-food,Mains,15. Phad Phed Fried Rice,With fried egg on top,MYR10.30,N/A,N/A
+579,lucky-eatery-thai-food,Mains,16. Thai Fried Rice,With fried egg on top,MYR10.30,N/A,N/A
+580,lucky-eatery-thai-food,Mains,17. Tom Yam Fried Rice,With fried egg on top,MYR10.30,N/A,N/A
+581,lucky-eatery-thai-food,Mains,18. Green Curry Fried Rice,With fried egg on top,MYR10.30,N/A,N/A
+582,lucky-eatery-thai-food,Mains,19. Tom Yam Fried Mee,Dish Description not available,MYR10.30,N/A,N/A
+583,lucky-eatery-thai-food,Mains,20. Pad Thai,Dish Description not available,MYR10.30,N/A,N/A
+584,lucky-eatery-thai-food,Mains,8. Phat Phet,"Comes with rice, chicken or pork and fried egg on top",MYR10.30,N/A,N/A
+585,lucky-eatery-thai-food,Mains,9. Phat Kiew Wan,"Comes with rice, chicken or pork in dry green curry style and fried egg on top",MYR10.30,N/A,N/A
+586,lucky-eatery-thai-food,Sides,1. Kerabu Chicken Leg,Dish Description not available,MYR14.80,N/A,N/A
+587,lucky-eatery-thai-food,Sides,2. Kerabu Seafood,Dish Description not available,MYR22.00,N/A,N/A
+588,lucky-eatery-thai-food,Sides,4. Kerabu Tubu,Kerabu with minced pork,MYR10.30,N/A,N/A
+589,lucky-eatery-thai-food,Sides,5. Som Tam,Thai style papaya salad,MYR10.30,N/A,N/A
+590,nasi-goreng-mek-yah,Nasi Goreng,Nasi Goreng Biasa,Dish Description not available,MYR7.40,from N/A,N/A
+591,nasi-goreng-mek-yah,Nasi Goreng,Nasi Goreng Special,Ayam goreng & telur mata,MYR14.70,from N/A,N/A
+592,nasi-goreng-mek-yah,Nasi Goreng,Nasi Goreng Daging,Dish Description not available,MYR8.80,from N/A,N/A
+593,nasi-goreng-mek-yah,Nasi Goreng,Nasi Goreng Ikan,Dish Description not available,MYR10.30,from N/A,N/A
+594,nasi-goreng-mek-yah,Nasi Goreng,Nasi Goreng Udang,Dish Description not available,MYR8.80,from N/A,N/A
+595,nasi-goreng-mek-yah,Nasi Goreng,Nasi Goreng Sotong,Dish Description not available,MYR8.80,from N/A,N/A
+596,nasi-goreng-mek-yah,Nasi Goreng,Nasi Goreng Kampung,Dish Description not available,MYR7.40,from N/A,N/A
+597,nasi-goreng-mek-yah,Nasi Goreng,Nasi Goreng Kampung & Telur,Dish Description not available,MYR8.80,from N/A,N/A
+598,nasi-goreng-mek-yah,Nasi Goreng,Nasi Goreng Cina,Dish Description not available,MYR8.80,from N/A,N/A
+599,nasi-goreng-mek-yah,Char Kuey Teow,Char Kuey Teow,Dish Description not available,MYR8.80,from N/A,N/A
+600,nasi-goreng-mek-yah,Char Kuey Teow,Char Kuey Teow Special,Udang & telur mata,MYR11.80,from N/A,N/A
+601,nasi-goreng-mek-yah,Char Kuey Teow,Kuey Teow Goreng Chinese Style,Dish Description not available,MYR8.80,from N/A,N/A
+602,cendol-bayan-lepas,Mains,Cendol,Dish Description not available,MYR3.60,N/A,N/A
+603,cendol-bayan-lepas,Mains,Cendol Pulut,Comes with cendol and pulut,MYR5.00,N/A,N/A
+604,cendol-bayan-lepas,Mains,Laici Kang,Dish Description not available,MYR5.00,N/A,N/A
+605,cendol-bayan-lepas,Mains,Air Batu Campur,"Comes with ais, kacang, susu and air gula",MYR5.00,N/A,N/A
+606,cendol-bayan-lepas,Mains,Air Batu Campur + Ais Krim,"Comes with ais, kacang, susu, air gula and ice cream",MYR6.50,N/A,N/A
+607,fayizah-makanan-laut,Seafood,Sotong Bakar,Chargrilled dried squid,MYR14.00,from N/A,N/A
+608,fayizah-makanan-laut,Seafood,Sotong Kangkung,Cuttlefish with water convolvulus,MYR12.00,from N/A,N/A
+609,fayizah-makanan-laut,Seafood,Kerang Bakar,Grilled cockles,MYR16.00,N/A,N/A
+610,fayizah-makanan-laut,Seafood,Kerang Rebus,Boiled cockles,MYR16.00,N/A,N/A
+611,pretty-good-rice-dish-set,Super Value Rice Set,Kam Heong Rice Set with Fried Egg,Dish Description not available,MYR12.00,from N/A,N/A
+612,pretty-good-rice-dish-set,Super Value Rice Set,"“Guai Wei"" Rice Set with Fried Egg",Dish Description not available,MYR12.00,from N/A,N/A
+613,pretty-good-rice-dish-set,Super Value Rice Set,Gong Pao Rice Set with Fried Egg,Dish Description not available,MYR12.00,from N/A,N/A
+614,pretty-good-rice-dish-set,Super Value Rice Set,Rice Butter Set with Fried Egg,Dish Description not available,MYR12.00,from N/A,N/A
+615,pretty-good-rice-dish-set,Super Value Rice Set,Sweet and Sour Rice Set with Fried Egg,Dish Description not available,MYR12.00,from N/A,N/A
+616,pretty-good-rice-dish-set,Super Value Rice Set,Sambal Rice Set with Fried Egg,Dish Description not available,MYR12.00,from N/A,N/A
+617,pretty-good-rice-dish-set,Super Value Rice Set,Three Mixed Flavor Rice Set with Fried Egg,Dish Description not available,MYR12.00,from N/A,N/A
+618,pretty-good-rice-dish-set,Super Value Rice Set,Tomyam Rice Set with Fried Egg,Dish Description not available,MYR12.00,from N/A,N/A
+619,pretty-good-rice-dish-set,Super Value Rice Set,Pork Ribs King with Fried Egg,Dish Description not available,MYR12.00,from N/A,N/A
+620,pretty-good-rice-dish-set,Super Value Rice Set,Balacan Chicken with Rice and Fried Egg,Dish Description not available,MYR12.00,from N/A,N/A
+621,authentic-vietnamese-cuisine,Mains,Chicken Glass Noodles Soup,Dish Description not available,MYR10.30,N/A,N/A
+622,authentic-vietnamese-cuisine,Mains,Vietnamese Fried RIce,Dish Description not available,MYR10.30,N/A,N/A
+623,authentic-vietnamese-cuisine,Mains,Beef Bihun Soup,Dish Description not available,MYR14.70,N/A,N/A
+624,authentic-vietnamese-cuisine,Mains,Vietnamese Barbeque Pork Rice,Dish Description not available,MYR10.30,N/A,N/A
+625,authentic-vietnamese-cuisine,Mains,Pork Knuckle Bihun Soup,Dish Description not available,MYR10.30,N/A,N/A
+626,authentic-vietnamese-cuisine,Mains,Seafood Soup,Dish Description not available,MYR10.30,N/A,N/A
+627,authentic-vietnamese-cuisine,Mains,Vietnamese Barbeque Pork Bihun,Dry,MYR10.30,N/A,N/A
+628,authentic-vietnamese-cuisine,Mains,Pork Sandwich,Dish Description not available,MYR10.30,N/A,N/A
+629,authentic-vietnamese-cuisine,Mains,Vietnamese Spring Roll,1 Roll,MYR3.00,N/A,N/A
+630,ng-fried-chicken-western-food,Western Set,1.Spring Chicken Set,Whole chicken with coleslaw and French fries,MYR20.00,N/A,N/A
+631,ng-fried-chicken-western-food,Western Set,2.Fried Whole Chicken Leg Set,Fried whole chicken leg with coleslaw and French fries,MYR11.00,N/A,N/A
+632,ng-fried-chicken-western-food,Western Set,3.Fried Fish & Chips Set,Fried fish with coleslaw and French fries,MYR11.00,N/A,N/A
+633,ng-fried-chicken-western-food,Western Set,4.Fried Chicken Cutlet Set,Fried chicken cutlet with coleslaw and French fries,MYR11.00,N/A,N/A
+634,ng-fried-chicken-western-food,Western Set,5.Happiness Plate Set,3 Pcs of fried chicken with coleslaw and French fries,MYR16.00,N/A,N/A
+635,ng-fried-chicken-western-food,Western Set,6.Grilled Chicken Chop Set,Grilled chicken chop with coleslaw and French fries,MYR11.00,N/A,N/A
+636,ng-fried-chicken-western-food,Western Set,7.Fried Chicken Wing Set,2 Pcs of fried chicken with coleslaw and French fries,MYR9.00,N/A,N/A
+637,ng-fried-chicken-western-food,Rice Set,8.Fried Chicken Cutlet with Rice,Fried chicken cutlet with coleslaw and rice,MYR11.00,N/A,N/A
+638,ng-fried-chicken-western-food,Rice Set,9.Fried Chicken Wing with Rice,2 pcs of fried chicken wings with coleslaw and rice,MYR9.00,N/A,N/A
+639,ng-fried-chicken-western-food,Rice Set,10.Fried Fish & Chips with Rice,Fried fish with coleslaw and rice,MYR11.00,N/A,N/A
+640,ng-fried-chicken-western-food,Rice Set,11.Half Spring Chicken with Rice,Fried half chicken with coleslaw and rice,MYR11.00,N/A,N/A
+641,ng-fried-chicken-western-food,Rice Set,12.Grilled Chicken Chop with Rice,Grilled chicken chop with coleslaw and rice,MYR11.00,N/A,N/A
+642,ng-fried-chicken-western-food,Rice Set,13.Fried Whole Chicken Leg with Rice,Fried whole chicken leg with coleslaw and rice,MYR11.00,N/A,N/A
+643,ng-fried-chicken-western-food,Rice Set,14.Double Slice Chicken with Rice,2 pcs of fried chicken with coleslaw and rice,MYR11.00,N/A,N/A
+644,ng-fried-chicken-western-food,Rice Set,15.Popcorn Chicken with Rice,Popcorn chicken with coleslaw and rice,MYR9.00,N/A,N/A
+645,ng-fried-chicken-western-food,Pasta Set,16.Half Spring Chicken with Pasta,Dish Description not available,MYR13.90,N/A,N/A
+646,ng-fried-chicken-western-food,Pasta Set,17.Fried Chicken Cutlet with Pasta,Dish Description not available,MYR13.90,N/A,N/A
+647,ng-fried-chicken-western-food,Pasta Set,18.Grilled Chicken Chop with Pasta,Dish Description not available,MYR13.90,N/A,N/A
+648,ng-fried-chicken-western-food,Pasta Set,19.Seafood Pasta,Dish Description not available,MYR13.90,N/A,N/A
+649,ng-fried-chicken-western-food,Pasta Set,20.Fried Chicken Whole Leg with Pasta,Dish Description not available,MYR13.90,N/A,N/A
+650,ng-fried-chicken-western-food,Pasta Set,21.Double Slice Chicken with Pasta,2 pcs of fried chicken with pasta,MYR13.90,N/A,N/A
+651,ng-fried-chicken-western-food,Pasta Set,22.Grilled Fish with Pasta,Dish Description not available,MYR13.90,N/A,N/A
+652,ng-fried-chicken-western-food,Snacks,24.French Fries,Dish Description not available,MYR4.50,N/A,N/A
+653,ng-fried-chicken-western-food,Snacks,25.Fried Popcorn Chicken,Dish Description not available,MYR9.00,N/A,N/A
+654,ng-fried-chicken-western-food,Snacks,26.Cheese Fries,Dish Description not available,MYR9.00,N/A,N/A
+655,ng-fried-chicken-western-food,Snacks,27.Cheese Popcorn Chicken,Dish Description not available,MYR11.00,N/A,N/A
+656,ng-fried-chicken-western-food,Snacks,28.Happy Chicken Nuggets,Dish Description not available,MYR11.00,N/A,N/A
+657,yahaya-mee-udang,Mee Goreng,Mee Jawa,Dish Description not available,MYR7.40,from MYR6.29,N/A
+658,yahaya-mee-udang,Mee Goreng,Bihun Jawa,Dish Description not available,MYR7.40,from MYR6.29,N/A
+659,yahaya-mee-udang,Mee Goreng,Koay Teow Jawa,Dish Description not available,MYR7.40,from MYR6.29,N/A
+660,yahaya-mee-udang,Mee Goreng,Mee Goreng,Dish Description not available,MYR7.40,from MYR6.29,N/A
+661,yahaya-mee-udang,Mee Goreng,Bihun Goreng,Dish Description not available,MYR7.40,from MYR6.29,N/A
+662,yahaya-mee-udang,Mee Goreng,Koay Teow Goreng,Dish Description not available,MYR7.40,from MYR6.29,N/A
+663,yahaya-mee-udang,Mee Goreng,Mee Bandung,Dish Description not available,MYR7.40,from MYR6.29,N/A
+664,yahaya-mee-udang,Mee Goreng,Mee Udang,Dish Description not available,MYR10.00,MYR8.50,N/A
+665,yahaya-mee-udang,Mee Goreng,Mee Goreng Udang,Dish Description not available,MYR14.90,MYR12.66,N/A
+666,yahaya-mee-udang,Nasi Goreng,Nasi Goreng Udang,Dish Description not available,MYR14.90,MYR12.66,N/A
+667,yahaya-mee-udang,Nasi Goreng,Nasi Goreng Ayam,Dish Description not available,MYR8.20,MYR6.97,N/A
+668,yahaya-mee-udang,Nasi Goreng,Nasi Goreng Kampung,Dish Description not available,MYR7.40,MYR6.29,N/A
+669,yahaya-mee-udang,Nasi Goreng,Nasi Goreng Cina,Dish Description not available,MYR7.40,MYR6.29,N/A
+670,yahaya-mee-udang,Nasi Goreng,Nasi Goreng Telur,Dish Description not available,MYR7.40,from MYR6.29,N/A
+671,yahaya-mee-udang,Nasi Goreng,Nasi Goreng Ikan Masin,Dish Description not available,MYR7.40,MYR6.29,N/A
+672,yahaya-mee-udang,Nasi Goreng,Nasi Goreng Daging,Dish Description not available,MYR7.40,MYR6.29,N/A
+673,doraemon-cafe,Beverages,Long Black,Dish Description not available,MYR7.00,from N/A,N/A
+674,doraemon-cafe,Beverages,Caffe Latte,Dish Description not available,MYR7.00,from N/A,N/A
+675,doraemon-cafe,Beverages,Caffe Mocha,Dish Description not available,MYR9.00,from N/A,N/A
+676,shen-huat-hokkien-mee-laksa,Hokkien Mee and Loh Mee,Hokkien Mee 福建麵,Dish Description not available,MYR6.50,from N/A,N/A
+677,shen-huat-hokkien-mee-laksa,Hokkien Mee and Loh Mee,Hokkien And Loh Mee福建鹵麵,Dish Description not available,MYR6.50,from N/A,N/A
+678,shen-huat-hokkien-mee-laksa,Hokkien Mee and Loh Mee,Loh Mee鹵麵,Dish Description not available,MYR6.50,from N/A,N/A
+679,shen-huat-hokkien-mee-laksa,Sides,Egg 雞蛋,Dish Description not available,MYR1.80,N/A,N/A
+680,shen-huat-hokkien-mee-laksa,Sides,Pork Intestine 粉腸,Dish Description not available,MYR1.50,N/A,N/A
+681,shen-huat-hokkien-mee-laksa,Sides,Poke Skin 豬皮,Dish Description not available,MYR0.80,N/A,N/A
+682,shen-huat-hokkien-mee-laksa,Sides,Meat 豬肉,Dish Description not available,MYR1.50,N/A,N/A
+683,shen-huat-hokkien-mee-laksa,Sides,Prawn 蝦,Dish Description not available,MYR2.90,N/A,N/A
+684,shen-huat-hokkien-mee-laksa,Sides,Pork Ribs 排骨,Dish Description not available,MYR2.90,N/A,N/A
+685,chiak-pan-mee,Noodles,Pan Mee,Dish Description not available,MYR5.80,from N/A,N/A
+686,chiak-pan-mee,Noodles,Mala Pan Mee,Dish Description not available,MYR7.20,from N/A,N/A
+687,chiak-pan-mee,Noodles,Tomyam Pan Mee,Dish Description not available,MYR7.20,from N/A,N/A
+688,qi-wen-wan-than-mee,Noodles,Wan Tan Mee,Dish Description not available,MYR6.40,from N/A,N/A
+689,qi-wen-wan-than-mee,Noodles,Wan Tan Ee Mee,Dish Description not available,MYR6.40,from N/A,N/A
+690,qi-wen-wan-than-mee,Noodles,Wan Tan La Mee,Dish Description not available,MYR6.40,from N/A,N/A
+691,qi-wen-wan-than-mee,Noodles,Wan Tan Soup,Dish Description not available,MYR6.40,N/A,N/A
+692,qi-wen-wan-than-mee,Noodles,Fried Wan Tan,10 Pcs,MYR6.40,N/A,N/A
+693,ect-banana-cheese,Pisang Cheese,The Original Pisang Cheese,Dish Description not available,MYR8.80,N/A,N/A
+694,ect-banana-cheese,Pisang Cheese,Devil's Chocolate Pisang Cheese,Dish Description not available,MYR10.30,N/A,N/A
+695,ect-banana-cheese,Pisang Cheese,The Caramelicious Pisang Cheese,Dish Description not available,MYR10.30,N/A,N/A
+696,ect-banana-cheese,Pisang Cheese,Oreo Mania Pisang Cheese,Dish Description not available,MYR10.30,N/A,N/A
+697,ect-banana-cheese,Pisang Cheese,Snowy White Chocolate Pisang Cheese,Dish Description not available,MYR10.30,N/A,N/A
+698,ect-banana-cheese,Pisang Cheese,Peanut Walla Pisang Cheese,Dish Description not available,MYR11.80,N/A,N/A
+699,ect-banana-cheese,Pisang Cheese,Milo Ola Pisang Cheese,Dish Description not available,MYR11.80,N/A,N/A
+700,ect-banana-cheese,Pisang Cheese,Nutella Awesome Pisang Cheese,Dish Description not available,MYR11.80,N/A,N/A
+701,ect-banana-cheese,Pisang Cheese,Nestum Volla Pisang Cheese,Dish Description not available,MYR11.80,N/A,N/A
+702,abang-misai-char-koay-teow,Dessert,ChoCoJaR,CocoCruch / Cornflakes / BubbleRice / Mix Cerial,MYR7.80,from MYR6.63,N/A
+703,abang-misai-char-koay-teow,Mains,Char Kuey Teow Biasa,"Koay Teow, udang, kerang, tauge and kuah",MYR6.50,MYR5.52,N/A
+704,abang-misai-char-koay-teow,Mains,Char Kuey Teow Besar,"Koay Teow, udang, kerang, tauge and kuah",MYR7.80,MYR6.63,N/A
+705,abang-misai-char-koay-teow,Mains,Char Kuey Teow Special,"Koay Teow, udang, kerang, tauge, telur and kuah",MYR8.80,MYR7.48,N/A
+706,abang-misai-char-koay-teow,Mains,Kuey Teow Goreng Cina Biasa,"Koay Teow, udang, kerang and tauge",MYR6.50,MYR5.52,N/A
+707,abang-misai-char-koay-teow,Mains,Kuey Teow Goreng Cina Besar,"Koay Teow, udang, kerang and tauge",MYR7.80,MYR6.63,N/A
+708,abang-misai-char-koay-teow,Mains,Kuey Teow Goreng Cina Special,"Koay Teow, udang, kerang, tauge and telur",MYR8.80,MYR7.48,N/A
+709,abang-misai-char-koay-teow,Mains,Nasi Goreng Udang,Nasi goreng and udang,MYR8.80,MYR7.48,N/A
+710,abang-misai-char-koay-teow,Mains,Char Maggie Biasa,Dish Description not available,MYR7.40,MYR6.29,N/A
+711,abang-misai-char-koay-teow,Mains,Char Maggie Besar,Dish Description not available,MYR8.90,MYR7.56,N/A
+712,abang-misai-char-koay-teow,Mains,Char Maggie Special,Dish Description not available,MYR10.30,MYR8.76,N/A
+713,abang-misai-char-koay-teow,Mains,Maggie Goreng Biasa,Dish Description not available,MYR7.40,MYR6.29,N/A
+714,abang-misai-char-koay-teow,Mains,Maggie Goreng Besar,Dish Description not available,MYR8.90,MYR7.56,N/A
+715,abang-misai-char-koay-teow,Mains,Maggie Goreng Special,Dish Description not available,MYR10.30,MYR8.76,N/A
+716,abang-misai-char-koay-teow,Mains,Nasi Goreng Biasa,Dish Description not available,MYR7.40,MYR6.29,N/A
+717,abang-misai-char-koay-teow,Mains,Nasi Goreng Ayam,Dish Description not available,MYR9.60,MYR8.16,N/A
+718,abang-misai-char-koay-teow,Mains,Nasi Goreng Kampung,Dish Description not available,MYR8.10,MYR6.88,N/A
+719,abang-misai-char-koay-teow,Mains,Kuey Teow Goreng Chicken Chop,Dish Description not available,MYR14.00,MYR11.90,N/A
+720,abang-misai-char-koay-teow,Western,1. Chicken Chop,"Ayam, coleslaw, salad, fries with black pepper sos",MYR10.00,MYR8.50,N/A
+721,abang-misai-char-koay-teow,Western,2. Lamb Chop,"Lamb, coleslaw, salad, fries with black pepper sos",MYR15.90,MYR13.52,N/A
+722,abang-misai-char-koay-teow,Western,3. Nasi Goreng Chicken Chop,"Nasi goreng , ayam, coleslaw, salad, fries with black pepper sos",MYR11.30,MYR9.60,N/A
+723,abang-misai-char-koay-teow,Western,4. Nasi Goreng Lamb Chop,"Nasi goreng , lamb, coleslaw, salad, fries with black pepper sos",MYR17.90,MYR15.22,N/A
+724,abang-misai-char-koay-teow,Sides,French Fries,Dish Description not available,MYR5.90,MYR5.02,N/A
+725,abang-misai-char-koay-teow,Air,Teh O Ais,Dish Description not available,MYR1.90,MYR1.62,N/A
+726,abang-misai-char-koay-teow,Air,Teh Ais,Dish Description not available,MYR2.30,MYR1.96,N/A
+727,abang-misai-char-koay-teow,Air,Kopi O Ais,Dish Description not available,MYR1.90,MYR1.62,N/A
+728,abang-misai-char-koay-teow,Air,Kopi Ais,Dish Description not available,MYR2.30,MYR1.96,N/A
+729,abang-misai-char-koay-teow,Air,Milo Ais,Dish Description not available,MYR3.30,MYR2.80,N/A
+730,abang-misai-char-koay-teow,Air,Lemon Ais,Dish Description not available,MYR3.00,MYR2.55,N/A
+731,abang-misai-char-koay-teow,Air,Limau Asam Boi Ais,Dish Description not available,MYR3.00,MYR2.55,N/A
+732,abang-misai-char-koay-teow,Air,Jagung Cincau Ais,Dish Description not available,MYR3.70,MYR3.14,N/A
+733,abang-misai-char-koay-teow,Air,Bandung Cincau Ais,Dish Description not available,MYR3.70,MYR3.14,N/A
+734,abang-misai-char-koay-teow,Air,Neslo Ais,Dish Description not available,MYR3.70,MYR3.14,N/A
+735,anjung-gurney-104-claypot-chicken-rice,Soup,D. Shark Fin Soup,Dish Description not available,MYR8.60,N/A,N/A
+736,anjung-gurney-104-claypot-chicken-rice,Rice,A. Curry Rice,Dish Description not available,MYR8.60,N/A,N/A
+737,anjung-gurney-104-claypot-chicken-rice,Rice,B. Hai Nam Chicken Rice,Dish Description not available,MYR8.60,N/A,N/A
+738,anjung-gurney-104-claypot-chicken-rice,Rice,C. Sweet & Sour Chicken Rice,Dish Description not available,MYR8.60,N/A,N/A
+739,anjung-gurney-104-claypot-chicken-rice,Rice,E. Claypot Chicken RIce,Dish Description not available,MYR8.60,N/A,N/A
+740,reframe-coffee-roasters,Beverages,Espresso,Dish Description not available,MYR8.00,N/A,N/A
+741,reframe-coffee-roasters,Beverages,Long Black,Dish Description not available,MYR8.00,N/A,N/A
+742,reframe-coffee-roasters,Beverages,Latte,Dish Description not available,MYR10.00,N/A,N/A
+743,reframe-coffee-roasters,Beverages,Cappuccino,Dish Description not available,MYR10.00,N/A,N/A
+744,reframe-coffee-roasters,Beverages,Flat White,Dish Description not available,MYR10.00,N/A,N/A
+745,reframe-coffee-roasters,Beverages,Chocolate,Dish Description not available,MYR10.00,N/A,N/A
+746,reframe-coffee-roasters,Beverages,Matcha Latte,Dish Description not available,MYR10.00,N/A,N/A
+747,reframe-coffee-roasters,Beverages,Chai Latte,Hot,MYR12.00,N/A,N/A
+748,reframe-coffee-roasters,Beverages,Mocha,Dish Description not available,MYR11.00,N/A,N/A
+749,reframe-coffee-roasters,Beverages,Mocha,Dish Description not available,MYR11.00,N/A,N/A
+750,pisa-corner-lim-wan-tan-mee,Others,Fried Wan Tan,10 Pcs,MYR6.50,N/A,N/A
+751,pisa-corner-lim-wan-tan-mee,Others,Wan Tan Soup,10 Pcs,MYR6.50,N/A,N/A
+752,pisa-corner-lim-wan-tan-mee,Others,Dumpling Soup,5 Pcs,MYR7.20,N/A,N/A
+753,pisa-corner-lim-wan-tan-mee,Noodles,Dry Wan Tan Mee,Dish Description not available,MYR6.50,from N/A,N/A
+754,pisa-corner-lim-wan-tan-mee,Noodles,Chicken Floss Wan Tan Mee,Dish Description not available,MYR6.50,from N/A,N/A
+755,pisa-corner-lim-wan-tan-mee,Noodles,Special Curry Wan Tan Mee,Dish Description not available,MYR6.50,from N/A,N/A
+756,pisa-corner-lim-wan-tan-mee,Noodles,Dry Hor Fun,Dish Description not available,MYR6.50,from N/A,N/A
+757,pisa-corner-lim-wan-tan-mee,Noodles,Wan Tan Mee Soup,Dish Description not available,MYR6.50,from N/A,N/A
+758,black-sugar-dynasty,Signature Devil's Series,D1. Devil's Milk,Dish Description not available,MYR12.50,from N/A,N/A
+759,black-sugar-dynasty,Signature Devil's Series,D2. Devil's Tea,Dish Description not available,MYR12.50,from N/A,N/A
+760,black-sugar-dynasty,Signature Devil's Series,D3. Devil's Coffee,Dish Description not available,MYR12.50,from N/A,N/A
+761,black-sugar-dynasty,Brown Sugar Series,B1. Original Brown Sugar,Dish Description not available,MYR5.90,N/A,N/A
+762,black-sugar-dynasty,Brown Sugar Series,B2. Pomelo & Lemon with Brown Sugar,Dish Description not available,MYR5.90,N/A,N/A
+763,black-sugar-dynasty,Brown Sugar Series,B3. Wintermelon with Brown Sugar,Dish Description not available,MYR5.90,N/A,N/A
+764,black-sugar-dynasty,Signature Milk Series,M1. Original Brown Sugar Grass Jelly with Milk,Dish Description not available,MYR8.50,N/A,N/A
+765,black-sugar-dynasty,Signature Milk Series,M2. Wintermelon Brown Sugar Sea Bird Nest with Milk,Dish Description not available,MYR8.50,N/A,N/A
+766,black-sugar-dynasty,Signature Milk Series,M3. Ginger Brown Sugar Grass Jelly with Milk,Dish Description not available,MYR8.50,N/A,N/A
+767,black-sugar-dynasty,Sea Bird Nest Series,S1. Original Sea Bird Nest,Dish Description not available,MYR6.50,N/A,N/A
+768,black-sugar-dynasty,Sea Bird Nest Series,S2. Pomelo & Lemon Sea Bird Nest,Dish Description not available,MYR6.50,N/A,N/A
+769,black-sugar-dynasty,Sea Bird Nest Series,S3. Wintermelon Sea Bird Nest,Dish Description not available,MYR6.50,N/A,N/A
+770,black-sugar-dynasty,Sea Bird Nest Series,S4. Cranberry Sea Bird Nest,Dish Description not available,MYR6.50,N/A,N/A
+771,black-sugar-dynasty,Hot Beverages,H1. Brown Sugar with Ginger,Dish Description not available,MYR5.90,N/A,N/A
+772,black-sugar-dynasty,Hot Beverages,"H2. Brown Sugar with Ginger, Jujube, Longan & Wolfberry","Served with ginger, jujube, longan & wolfberry",MYR5.90,N/A,N/A
+773,black-sugar-dynasty,Hot Beverages,H3. Brown Sugar with Rose & Siwu,Not advisable for pregnant ladies,MYR5.90,N/A,N/A
+774,black-sugar-dynasty,Boba Milk Tea Series,T1. Jasmine Milk Boba Tea,Dish Description not available,MYR8.50,N/A,N/A
+775,black-sugar-dynasty,Tea Lovers Series,J2. Jasmine Wintermelon Sea Bird Nest Tea,Dish Description not available,MYR8.50,N/A,N/A
+776,cube-coffee-alma,Beverages,Cube Coffee,12 Oz,MYR8.90,N/A,N/A
+777,cube-coffee-alma,Beverages,Cocoa Orea,12 Oz,MYR8.90,N/A,N/A
+778,cube-coffee-alma,Beverages,Cocoa Mint,12 Oz,MYR10.90,N/A,N/A
+779,cube-coffee-alma,Beverages,Espresso,12 Oz,MYR7.90,from N/A,N/A
+780,cube-coffee-alma,Beverages,Americano,12 Oz,MYR7.90,from N/A,N/A
+781,cube-coffee-alma,Beverages,Cappuccino,12 Oz,MYR7.90,from N/A,N/A
+782,cube-coffee-alma,Beverages,Latte,12 Oz,MYR7.90,from N/A,N/A
+783,cube-coffee-alma,Beverages,Mocha,12 Oz,MYR7.90,from N/A,N/A
+784,cube-coffee-alma,Beverages,Cocoa,12 Oz,MYR7.90,from N/A,N/A
+785,cube-coffee-alma,Beverages,Green Tea,12 Oz,MYR7.90,from N/A,N/A
+786,cube-coffee-alma,Ice Blended,Ice Blended Coffee Caramel,16 Oz,MYR10.90,N/A,N/A
+787,cube-coffee-alma,Ice Blended,Ice Blended with Cocoa,16 Oz,MYR10.90,N/A,N/A
+788,cube-coffee-alma,Ice Blended,Ice Blended Green Tea,16 Oz,MYR10.90,N/A,N/A
+789,cube-coffee-alma,Ice Blended,Ice Blended Cappuccino,16 Oz,MYR10.90,N/A,N/A
+790,cube-coffee-alma,Ice Blended,Ice Blended Mocha,16 Oz,MYR10.90,N/A,N/A
+791,restoran-pen-mutiara-batu-maung,Ala Carte,Sotong Goreng Tepung,Dish Description not available,MYR16.00,from N/A,N/A
+792,restoran-pen-mutiara-batu-maung,Ala Carte,Sotong Asam Kunyit,Dish Description not available,MYR16.00,from N/A,N/A
+793,restoran-pen-mutiara-batu-maung,Ala Carte,Udang Goreng Mentega,1 Pc,MYR8.00,N/A,N/A
+794,restoran-pen-mutiara-batu-maung,Ala Carte,Udang Sambal Tumis Petai,1 Pc,MYR8.00,N/A,N/A
+795,restoran-pen-mutiara-batu-maung,Ala Carte,Ayam Limau Rangup,Dish Description not available,MYR25.00,from N/A,N/A
+796,restoran-pen-mutiara-batu-maung,Ala Carte,Ayam Pandan,Dish Description not available,MYR25.00,from N/A,N/A
+797,restoran-pen-mutiara-batu-maung,Ala Carte,Ketam Masak Ala Thai,1 Pc,MYR15.00,N/A,N/A
+798,restoran-pen-mutiara-batu-maung,Ala Carte,Ketam Telur Masin,1 Pc,MYR15.00,N/A,N/A
+799,restoran-pen-mutiara-batu-maung,Ala Carte,Kepah Berlada,Dish Description not available,MYR13.00,from N/A,N/A
+800,restoran-pen-mutiara-batu-maung,Ala Carte,Kepah Halia,Dish Description not available,MYR13.00,from N/A,N/A
+801,restoran-pen-mutiara-batu-maung,Set Menu,Kari Kepala Ikan,Dish Description not available,MYR48.00,from N/A,N/A
+802,restoran-pen-mutiara-batu-maung,Set Menu,Ikan Asam Pedas,Dish Description not available,MYR48.00,from N/A,N/A
+803,restoran-pen-mutiara-batu-maung,Set Menu,Ikan Masak Lemak Cili Api,Dish Description not available,MYR48.00,from N/A,N/A
+804,ive,Popular Combos,All Day Breakfast Combo,Dish Description not available,MYR19.48,from N/A,N/A
+805,ive,Popular Combos,Lunch and Dinner Combo,Dish Description not available,MYR18.87,from N/A,N/A
+806,ive,Popular Combos,Hi Tea Combo,Dish Description not available,MYR10.92,from N/A,N/A
+807,ive,Tealive Eats,Original Popcorn Chicken,Crunchy original chicken popcorn,MYR11.93,N/A,N/A
+808,ive,Tealive Eats,BBQ Popcorn Chicken Banjir,Spicy sauce chicken popcorn,MYR12.99,N/A,N/A
+809,ive,Tealive Eats,Crunchy Chicken Roll,Crispy chicken rolls,MYR11.93,N/A,N/A
+810,ive,Tealive Eats,Red Velvet Cake,Dish Description not available,MYR3.71,N/A,N/A
+811,ive,Mi Goreng Boba,1 Cup Brown Sugar Pearl Milk Tea (Reg) + 1 Mi Goreng Boba (101g),Dish Description not available,MYR15.90,N/A,N/A
+812,ive,Mi Goreng Boba,1 Cup Original Pearl Milk Tea (Reg) + 1 Mi Goreng Boba (101g),Dish Description not available,MYR15.90,N/A,N/A
+813,ive,Mi Goreng Boba,1 Cup Superior Coco (Reg) + 1 Mi Goreng Boba (101g),Dish Description not available,MYR15.90,N/A,N/A
+814,ive,Mi Goreng Boba,1 Cup Bang Bang Milk Tea (Reg) + 1 Mi Goreng Boba (101g),Dish Description not available,MYR16.50,N/A,N/A
+815,ive,Mi Goreng Boba,1 Cup Bang Bang Fresh Milk (Reg) + 1 Mi Goreng Boba (101g),Dish Description not available,MYR16.50,N/A,N/A
+816,ive,Mi Goreng Boba,1 Mi Goreng Boba – A’la Carte,Dish Description not available,MYR7.95,N/A,N/A
+817,ive,Signature Bang Bang,WP01. Bang Bang Milk Tea with Brown Sugar Warm Pearls,"Recommended, iced cold milk tea with warm brown sugar pearls",MYR9.10,from N/A,N/A
+818,ive,Signature Bang Bang,WP02. Bang Bang Fresh Milk with Brown Sugar Warm Pearls,"Recommended, cold fresh milk with warm brown sugar pearls",MYR9.10,from N/A,N/A
+819,ive,Signature Bang Bang,WP03. Bang Bang Chocolate with Brown Sugar Warm Pearls,Rich iced coco with warm brown sugar pearls,MYR10.20,from N/A,N/A
+820,ive,Signature Bang Bang,WP03. Bang Bang Coffee with Brown Sugar Warm Pearls,Cold Arabica coffee with warm brown sugar pearls,MYR10.20,from N/A,N/A
+821,ive,Milk Tea,MT01. Signature Brown Sugar Pearl Milk Tea,"Recommended, signature milk tea topped with chewy brown sugar pearls",MYR8.50,from N/A,N/A
+822,ive,Milk Tea,MT02. Original Pearl Milk Tea,"Recommended, classic milk tea topped with signature pearls",MYR8.50,from N/A,N/A
+823,ive,Milk Tea,MT03. Classic Roasted Milk Tea with Grass Jelly,"Recommended, toasty & fragrant milk tea with grass jelly",MYR8.50,from N/A,N/A
+824,ive,Milk Tea,MT10. Black Diamond Milk Tea,Dish Description not available,MYR9.55,from N/A,N/A
+825,ive,Milk Tea,MT04. Red Bean Pearl Milk Tea,Classic milk tea with Japanese red beans and pearls,MYR9.55,from N/A,N/A
+826,ive,Milk Tea,MT05. Hazelnut Milk Tea,"Recommended, Aromatic milk tea infused with hazelnut",MYR8.50,from N/A,N/A
+827,ive,Milk Tea,MT07. Earl Grey Milk Tea,Soothing milk tea with the light notes of earl grey,MYR8.50,from N/A,N/A
+828,ive,Milk Tea,MT08. Malty Milk Tea (Horlicks),"Served cold, Smooth milk tea with the maltiness of Horlicks",MYR8.50,from N/A,N/A
+829,ive,Milk Tea,MT09. Signature Milk Tea,Back-to-basic milk tea without toppings,MYR7.40,from N/A,N/A
+830,ive,Milk Tea,MT09. Original Milk Tea,Back-to-basic milk tea without toppings,MYR7.40,from N/A,N/A
+831,ive,Milk Tea,MT09. Classic Roasted Milk Tea,Back-to-basic milk tea without toppings,MYR7.40,from N/A,N/A
+832,ive,Coco,CCL1. Milk Choc Shaka Lava with Oreo Cookie Pieces,Dish Description not available,MYR10.60,from N/A,N/A
+833,ive,Coco,CC01. Superior Coco,"Recommended, creamy blend of rich coco and fresh cream",MYR8.50,from N/A,N/A
+834,ive,Coco,CC03. Hazelnut Coco,Rich coco with the taste of toasted hazelnut,MYR8.50,from N/A,N/A
+835,ive,Coco,CC04. Coco Latte,"Recommended, rich coco served with frothy milk",MYR9.10,from N/A,N/A
+836,ive,Coco,CC07. Malty Coco (Horlicks),"Served cold, rich coco with the maltiness of Horlicks",MYR9.10,from N/A,N/A
+837,ive,Coffee,CF01. Signature Coffee,Signature blend of 100% premium Arabica coffee,MYR10.20,from N/A,N/A
+838,ive,Coffee,CF03. Latte,"Recommended, 100% premium Arabica coffee served with frothy milk",MYR10.20,from N/A,N/A
+839,ive,Coffee,CF04. Coco Mocha,"Recommended, fusion of aromatic premium coffee and rich chocolate",MYR10.20,from N/A,N/A
+840,ive,Coffee,CF05. Hazelnut Latte,100% premium Arabica coffee with a twist of hazelnut,MYR10.20,from N/A,N/A
+841,ive,Coffee,CF06. Americano,Classic and fragrant black coffee,MYR9.55,from N/A,N/A
+842,ive,Coffee,Black Diamond Signature Coffee,Signature blend of 100% premium Arabica coffee,MYR12.19,from N/A,N/A
+843,ive,Nishio Fine Matcha,NS01. Nishio Matcha with Warm Pearls,Dish Description not available,MYR11.65,from N/A,N/A
+844,ive,Nishio Fine Matcha,NS02. Nishio Matcha Milk Tea with Red Bean,Dish Description not available,MYR10.60,from N/A,N/A
+845,ive,Nishio Fine Matcha,NS04. Nishio Matcha Latte,Dish Description not available,MYR10.60,from N/A,N/A
+846,ive,Fruit Tea,SFT01. Sparkling Mango Tea,"Half ice | Recommended, sparkling jasmine green tea with mango notes and Chia Seed / 3Q Jelly",MYR9.10,from N/A,N/A
+847,ive,Fruit Tea,SFT02. Sparkling Passion Fruit Tea,"Half ice | Recommended, sparkling passion fruit tea with Chia Seed / 3Q Jelly",MYR9.10,from N/A,N/A
+848,ive,Fruit Tea,SFT03. Sparkling Lemonade Tea,"Half ice | Recommended, sparkling jasmine green tea with zesty lemon and Chia Seed / 3Q Jelly",MYR9.10,from N/A,N/A
+849,ive,Fruit Tea,SFT04. Sparkling Lychee Tea,Half ice | Sparkling green tea with the tropical lushness of lychee,MYR9.10,from N/A,N/A
+850,ive,Fruit Tea,SFT05. Sparkling Plum Tea,Half ice | Sparkling sweet and sour plum tea with Chia Seed / 3Q Jelly,MYR9.10,from N/A,N/A
+851,ive,Fruit Tea,SFT06. Sparkling Honey Lemon with Aloe Vera,"Half ice | Recommended, fizzy mix of natural honey & fresh lemon juice with aloe vera cubes",MYR9.55,from N/A,N/A
+852,ive,Fruit Tea,SFT07. Sparkling Iced Plum Cooler,Half ice | Bubbly iced lemon juice with tangy taste of plum,MYR8.50,from N/A,N/A
+853,ive,Crafted Tea,CT03. Rose Puer Tea Latte,"Recommended, rich PuEr tea with milk and a delicate hint of rose",MYR9.10,from N/A,N/A
+854,ive,Crafted Tea,CT04. Earl Grey Tea Latte,"Recommended, soothing infusion of earl grey tea with milk",MYR9.10,from N/A,N/A
+855,ive,Crafted Tea,CT05. Rose Puer Tea,Rich PuEr tea with a delicate hint of rose,MYR8.05,from N/A,N/A
+856,ive,Crafted Tea,CT06. Earl Grey Tea,A delicate yet classic serving of earl grey tea,MYR8.05,from N/A,N/A
+857,ive,Crafted Tea,CT07. Jasmine Green Tea,Japanese green tea with floral notes of jasmine,MYR8.05,from N/A,N/A
+858,ive,Smoothie,Strawberry Pudding Smoothies,Large size,MYR10.60,from N/A,N/A
+859,daseo,Army Stew,Classic Army Stew,"Sausage, chicken ham, leek & carrot. Soft tofu, sliced rice cake & sprout etc. All ingredients provided are raw, customer required to cook the ingredients with soup provided.",MYR37.90,N/A,N/A
+860,daseo,Army Stew,Kimchi Army Stew,"Kimchi, fish cake, sausage, chicken ham, enoki mushroom, tofu, carrot, onion & sprout etc. All ingredients provided are raw, customer required to cook the ingredients with soup provided.",MYR37.90,N/A,N/A
+861,daseo,Army Stew,Seafood Army Stew,"Prawns, mussels, kimchi, chicken ham, enoki mushroom, tofu, carrot, onion & sprout etc. Customer can choose noodle ramyeon, handmade noodle, udon, choose soup base chicken soup, classic & spicy. All ingredients provided are raw, customer required to cook the ingredients with soup provided.",MYR58.90,N/A,N/A
+862,daseo,Korean Cheese Fried Chicken,D1. Spicy Boneless Chicken Cube with cheese,"Cheese provided is not cooked, customer need to melt it with microwave oven or gas stove",MYR37.90,N/A,N/A
+863,daseo,Korean Cheese Fried Chicken,D2. Spicy Chicken Wing with cheese,"Cheese provided is not cooked, customer need to melt it with microwave oven or gas stove",MYR37.90,N/A,N/A
+864,daseo,Korean Fried Chicken,Fried Boneless Chicken Cube,Dish Description not available,MYR12.90,from N/A,N/A
+865,daseo,Korean Fried Chicken,Fried Wingette & Drumette,Dish Description not available,MYR12.90,from N/A,N/A
+866,daseo,"Dosirak ""Traditional style""",DT1. Grilled Tofu,"Korean lunch box consist of grilled tofu, kimchi, seaweed and tamago egg",MYR14.50,N/A,N/A
+867,daseo,"Dosirak ""Traditional style""",DT2. Spicy Stir-Fried Chicken,"Korean lunch box consist of spicy stir-fried chicken, kimchi, seaweed and tamago egg",MYR19.50,N/A,N/A
+868,daseo,"Dosirak ""Traditional style""",DT3. Soy Sesame Beef,"Korean lunch box consist of beef cooked in soy sauce, kimchi, seaweed and tamago egg",MYR21.50,N/A,N/A
+869,daseo,"Dosirak ""Traditional style""",DT4. Yuzu Lime Salmon,"Korean lunch box consist of grilled salmon in yuzu sauce, kimchi, seaweed and tamago egg",MYR23.50,N/A,N/A
+870,daseo,Korean Lunch Box,AL2. Korean Classic Lunch Box,"Rice, sliced sausages, sunny side egg, kimchi, seaweed",MYR18.90,N/A,N/A
+871,daseo,Korean Fried Rice With Melted Cheese,"FR1. Soy Garlic Fried Rice ""Chicken""","Remark: Cheese provided is uncooked, customer need to melt it with oven or stove.",MYR21.90,N/A,N/A
+872,daseo,Korean Fried Rice With Melted Cheese,"FR2. Soy Garlic Fried Rice ""Beef""","Remark: Cheese provided is uncooked, customer need to melt it with oven or stove.",MYR23.90,N/A,N/A
+873,daseo,Korean Fried Rice With Melted Cheese,"FR3. Volcano Fried Rice ""Chicken"" (Spicy)","Remark: Cheese provided is uncooked, customer need to melt it with oven or stove.",MYR21.90,N/A,N/A
+874,daseo,Korean Fried Rice With Melted Cheese,"FR4. Volcano Fried Rice "" Beef"" (Spicy)","Remark: Cheese provided is uncooked, customer need to melt it with oven or stove.",MYR23.90,N/A,N/A
+875,daseo,Rice Bowl Series,RB1. Godeungeo Rice,"Pan-fried saba fish with teriyaki sauce, scrambled egg, kimchi, seaweed and rice",MYR20.90,N/A,N/A
+876,daseo,Rice Bowl Series,RB2. Buldak Chix Rice,"Pan-fried boneless chicken leg with teriyaki sauce, scrambled egg, kimchi, seaweed and rice",MYR19.90,N/A,N/A
+877,daseo,Rice Bowl Series,RB3. Beef Rice,"Pan-fried beef with teriyaki sauce, scrambled egg, kimchi, seaweed and rice",MYR21.90,N/A,N/A
+878,daseo,Rice Bowl Series,RB4. Kimchi Fried Rice,Dish Description not available,MYR10.90,N/A,N/A
+879,daseo,Korean Bbq Chicken Set,Barbeque Flavour Chicken Rice Set,"Grilled chicken with barbeque sauce, served with rice, sunny egg and garden salad",MYR19.90,N/A,N/A
+880,daseo,Korean Bbq Chicken Set,Spicy Flavour Chicken Rice Set,"Grilled chicken with spicy sauce, served with rice, sunny egg and garden salad",MYR19.90,N/A,N/A
+881,daseo,Korean Bbq Chicken Set,Tumeric Curry Flavour Chicken Rice Set,"Grilled chicken with turmeric curry sauce, served wit rice, sunny egg and garden salad",MYR19.90,N/A,N/A
+882,daseo,Korean Bbq Chicken Set,Honey Mustard Flavour Chicken Rice Set,"Grilled chicken with special honey mustard sauce, served with rice, sunny egg and garden salad",MYR19.90,N/A,N/A
+883,daseo,Rampokki,Rampokki Classic,"Ramyeon, topokki, korean fish cake , hard boiled egg",MYR15.90,N/A,N/A
+884,daseo,Rampokki,Rampokki Rice Ball,Dish Description not available,MYR19.90,N/A,N/A
+885,daseo,Rampokki,Rampokki Chicken Wings,Dish Description not available,MYR24.90,N/A,N/A
+886,daseo,Korean Ramyeon,Korean Ramyeon Classic,"Ramyeon, egg, carrot, cabbage, kimchi etc cooked in spicy soup. This dish is suitable for vegetarian. Add on sliced cheese for RM2.50",MYR15.90,N/A,N/A
+887,daseo,Korean Ramyeon,Korean Ramyeon - Beef,"Ramyeon, sliced beef, egg, carrot, cabbage, kimchi etc cooked in spicy soup. Add on sliced cheese for RM2.50",MYR20.90,N/A,N/A
+888,daseo,Korean Ramyeon,Korean Ramyeon - Seafood,"Ramyeon, prawns, clams, egg, carrot, cabbage, kimchi etc cooked in spicy soup. Add on sliced cheese for RM2.50",MYR22.90,N/A,N/A
+889,daseo,Carbonara Ramyeon,"CR2. Carbonara ""Spicy""","Korean ramyeon, cheese, cream,deep-fried boneless chicken cube, seaweed & homemade spicy sauce",MYR21.90,N/A,N/A
+890,daseo,Korean Pasta,P1. Korean Aglio Olio Spaghetti,"Olive oil, garlic, chicken ham, mushroom, seaweed, and spicy kimchi",MYR17.90,N/A,N/A
+891,daseo,Korean Pasta,P2. Korean Creamy Spaghetti,"Cream, soybean paste, chicken ham, mushroom, and seaweed",MYR20.90,N/A,N/A
+892,daseo,Korean Pasta,P3. Korean Spicy Seafood Spaghetti,"Gochujang sauce, prawn, clams, carrot,  and seaweed",MYR22.90,N/A,N/A
+893,daseo,Ala Carte,Crispy Fried Squid With Rice,Dish Description not available,MYR18.90,N/A,N/A
+894,daseo,Ala Carte,Mala Bokkeum (Spicy) Chicken,"Stir-fried chicken, enoki mushroom, topokki, korean fish cake,sausage, chicken ham, cabbage etc with special Korean spicy sauce and dried Chili.",MYR34.90,N/A,N/A
+895,daseo,Ala Carte,Spicy Chic N Cheese Bun,"Steamed bun filled with spicy boneless chicken cube, lettuce, raddish and mozzarella cheese",MYR20.90,N/A,N/A
+896,daseo,Ala Carte,Crispy Enoki Cheese Bun,"Steamed bun filled with crispy enoki mushroom, kimchi,  lettuce and mozzarella cheese",MYR15.90,N/A,N/A
+897,daseo,Ala Carte,BBQ Chicken Bun,"Steamed bun filled with BBQ chicken, kimchi and lettuce",MYR16.90,N/A,N/A
+898,daseo,Ala Carte,Spicy Stir-Fried Topokki Chicken,"Topokki, chicken cube, cabbage, spring onion stir-fried with home-made Korean sauce",MYR13.90,N/A,N/A
+899,daseo,Ala Carte,Classic Shimson Stew,"Army stew with all ingredients (sausage, fish cake, chicken ham, tofu, leek, sliced rice cake etc) provided are raw, customer required to cook the ingredients with soup provided. Cheese provided is uncooked, customer need to melt the cheese with oven or stove and eat with the spicy stir-fried chicken & topokki provided.",MYR60.90,N/A,N/A
+900,daseo,Ala Carte,Kimchi Shimson Stew,"Army stew with all ingredients (kimchi, sausage, fish cake, chicken ham, tofu, leek, sliced rice cake etc) provided are raw, customer required to cook the ingredients with soup provided. Cheese provided is uncooked, customer need to melt the cheese with oven or stove and eat with the spicy stir-fried chicken & topokki provided.",MYR60.90,N/A,N/A
+901,daseo,Ala Carte,Seafood Shimson Stew,"Army stew with all ingredients (prawns, mussels, tofu, leek, sliced rice cake,enoki mushroom etc) provided are raw, customer required to cook the ingredients with soup provided. Cheese provided is uncooked, customer need to melt the cheese with oven or stove and eat with the spicy stir-fried chicken & topokki provided.",MYR75.90,N/A,N/A
+902,daseo,Ala Carte,Flaming Fried Ramyeon,Spicy fried ramyeon served with fried boneless chicken cube,MYR17.50,N/A,N/A
+903,daseo,Ala Carte,AL1. Korean Rice Ball (DIY),Dish Description not available,MYR10.90,N/A,N/A
+904,daseo,Side Order,Anchovy Rice Ball,"Rice ball consist of anchovy, fried red onion, ebiko and seaweed",MYR10.90,N/A,N/A
+905,daseo,Side Order,S1. Steamed Rice,Dish Description not available,MYR4.90,N/A,N/A
+906,daseo,Side Order,S2. French Fries,Dish Description not available,MYR6.90,N/A,N/A
+907,daseo,Side Order,S3. Potato Wedges,Dish Description not available,MYR7.90,N/A,N/A
+908,daseo,Side Order,S4. Sweet Potato Fries,Dish Description not available,MYR8.90,N/A,N/A
+909,daseo,Side Order,Fried Seafood Mandu,Dish Description not available,MYR10.90,N/A,N/A
+910,daseo,Side Order,Fried Chicken Mandu,Dish Description not available,MYR10.90,N/A,N/A
+911,daseo,Side Order,Chicsy Lava Ball,4 pcs chicken ball with mozzarella cheese inside,MYR11.90,N/A,N/A
+912,daseo,Side Order,Fried Korean Fish Cake,Fried Korean Fish Cake 3 sticks,MYR6.90,N/A,N/A
+913,daseo,Side Order,Prawn Korean Pancake,"Korean pancake with prawns and assorted vegetables (spring onion, carrot and leek)",MYR14.90,N/A,N/A
+914,daseo,Side Order,Original Korean Pancake,"Korean pancake with assorted vegetables (spring onion, leek, and carrot)",MYR11.90,N/A,N/A
+915,daseo,Side Order,Sausage & Cheese Korean Pancake,"Korean pancake with savory chicken sausage, cheese , spring onion and carrot",MYR14.90,N/A,N/A
+916,daseo,Side Order,Topokki Croquette,"12pcs deep fried topokki , dip with Nachos cheese and spicy sauce",MYR19.90,N/A,N/A
+917,daseo,Beverages,G1. Coke,Dish Description not available,MYR5.00,N/A,N/A
+918,daseo,Beverages,G2. Sprite,Dish Description not available,MYR5.00,N/A,N/A
+919,daseo,Beverages,G4. Blueberry Grape,Dish Description not available,MYR6.90,N/A,N/A
+920,daseo,Beverages,G5. Orange Mango,Dish Description not available,MYR6.90,N/A,N/A
+921,daseo,Beverages,G6. Orange Passion Fruit,Dish Description not available,MYR6.90,N/A,N/A
+922,daseo,Beverages,G7. Korean Barley Tea,Dish Description not available,MYR5.90,from N/A,N/A
+923,daseo,Beverages,H1. Yuzu Jelly Tea,Dish Description not available,MYR12.90,N/A,N/A
+924,daseo,Beverages,H2. Honey Citron Jelly,Dish Description not available,MYR10.90,N/A,N/A
+925,daseo,Beverages,H3. Lychee Jelly Tea,Dish Description not available,MYR11.90,N/A,N/A
+926,daseo,Beverages,H4. Jujube Jelly Tea,Dish Description not available,MYR10.90,N/A,N/A
+927,daseo,Beverages,H5. Lemon Jelly Tea,Dish Description not available,MYR9.90,N/A,N/A
+928,daseo,Beverages,K1. Honey Citron Tea Hot,Dish Description not available,MYR5.90,N/A,N/A
+929,daseo,Beverages,K2. Jujube Tea Hot,Dish Description not available,MYR5.90,N/A,N/A
+930,daseo,Beverages,Milkis Milk & Yogurt Soda,Can drinks,MYR5.90,N/A,N/A
+931,daseo,Beverages,Milkis Banana Soda,Can drinks,MYR5.90,N/A,N/A
+932,daseo,Beverages,Hot Chocolate,Dish Description not available,MYR5.90,N/A,N/A
+933,pisa-corner-rojak-vietnamese-spring-rolls,A la Carte,Mixed Fruit Rojak,Dish Description not available,MYR8.80,from N/A,N/A
+934,seong-huat-bak-kut-teh,Set,Bak Kut The Set,Dish Description not available,MYR15.50,N/A,N/A
+935,seong-huat-bak-kut-teh,Sides,Yam Rice,Dish Description not available,MYR1.70,N/A,N/A
+936,seong-huat-bak-kut-teh,Sides,White Rice,Dish Description not available,MYR1.50,N/A,N/A
+937,seong-huat-bak-kut-teh,Sides,YouTiao,Dish Description not available,MYR1.50,N/A,N/A
+938,legend-char-koay-teow-wei-yi-unique-cafe,Mains,Char Koay Teow,Dish Description not available,MYR8.50,from N/A,N/A
+939,legend-char-koay-teow-wei-yi-unique-cafe,Mains,Fried Cintan Noodle,Dish Description not available,MYR8.20,from N/A,N/A
+940,legend-char-koay-teow-wei-yi-unique-cafe,Mains,Char Bi Tai Bak,Dish Description not available,MYR8.20,from N/A,N/A
+941,legend-char-koay-teow-wei-yi-unique-cafe,Mains,Fried Rice,Dish Description not available,MYR8.20,from N/A,N/A
+942,chai-hokkien-mee-batu-maung-market,Mains,Hokkien Mee,Dish Description not available,MYR5.00,N/A,N/A
+943,chai-hokkien-mee-batu-maung-market,Mains,Loh Mee,Dish Description not available,MYR5.00,N/A,N/A
+944,chai-hokkien-mee-batu-maung-market,Mains,Curry Mee,Dish Description not available,MYR5.00,N/A,N/A
+945,chai-hokkien-mee-batu-maung-market,Mains,Cai Kuih,Dish Description not available,MYR5.00,N/A,N/A
+946,chai-hokkien-mee-batu-maung-market,Add On,Pork Ribs,Dish Description not available,MYR3.70,N/A,N/A
+947,chai-hokkien-mee-batu-maung-market,Add On,Hoon Cheang,Dish Description not available,MYR2.20,N/A,N/A
+948,chai-hokkien-mee-batu-maung-market,Add On,Egg,Dish Description not available,MYR1.50,N/A,N/A
+949,chai-hokkien-mee-batu-maung-market,Add On,Fish Ball,2 Pcs,MYR2.30,N/A,N/A
+950,chai-hokkien-mee-batu-maung-market,Add On,Prawn,Dish Description not available,MYR3.00,N/A,N/A
+951,2gether-asian-food-wei-yi-unique-cafe-,Noodle & Rice,Yifu Mee,Dish Description not available,MYR8.20,MYR6.97,N/A
+952,2gether-asian-food-wei-yi-unique-cafe-,Noodle & Rice,Hokian Char,Dish Description not available,MYR8.20,MYR6.97,N/A
+953,2gether-asian-food-wei-yi-unique-cafe-,Noodle & Rice,Sheng Mian,Dish Description not available,MYR8.20,MYR6.97,N/A
+954,2gether-asian-food-wei-yi-unique-cafe-,Noodle & Rice,Fried Bihun,Dish Description not available,MYR8.20,MYR6.97,N/A
+955,2gether-asian-food-wei-yi-unique-cafe-,Noodle & Rice,Salted Fish Fried Bihun,Dish Description not available,MYR8.20,MYR6.97,N/A
+956,2gether-asian-food-wei-yi-unique-cafe-,Noodle & Rice,Singapore Bihun,Dish Description not available,MYR8.20,MYR6.97,N/A
+957,2gether-asian-food-wei-yi-unique-cafe-,Noodle & Rice,Fried Maggie,Dish Description not available,MYR8.20,MYR6.97,N/A
+958,2gether-asian-food-wei-yi-unique-cafe-,Noodle & Rice,Fried Rice,Dish Description not available,MYR8.20,from MYR6.97,N/A
+959,2gether-asian-food-wei-yi-unique-cafe-,Noodle & Rice,Tom Yam Fried Rice,Dish Description not available,MYR8.20,from MYR6.97,N/A
+960,2gether-asian-food-wei-yi-unique-cafe-,Noodle & Rice,Curry Leaf Fried Rice,Dish Description not available,MYR8.20,from MYR6.97,N/A
+961,2gether-asian-food-wei-yi-unique-cafe-,Noodle & Rice,Black Pepper Fried Rice,Dish Description not available,MYR8.20,from MYR6.97,N/A
+962,2gether-asian-food-wei-yi-unique-cafe-,Noodle & Rice,Salted Fish Fried Rice,Dish Description not available,MYR8.20,from MYR6.97,N/A
+963,2gether-asian-food-wei-yi-unique-cafe-,Noodle & Rice,Sambai Fried Rice,Dish Description not available,MYR8.20,from MYR6.97,N/A
+964,2gether-asian-food-wei-yi-unique-cafe-,Noodle & Rice,Lam Rice,Dish Description not available,MYR8.20,from MYR6.97,N/A
+965,2gether-asian-food-wei-yi-unique-cafe-,Super Value Set Rice,Gong Poh Set Rice with Fried Egg,Dish Description not available,MYR10.30,from MYR8.76,N/A
+966,2gether-asian-food-wei-yi-unique-cafe-,Super Value Set Rice,Sweet & Sour Set Rice with Fried Egg,Dish Description not available,MYR10.30,from MYR8.76,N/A
+967,2gether-asian-food-wei-yi-unique-cafe-,Super Value Set Rice,Chinese B.B.Q Set Rice with Fried Egg,Dish Description not available,MYR10.30,from MYR8.76,N/A
+968,2gether-asian-food-wei-yi-unique-cafe-,Super Value Set Rice,Black Pepper Set Rice with Fried Egg,Dish Description not available,MYR10.30,from MYR8.76,N/A
+969,2gether-asian-food-wei-yi-unique-cafe-,Super Value Set Rice,Tom Yam Set Rice with Fried Egg,Dish Description not available,MYR10.30,from MYR8.76,N/A
+970,2gether-asian-food-wei-yi-unique-cafe-,Super Value Set Rice,Ginger Onion Set Rice with Fried Egg,Dish Description not available,MYR10.30,from MYR8.76,N/A
+971,2gether-asian-food-wei-yi-unique-cafe-,Super Value Set Rice,Mamite Set Rice with Fried Egg,Dish Description not available,MYR10.30,from MYR8.76,N/A
+972,2gether-asian-food-wei-yi-unique-cafe-,Super Value Set Rice,Cheese Set Rice with Fried Egg,Dish Description not available,MYR10.30,from MYR8.76,N/A
+973,2gether-asian-food-wei-yi-unique-cafe-,Super Value Set Rice,Three Taste Set Rice with Fried Egg,Dish Description not available,MYR10.30,from MYR8.76,N/A
+974,2gether-asian-food-wei-yi-unique-cafe-,Super Value Set Rice,Curry Leaf Set Rice with Fried Egg,Dish Description not available,MYR10.30,from MYR8.76,N/A
+975,2gether-asian-food-wei-yi-unique-cafe-,Super Value Set Rice,Monggolia Set Rice with Fried Egg,Dish Description not available,MYR10.30,from MYR8.76,N/A
+976,2gether-asian-food-wei-yi-unique-cafe-,Super Value Set Rice,Curry Fish Set Rice with Fried Egg,Dish Description not available,MYR11.80,from MYR10.03,N/A
+977,2gether-asian-food-wei-yi-unique-cafe-,Super Value Set Rice,Belacan Fried Chicken Set Rice with Fried Egg,Dish Description not available,MYR11.80,from MYR10.03,N/A
+978,2gether-asian-food-wei-yi-unique-cafe-,Super Value Set Rice,Chicken Chop Set Rice,鸡扒，白饭，鸡蛋,MYR12.00,from MYR10.20,N/A
+979,youngman-twentyone-char-koay-teow,A La Carte,Char Kuey Teow with Duck Egg,Dish Description not available,MYR8.60,from MYR7.31,N/A
+980,youngman-twentyone-char-koay-teow,A La Carte,Char Kuey Teow,Dish Description not available,MYR7.20,from MYR6.12,N/A
+981,youngman-twentyone-char-koay-teow,A La Carte,Fried Mee,Dish Description not available,MYR7.20,from MYR6.12,N/A
+982,youngman-twentyone-char-koay-teow,A La Carte,Fried Bee Hoon,Dish Description not available,MYR7.20,from MYR6.12,N/A
+983,youngman-twentyone-char-koay-teow,A La Carte,Fried Bee Thai Bak,Dish Description not available,MYR7.20,from MYR6.12,N/A
+984,youngman-twentyone-char-koay-teow,A La Carte,Sambal Fried Rice,Dish Description not available,MYR7.20,from MYR6.12,N/A
+985,youngman-twentyone-char-koay-teow,A La Carte,Tomyam Fried Rice,Dish Description not available,MYR7.20,from MYR6.12,N/A
+986,youngman-twentyone-char-koay-teow,A La Carte,Fried Rice,Dish Description not available,MYR7.20,from MYR6.12,N/A
+987,youngman-twentyone-char-koay-teow,A La Carte,Char Koay Teow + Mee,Dish Description not available,MYR7.20,from MYR6.12,N/A
+988,youngman-twentyone-char-koay-teow,A La Carte,Char Bee Hoon + Mee,Dish Description not available,MYR7.20,from MYR6.12,N/A
+989,sin-kek-seng-lam-huat-chicken-rice,Single Rice Sets,Chicken Rice,Dish Description not available,MYR7.50,N/A,N/A
+990,sin-kek-seng-lam-huat-chicken-rice,Single Rice Sets,Roasted Pork Rice,Dish Description not available,MYR7.50,N/A,N/A
+991,sin-kek-seng-lam-huat-chicken-rice,2 in 1 Mix Rice Sets,Chicken and Roasted Pork Rice,Dish Description not available,MYR10.30,N/A,N/A
+992,lucky-eatery-leong-kee-char-hor-fun,Mains,1. Dry Char Hor Fun,Dish Description not available,MYR8.90,from N/A,N/A
+993,lucky-eatery-leong-kee-char-hor-fun,Mains,2. Char Hor Fun,Dish Description not available,MYR8.90,from N/A,N/A
+994,lucky-eatery-leong-kee-char-hor-fun,Mains,10. Sin Chew Bihun,Dish Description not available,MYR8.90,from N/A,N/A
+995,lucky-eatery-leong-kee-char-hor-fun,Mains,12. Salted Fish Bihun,Dish Description not available,MYR8.90,from N/A,N/A
+996,lucky-eatery-leong-kee-char-hor-fun,Mains,11. Tomyam Bihun,Dish Description not available,MYR8.90,from N/A,N/A
+997,lucky-eatery-leong-kee-char-hor-fun,Mains,13. Fried Bihun,Dish Description not available,MYR8.90,from N/A,N/A
+998,lucky-eatery-leong-kee-char-hor-fun,Mains,7. Tai Lok Mee,Dish Description not available,MYR8.90,from N/A,N/A
+999,lucky-eatery-leong-kee-char-hor-fun,Mains,Dry Yee Mee,Dish Description not available,MYR8.90,from N/A,N/A
+1000,lucky-eatery-leong-kee-char-hor-fun,Mains,Char Yee Mee,Dish Description not available,MYR8.90,from N/A,N/A
+1001,lucky-eatery-leong-kee-char-hor-fun,Mains,Fried Maggi,Dish Description not available,MYR8.90,from N/A,N/A
+1002,lucky-eatery-leong-kee-char-hor-fun,Mains,8. Hokkien Char,Dish Description not available,MYR8.90,from N/A,N/A
+1003,lucky-eatery-leong-kee-char-hor-fun,Mains,5. Fried Shang Mee,Dish Description not available,MYR8.90,from N/A,N/A
+1004,lucky-eatery-leong-kee-char-hor-fun,Mains,14. Char Tang Hoon,Dish Description not available,MYR8.90,from N/A,N/A
+1005,lucky-eatery-leong-kee-char-hor-fun,Mains,15. Char Mee Suah,Dish Description not available,MYR8.90,from N/A,N/A
+1006,lucky-eatery-leong-kee-char-hor-fun,Mains,6）Lam Bui,Dish Description not available,MYR8.90,from N/A,N/A
+1007,lucky-eatery-leong-kee-char-hor-fun,Mains,Fried Rice,Dish Description not available,MYR8.90,from N/A,N/A
+1008,lucky-eatery-leong-kee-char-hor-fun,Mains,Char Kuey Teow,Dish Description not available,MYR8.90,from N/A,N/A
+1009,lucky-eatery-leong-kee-char-hor-fun,Mains,Char Bee Tai Bak,Dish Description not available,MYR8.90,from N/A,N/A
+1010,pisa-corner-hokkien-prawn-mee,Mains,Hokkien Prawn Mee,Served with mee & bee hoon,MYR7.00,from N/A,N/A
+1011,pisa-corner-hokkien-prawn-mee,Mains,Hokkien Prawn Maggie,Served with vit's maggie,MYR7.70,from N/A,N/A
+1012,western-food-giant-food-court-bayan-baru-,Mains,Chicken Chop with Original Sauce,Dish Description not available,MYR15.60,N/A,N/A
+1013,western-food-giant-food-court-bayan-baru-,Mains,Chicken Chop with Black Pepper Sauce,Dish Description not available,MYR15.60,N/A,N/A
+1014,western-food-giant-food-court-bayan-baru-,Mains,Chicken Chop with Mushroom Sauce,Dish Description not available,MYR17.00,N/A,N/A
+1015,western-food-giant-food-court-bayan-baru-,Mains,Chicken Grill with Original Sauce,Dish Description not available,MYR15.60,N/A,N/A
+1016,western-food-giant-food-court-bayan-baru-,Mains,Chicken Grill with Black Pepper Sauce,Dish Description not available,MYR15.60,N/A,N/A
+1017,western-food-giant-food-court-bayan-baru-,Mains,Chicken Grill with Mushroom Sauce,Dish Description not available,MYR17.00,N/A,N/A
+1018,western-food-giant-food-court-bayan-baru-,Mains,Chicken Chop with Special Original Sauce,Jumbo sosej & cheese slice,MYR22.80,N/A,N/A
+1019,western-food-giant-food-court-bayan-baru-,Mains,Chicken Chop with Special Black Pepper Sauce,Jumbo sosej & cheese slice,MYR22.80,N/A,N/A
+1020,western-food-giant-food-court-bayan-baru-,Mains,Chicken Chop with  Special Mushroom Sauce,Jumbo sosej & cheese slice,MYR24.20,N/A,N/A
+1021,western-food-giant-food-court-bayan-baru-,Mains,Fish & Chips Original,Dish Description not available,MYR14.20,N/A,N/A
+1022,western-food-giant-food-court-bayan-baru-,Mains,Fish & Chips with Black Pepper Sauce,Dish Description not available,MYR14.20,N/A,N/A
+1023,western-food-giant-food-court-bayan-baru-,Mains,Fish & Chips with Mushroom Sauce,Dish Description not available,MYR15.60,N/A,N/A
+1024,western-food-giant-food-court-bayan-baru-,Mains,Lamb Chop with Original Sauce,Dish Description not available,MYR27.00,N/A,N/A
+1025,western-food-giant-food-court-bayan-baru-,Mains,Lamb Chop with Black Pepper Sauce,Dish Description not available,MYR27.00,N/A,N/A
+1026,western-food-giant-food-court-bayan-baru-,Mains,Lamb Chop with Mushroom Sauce,Dish Description not available,MYR28.50,N/A,N/A
+1027,western-food-giant-food-court-bayan-baru-,Mains,Cheezy Wedges,Dish Description not available,MYR9.90,N/A,N/A
+1028,western-food-giant-food-court-bayan-baru-,Mains,Nugget,10 Pcs,MYR11.40,N/A,N/A
+1029,western-food-giant-food-court-bayan-baru-,Mains,Cheezy Meatball with Black Pepper Sauce,Dish Description not available,MYR15.60,N/A,N/A
+1030,western-food-giant-food-court-bayan-baru-,Mains,KOREAN CHEESE CORN DOG WITH JUMBO SAUSAGE,Mozarella cheese + Jumbo sausage + coated with crispy flour,MYR10.00,from N/A,N/A
+1031,western-food-giant-food-court-bayan-baru-,Desserts,Cendol Biasa,Dish Description not available,MYR5.80,N/A,N/A
+1032,western-food-giant-food-court-bayan-baru-,Desserts,Cendol Jagung,Dish Description not available,MYR7.20,N/A,N/A
+1033,western-food-giant-food-court-bayan-baru-,Desserts,Cendol Ais Krim,Dish Description not available,MYR7.20,N/A,N/A
+1034,western-food-giant-food-court-bayan-baru-,Desserts,Cendol Special,Dish Description not available,MYR8.50,N/A,N/A
+1035,western-food-giant-food-court-bayan-baru-,Desserts,Ais Kacang Biasa,Dish Description not available,MYR6.40,N/A,N/A
+1036,western-food-giant-food-court-bayan-baru-,Desserts,Ais Kacang Special,Dish Description not available,MYR7.90,N/A,N/A
+1037,western-food-giant-food-court-bayan-baru-,Desserts,Coconut Shake,Dish Description not available,MYR6.40,N/A,N/A
+1038,western-food-giant-food-court-bayan-baru-,Desserts,Coconut Shake Ais Krim,Dish Description not available,MYR7.90,N/A,N/A
+1039,western-food-giant-food-court-bayan-baru-,Desserts,Ais Kepal Milo,Dish Description not available,MYR6.40,N/A,N/A
+1040,western-food-giant-food-court-bayan-baru-,Desserts,Ais Kepal Milo + Ais Krim,Dish Description not available,MYR7.90,N/A,N/A
+1041,western-food-giant-food-court-bayan-baru-,Desserts,Ais Kepal Oreo,Dish Description not available,MYR7.90,N/A,N/A
+1042,western-food-giant-food-court-bayan-baru-,Desserts,Ais Kepal Special,Dish Description not available,MYR10.50,N/A,N/A
+1043,pisa-corner-chinese-pancake,Pancake,1. White Sugar and Peanut,Dish Description not available,MYR2.20,N/A,N/A
+1044,pisa-corner-chinese-pancake,Pancake,2. Black Sugar and Peanut,Dish Description not available,MYR2.20,N/A,N/A
+1045,pisa-corner-chinese-pancake,Pancake,3. Sweet Corn and Peanut,Dish Description not available,MYR2.90,N/A,N/A
+1046,pisa-corner-chinese-pancake,Pancake,4. Coconut and Peanut,Dish Description not available,MYR2.90,N/A,N/A
+1047,pisa-corner-chinese-pancake,Pancake,5. Peanut Butter and Peanut,Dish Description not available,MYR2.90,N/A,N/A
+1048,pisa-corner-chinese-pancake,Pancake,7. Raisin and Peanut,Dish Description not available,MYR2.90,N/A,N/A
+1049,pisa-corner-chinese-pancake,Pancake,8. Chocolate and Peanut,Dish Description not available,MYR2.90,N/A,N/A
+1050,pisa-corner-chinese-pancake,Pancake,6. Banana and Peanut,Dish Description not available,MYR2.90,N/A,N/A
+1051,pisa-corner-chinese-pancake,Pancake,9. Ham,Dish Description not available,MYR3.60,N/A,N/A
+1052,pisa-corner-chinese-pancake,Pancake,10. Sausage,Dish Description not available,MYR3.60,N/A,N/A
+1053,pisa-corner-chinese-pancake,Pancake,11. Cheese and Peanut,Dish Description not available,MYR3.60,N/A,N/A
+1054,pisa-corner-chinese-pancake,Pancake,12. Omega Egg and Peanut,Dish Description not available,MYR3.60,N/A,N/A
+1055,pisa-corner-chinese-pancake,Pancake,"13. Banana, Raisin and Peanut",Dish Description not available,MYR3.60,N/A,N/A
+1056,pisa-corner-chinese-pancake,Pancake,"14. Banana,Chocolate and Peanut",Dish Description not available,MYR3.60,N/A,N/A
+1057,pisa-corner-chinese-pancake,Pancake,"15. Banana, Coconut and Peanut",Dish Description not available,MYR3.60,N/A,N/A
+1058,pisa-corner-chinese-pancake,Pancake,"16. Banana, Sweet Corn and Peanut",Dish Description not available,MYR3.60,N/A,N/A
+1059,pisa-corner-chinese-pancake,Pancake,"17. Peanut Butter, Banana and Peanut",Dish Description not available,MYR3.60,N/A,N/A
+1060,pisa-corner-chinese-pancake,Pancake,18. Peanut Butter and Raisin and Peanut,Dish Description not available,MYR3.60,N/A,N/A
+1061,pisa-corner-chinese-pancake,Pancake,"19. Peanut Butter, Chocolate and Peanut",Dish Description not available,MYR3.60,N/A,N/A
+1062,pisa-corner-chinese-pancake,Pancake,"20. Peanut Butter, Coconut and Peanut",Dish Description not available,MYR3.60,N/A,N/A
+1063,pisa-corner-chinese-pancake,Pancake,"21. Peanut Butter, Sweet Corn and Peanut",Dish Description not available,MYR3.60,N/A,N/A
+1064,pisa-corner-chinese-pancake,Pancake,"22. Raisin, Coconut and Peanut",Dish Description not available,MYR3.60,N/A,N/A
+1065,pisa-corner-chinese-pancake,Pancake,"23. Raisin, Chocolate and Peanut",Dish Description not available,MYR3.60,N/A,N/A
+1066,pisa-corner-chinese-pancake,Pancake,"24. Raisin, Sweet Corn and Peanut",Dish Description not available,MYR3.60,N/A,N/A
+1067,pisa-corner-chinese-pancake,Pancake,25. Prok Flossy,Dish Description not available,MYR4.30,N/A,N/A
+1068,pisa-corner-chinese-pancake,Pancake,26. Tuna Fish,Dish Description not available,MYR4.30,N/A,N/A
+1069,pisa-corner-chinese-pancake,Pancake,"27. Cheese, Sweet Corn and Peanut",Dish Description not available,MYR4.30,N/A,N/A
+1070,pisa-corner-chinese-pancake,Pancake,"28. Cheese, Coconut and Peanut",Dish Description not available,MYR4.30,N/A,N/A
+1071,pisa-corner-chinese-pancake,Pancake,"29. Cheese, peanut Butter and Peanut",Dish Description not available,MYR4.30,N/A,N/A
+1072,pisa-corner-chinese-pancake,Pancake,"30. Cheese, Banana and Peanut",Dish Description not available,MYR4.30,N/A,N/A
+1073,pisa-corner-chinese-pancake,Pancake,"31. Cheese, Raisin and Peanut",Dish Description not available,MYR4.30,N/A,N/A
+1074,pisa-corner-chinese-pancake,Pancake,"32. Cheese, Chocolate and Peanut",Dish Description not available,MYR4.30,N/A,N/A
+1075,pisa-corner-chinese-pancake,Pancake,"33. Omega Egg, Sweet Corn and peanut",Dish Description not available,MYR4.30,N/A,N/A
+1076,pisa-corner-chinese-pancake,Pancake,"34. Omega Egg, Coconut and Peanut",Dish Description not available,MYR4.30,N/A,N/A
+1077,pisa-corner-chinese-pancake,Pancake,"35. Omega Egg, Peanut Butter and Peanut",Dish Description not available,MYR4.30,N/A,N/A
+1078,pisa-corner-chinese-pancake,Pancake,"36. Omega Egg, Banana and Peanut",Dish Description not available,MYR4.30,N/A,N/A
+1079,pisa-corner-chinese-pancake,Pancake,"37. Omega Egg, Raisin and Peanut",Dish Description not available,MYR4.30,N/A,N/A
+1080,pisa-corner-chinese-pancake,Pancake,"38. Omega Egg, Chocolate and Peanut",Dish Description not available,MYR4.30,N/A,N/A
+1081,pisa-corner-chinese-pancake,Pancake,"39. Banana, Raisin, Chocolate and Peanut",Dish Description not available,MYR4.30,N/A,N/A
+1082,pisa-corner-chinese-pancake,Pancake,"40. Banana, Raisin, peanut Butter and Peanut",Dish Description not available,MYR4.30,N/A,N/A
+1083,pisa-corner-chinese-pancake,Pancake,41. Salad Seafood,Dish Description not available,MYR5.00,N/A,N/A
+1084,pisa-corner-chinese-pancake,Pancake,42. Ham and Cheese,Dish Description not available,MYR5.00,N/A,N/A
+1085,pisa-corner-chinese-pancake,Pancake,43. Ham and Sausage,Dish Description not available,MYR5.00,N/A,N/A
+1086,pisa-corner-chinese-pancake,Pancake,44. Sausage and Cheese,Dish Description not available,MYR5.00,N/A,N/A
+1087,pisa-corner-chinese-pancake,Pancake,45. Ham and Omega Egg,Dish Description not available,MYR5.00,N/A,N/A
+1088,pisa-corner-chinese-pancake,Pancake,46. Sausage and Omega Egg,Dish Description not available,MYR5.00,N/A,N/A
+1089,pisa-corner-chinese-pancake,Pancake,"47. Cheese, Omega Egg and Peanut",Dish Description not available,MYR5.00,N/A,N/A
+1090,pisa-corner-chinese-pancake,Pancake,"48. Banana, Raisin, Cheese and Peanut",Dish Description not available,MYR5.00,N/A,N/A
+1091,pisa-corner-chinese-pancake,Pancake,"49. Banana, Chocolate, Cheese and Peanut",Dish Description not available,MYR5.00,N/A,N/A
+1092,pisa-corner-chinese-pancake,Pancake,"50. Banana, Sweet Corn, Cheese and Peanut",Dish Description not available,MYR5.00,N/A,N/A
+1093,pisa-corner-chinese-pancake,Pancake,"51. Peanut Butter, Banana, Cheese and Peanut",Dish Description not available,MYR5.00,N/A,N/A
+1094,pisa-corner-chinese-pancake,Pancake,"52. Peanut Butter, Raisin, Cheese and Peanut",Dish Description not available,MYR5.00,N/A,N/A
+1095,pisa-corner-chinese-pancake,Pancake,"53. Peanut Butter, Chocolate and Cheese and Peanut",Dish Description not available,MYR5.00,N/A,N/A
+1096,pisa-corner-chinese-pancake,Pancake,"54. Peanut Butter, Sweet Corn and Cheese and Peanut",Dish Description not available,MYR5.00,N/A,N/A
+1097,pisa-corner-chinese-pancake,Pancake,"55. Raisin, Chocolate, Cheese and Peanut",Dish Description not available,MYR5.00,N/A,N/A
+1098,pisa-corner-chinese-pancake,Pancake,"56. Raisin, Sweet Corn and Cheese and Peanut",Dish Description not available,MYR5.00,N/A,N/A
+1099,pisa-corner-chinese-pancake,Pancake,57. Tuna Fish and Cheese,Dish Description not available,MYR5.80,N/A,N/A
+1100,pisa-corner-chinese-pancake,Pancake,58. Pork Flossy and Cheese,Dish Description not available,MYR5.80,N/A,N/A
+1101,pisa-corner-chinese-pancake,Pancake,59. Tuna Fish and Omega Egg,Dish Description not available,MYR5.80,N/A,N/A
+1102,pisa-corner-chinese-pancake,Pancake,60. Pork Flossy and Omega Egg,Dish Description not available,MYR5.80,N/A,N/A
+1103,pisa-corner-chinese-pancake,Pancake,"61. Cheese, Omega and Sweet Corn and Peanut",Dish Description not available,MYR5.80,N/A,N/A
+1104,pisa-corner-chinese-pancake,Pancake,"62. Ham, Cheese and Omega Egg",Dish Description not available,MYR6.50,N/A,N/A
+1105,pisa-corner-chinese-pancake,Pancake,"63. Sausage, Cheese and Omega Egg",Dish Description not available,MYR6.50,N/A,N/A
+1106,pisa-corner-chinese-pancake,Pancake,"64. Ham, Sausage and Omega Egg",Dish Description not available,MYR6.50,N/A,N/A
+1107,pisa-corner-chinese-pancake,Pancake,"65. Ham, Sausage and Cheese",Dish Description not available,MYR6.50,N/A,N/A
+1108,pisa-corner-chinese-pancake,Pancake,66. Salad Seafood and Cheese,Dish Description not available,MYR6.50,N/A,N/A
+1109,pisa-corner-chinese-pancake,Pancake,67. Salad Seafood and Omega Egg,Dish Description not available,MYR6.50,N/A,N/A
+1110,pisa-corner-chinese-pancake,Pancake,"68. Ham, Sausage, Cheese and Omega Egg",Dish Description not available,MYR7.50,N/A,N/A
+1111,kak-ramlah-ram-cucur-udang-special,Mains,Cucur Udang,"Comes with cucur, telur, timun, sosej, fishcake, ubi and tauhu",MYR5.80,N/A,N/A
+1112,kak-ramlah-ram-cucur-udang-special,Mains,Laksa,"Comes with laksa, kuah, telur and sayur",MYR4.80,N/A,N/A
+1113,joo-yee-bak-kut-teh,Main,Bak Kut Teh Set,Served with rice,MYR15.00,from N/A,N/A
+1114,s-coconut-shake,Coconut Shakes,Coconut Shake Biasa,Served with 1 scoop of vanilla ice cream,MYR6.90,from MYR5.52,N/A
+1115,s-coconut-shake,Coconut Shakes,Coconut Shake Boba,With 1 scoop of Vanilla Ice-cream,MYR7.90,from MYR6.32,N/A
+1116,s-coconut-shake,Coconut Shakes,Coconut Shake Boba Brown Sugar,Served with 1 scoop of vanilla ice cream,MYR8.50,from MYR6.80,N/A
+1117,s-coconut-shake,Coconut Shakes,Coconut Shake Pudding Mango,Served with 1 scoop of vanilla ice cream,MYR7.90,from MYR6.32,N/A
+1118,s-coconut-shake,Coconut Shakes,Coconut Shake Natadecoco,Served with 1 scoop of vanilla ice cream,MYR6.90,from MYR5.52,N/A
+1119,s-coconut-shake,Coconut Shakes,Coconut Shake Caramel,Served with 1 scoop of vanilla ice cream,MYR7.90,from MYR6.32,N/A
+1120,s-coconut-shake,Coconut Shakes,Coconut Shake Mango,Served with 1 scoop of vanilla ice cream,MYR7.90,from MYR6.32,N/A
+1121,s-coconut-shake,Coconut Shakes,Coconut Shake Strawberry,Served with 1 scoop of vanilla ice cream,MYR6.90,from MYR5.52,N/A
+1122,s-coconut-shake,Coconut Shakes,Coconut Shake Oreo,Large,MYR7.90,from MYR6.32,N/A
+1123,s-coconut-shake,Coconut Shakes,Coconut Shake Almond-Nut,Large,MYR8.90,from MYR7.12,N/A
+1124,s-coconut-shake,Fruity Shake,Mango Shake,With 1 scoop of Vanilla Ice-cream,MYR6.90,from MYR5.52,N/A
+1125,s-coconut-shake,Fruity Shake,Strawberry Shake,Served with 1 scoop of vanilla ice cream,MYR6.90,from MYR5.52,N/A
+1126,s-coconut-shake,Fruity Shake,Mocha Shake,Dish Description not available,MYR6.90,from MYR5.52,N/A
+1127,s-coconut-shake,Fruity Shake,Cocoa Chip Shake,With 1 scoop of vanilla ice cream,MYR6.90,from MYR5.52,N/A
+1128,s-coconut-shake,Fruity Shake,Matcha Green Tea Shake,Dish Description not available,MYR6.90,from MYR5.52,N/A
+1129,s-coconut-shake,Juice,Manggo Passion,With 1 scoop of Vanilla Ice-cream,MYR6.90,from MYR5.52,N/A
+1130,ah-teong-char-koay-teow,Mains,Char Koay Teow,Dish Description not available,MYR6.80,from N/A,N/A
+1131,ah-teong-char-koay-teow,Mains,Char Mee,Dish Description not available,MYR6.80,from N/A,N/A
+1132,ah-teong-char-koay-teow,Mains,Char Chee Cheong Fun,Dish Description not available,MYR6.80,from N/A,N/A
+1133,cube-coffee-one-precinct,Beverages,Cube Coffee,Iced 16oz,MYR9.90,N/A,N/A
+1134,cube-coffee-one-precinct,Beverages,Cocoa Orea,Iced 16oz,MYR9.90,N/A,N/A
+1135,cube-coffee-one-precinct,Beverages,Cocoa Mint,Iced 16oz,MYR11.90,N/A,N/A
+1136,cube-coffee-one-precinct,Beverages,Espresso,Dish Description not available,MYR8.90,N/A,N/A
+1137,cube-coffee-one-precinct,Beverages,Americano,Dish Description not available,MYR8.90,from N/A,N/A
+1138,cube-coffee-one-precinct,Beverages,Cappuccino,Dish Description not available,MYR8.90,from N/A,N/A
+1139,cube-coffee-one-precinct,Beverages,Latte,Dish Description not available,MYR8.90,from N/A,N/A
+1140,cube-coffee-one-precinct,Beverages,Mocha,Dish Description not available,MYR8.90,from N/A,N/A
+1141,cube-coffee-one-precinct,Beverages,Cocoa,Dish Description not available,MYR8.90,from N/A,N/A
+1142,cube-coffee-one-precinct,Beverages,Green Tea,Dish Description not available,MYR8.90,from N/A,N/A
+1143,cube-coffee-one-precinct,Beverages,Honey Milk,Hot 12oz,MYR8.90,N/A,N/A
+1144,cube-coffee-one-precinct,Ice Blended,Ice blended Coffee Caramel,Dish Description not available,MYR11.90,N/A,N/A
+1145,cube-coffee-one-precinct,Ice Blended,Ice blended with Cocoa,Dish Description not available,MYR11.90,N/A,N/A
+1146,cube-coffee-one-precinct,Ice Blended,Ice blended Green Tea,Dish Description not available,MYR11.90,N/A,N/A
+1147,cube-coffee-one-precinct,Ice Blended,Ice Blended Cappucino,Dish Description not available,MYR11.90,N/A,N/A
+1148,cube-coffee-one-precinct,Ice Blended,Ice Blended Mocha,Dish Description not available,MYR11.90,N/A,N/A
+1149,cube-coffee-one-precinct,Ice Blended,Ice Blended Cocoa Banana,Dish Description not available,MYR12.90,N/A,N/A
+1150,cube-coffee-one-precinct,Juices,Apple Juice,Dish Description not available,MYR7.90,N/A,N/A
+1151,cube-coffee-one-precinct,Juices,Mango Juice,Dish Description not available,MYR7.90,N/A,N/A
+1152,cube-coffee-one-precinct,Juices,Strawberry Juice,Dish Description not available,MYR7.90,N/A,N/A
+1153,cube-coffee-one-precinct,Soda Juices,Apple Soda Juice,Dish Description not available,MYR8.90,N/A,N/A
+1154,cube-coffee-one-precinct,Soda Juices,Mango Soda Juice,Dish Description not available,MYR8.90,N/A,N/A
+1155,cube-coffee-one-precinct,Soda Juices,Strawberry Soda Juice,Dish Description not available,MYR8.90,N/A,N/A
+1156,cube-coffee-one-precinct,Soda Juices,Citron Vert & Sour Plum,Dish Description not available,MYR8.90,N/A,N/A
+1157,cube-coffee-one-precinct,Yogurt Beverages,Apple Yogurt Blended,Dish Description not available,MYR12.90,N/A,N/A
+1158,cube-coffee-one-precinct,Yogurt Beverages,Mango Yogurt Blended,Dish Description not available,MYR12.90,N/A,N/A
+1159,cube-coffee-one-precinct,Yogurt Beverages,Strawberry Yogurt Blended,Dish Description not available,MYR12.90,N/A,N/A
+1160,cube-coffee-one-precinct,Flavour Latte,Caramel Latte,Dish Description not available,MYR10.90,N/A,N/A
+1161,cube-coffee-one-precinct,Flavour Latte,Hazelnut Latte,Dish Description not available,MYR9.90,from N/A,N/A
+1162,cube-coffee-one-precinct,Flavour Latte,Vanilla Latte,Dish Description not available,MYR10.90,N/A,N/A
+1163,cube-coffee-one-precinct,Flavour Latte,Rose Coffee,Dish Description not available,MYR9.90,from N/A,N/A
+1164,cube-coffee-one-precinct,Sweet Potato,Sweet Potato & Strawberry,Dish Description not available,MYR12.90,N/A,N/A
+1165,cube-coffee-one-precinct,Sweet Potato,Sweet Potato,Dish Description not available,MYR11.90,from N/A,N/A
+1166,hakka-mee-top-taste-kampung-jawa-,Beverages Hot,Kopi O,Dish Description not available,MYR2.96,N/A,N/A
+1167,hakka-mee-top-taste-kampung-jawa-,Beverages Hot,Teh O,Dish Description not available,MYR2.96,N/A,N/A
+1168,hakka-mee-top-taste-kampung-jawa-,Beverages Hot,Nescafe,Dish Description not available,MYR4.45,N/A,N/A
+1169,hakka-mee-top-taste-kampung-jawa-,Beverages Hot,Teh,Dish Description not available,MYR3.70,N/A,N/A
+1170,hakka-mee-top-taste-kampung-jawa-,Beverages Hot,Kopi,Dish Description not available,MYR3.70,N/A,N/A
+1171,hakka-mee-top-taste-kampung-jawa-,Beverages Hot,Milo,Dish Description not available,MYR4.45,N/A,N/A
+1172,hakka-mee-top-taste-kampung-jawa-,Beverages Cold,Kopi Ice,Dish Description not available,MYR3.70,N/A,N/A
+1173,hakka-mee-top-taste-kampung-jawa-,Beverages Cold,Teh O Ice,Dish Description not available,MYR2.96,N/A,N/A
+1174,hakka-mee-top-taste-kampung-jawa-,Beverages Cold,Kopi O Ice,Dish Description not available,MYR2.96,N/A,N/A
+1175,hakka-mee-top-taste-kampung-jawa-,Beverages Cold,Teh Ice,Dish Description not available,MYR3.70,N/A,N/A
+1176,hakka-mee-top-taste-kampung-jawa-,Beverages Cold,Milo Ice,Dish Description not available,MYR4.45,N/A,N/A
+1177,hakka-mee-top-taste-kampung-jawa-,Beverages Cold,Nescafe Ice,Dish Description not available,MYR4.45,N/A,N/A
+1178,hakka-mee-top-taste-kampung-jawa-,Noodle,Hakka Mee,Dish Description not available,MYR5.90,from N/A,N/A
+1179,restoran-mamu-anwar,Mains,Mee Goreng,Dish Description not available,MYR7.40,N/A,N/A
+1180,restoran-mamu-anwar,Mains,Maggi Goreng,Dish Description not available,MYR7.40,N/A,N/A
+1181,restoran-mamu-anwar,Mains,Maggi Goreng Sotong,Dish Description not available,MYR8.90,N/A,N/A
+1182,restoran-mamu-anwar,Mains,Mee Goreng Sotong,Dish Description not available,MYR8.90,N/A,N/A
+1183,restoran-mamu-anwar,Mains,Mee Rebus,Dish Description not available,MYR7.40,N/A,N/A
+1184,restoran-mamu-anwar,Mains,Bihun Goreng,Dish Description not available,MYR7.90,N/A,N/A
+1185,restoran-mamu-anwar,Mains,Kuey Teow Rebus,Dish Description not available,MYR7.90,N/A,N/A
+1186,restoran-mamu-anwar,Mains,Bihun Rebus,Dish Description not available,MYR7.90,N/A,N/A
+1187,restoran-mamu-anwar,Mains,Bihun Rebus Sotong,Dish Description not available,MYR8.90,N/A,N/A
+1188,restoran-mamu-anwar,Mains,Bihun Goreng Telur Mata,Dish Description not available,MYR8.90,N/A,N/A
+1189,restoran-mamu-anwar,Mains,Kuey Teow Rebus Sotong,Dish Description not available,MYR8.90,N/A,N/A
+1190,restoran-mamu-anwar,Mains,Mee Rebus,Dish Description not available,MYR7.40,N/A,N/A
+1191,restoran-mamu-anwar,Mains,Bihun Goreng Sotong,Dish Description not available,MYR8.90,N/A,N/A
+1192,restoran-mamu-anwar,Mains,Kuey Teow Rebus Sotong,Dish Description not available,MYR8.90,N/A,N/A
+1193,restoran-mamu-anwar,Mains,Kuey Teow Goreng,Dish Description not available,MYR7.90,N/A,N/A
+1194,restoran-mamu-anwar,Mains,Bihun Rebus Sotong,Dish Description not available,MYR8.90,N/A,N/A
+1195,restoran-mamu-anwar,Mains,Kuey Teow Goreng Sotong,Dish Description not available,MYR8.90,N/A,N/A
+1196,restoran-mamu-anwar,Mains,Mee Rebus,Dish Description not available,MYR7.40,N/A,N/A
+1197,restoran-mamu-anwar,Beverages,Teh Tarik,Dish Description not available,MYR2.20,from N/A,N/A
+1198,restoran-mamu-anwar,Beverages,Kopi,Dish Description not available,MYR2.20,from N/A,N/A
+1199,restoran-mamu-anwar,Beverages,Kopi O,Dish Description not available,MYR2.00,from N/A,N/A
+1200,restoran-mamu-anwar,Beverages,Teh O,Dish Description not available,MYR2.00,from N/A,N/A
+1201,restoran-mamu-anwar,Beverages,Teh O Halia,Dish Description not available,MYR2.20,from N/A,N/A
+1202,restoran-mamu-anwar,Beverages,Teh O Limau,Dish Description not available,MYR2.20,from N/A,N/A
+1203,restoran-mamu-anwar,Beverages,Halia O,Dish Description not available,MYR2.00,from N/A,N/A
+1204,restoran-mamu-anwar,Beverages,Nescafe,Dish Description not available,MYR3.60,from N/A,N/A
+1205,restoran-mamu-anwar,Beverages,Nescafe O,Dish Description not available,MYR3.30,from N/A,N/A
+1206,restoran-mamu-anwar,Beverages,Milo,Dish Description not available,MYR3.60,from N/A,N/A
+1207,restoran-mamu-anwar,Beverages,Milo O,Dish Description not available,MYR3.30,from N/A,N/A
+1208,restoran-mamu-anwar,Beverages,Neslo,Dish Description not available,MYR3.90,from N/A,N/A
+1209,restoran-mamu-anwar,Beverages,Limau,Dish Description not available,MYR2.20,from N/A,N/A
+1210,restoran-mamu-anwar,Beverages,Sirap,Dish Description not available,MYR2.00,from N/A,N/A
+1211,restoran-mamu-anwar,Beverages,Sirap Limau,Dish Description not available,MYR2.40,from N/A,N/A
+1212,restoran-mamu-anwar,Beverages,Bandung,Dish Description not available,MYR2.40,from N/A,N/A
+1213,restoran-mamu-anwar,Beverages,Air Asam,Dish Description not available,MYR2.40,from N/A,N/A
+1214,restoran-mamu-anwar,Beverages,Sunquick Oren,Dish Description not available,MYR3.30,N/A,N/A
+1215,restoran-mamu-anwar,Beverages,Air Kosong,Dish Description not available,MYR0.50,N/A,N/A
+1216,restoran-mamu-anwar,Beverages,Sirap Laici,Dish Description not available,MYR5.20,N/A,N/A
+1217,ina-mee-sotong,Noodles,Mee Sotong Kecil,Dish Description not available,MYR8.90,N/A,N/A
+1218,ina-mee-sotong,Noodles,Mee Sotong Besar,Dish Description not available,MYR10.30,N/A,N/A
+1219,ina-mee-sotong,Noodles,Kuey Teow Sotong Kecil,Dish Description not available,MYR8.90,N/A,N/A
+1220,ina-mee-sotong,Noodles,Kuey Teow Sotong Besar,Dish Description not available,MYR10.30,N/A,N/A
+1221,ina-mee-sotong,Noodles,Bihun Sotong Kecil,Dish Description not available,MYR8.90,N/A,N/A
+1222,ina-mee-sotong,Noodles,Bihun Sotong Besar,Dish Description not available,MYR10.30,N/A,N/A
+1223,ina-mee-sotong,Noodles,Maggi Sotong Kecil,Dish Description not available,MYR8.90,N/A,N/A
+1224,ina-mee-sotong,Noodles,Maggi Sotong Besar,Dish Description not available,MYR10.30,N/A,N/A
+1225,ina-mee-sotong,A La Carte,Pasembur Sotong Kecil,Dish Description not available,MYR8.90,N/A,N/A
+1226,ina-mee-sotong,A La Carte,Pasembur Sotong Besar,Dish Description not available,MYR10.30,N/A,N/A
+1227,no-s-pizza-pos-integration,New,Signature Quattro Beef (Classic),"Four different flavors - Beef Pepperoni, Aloha Chicken, Prawn Sensation and Simply Cheese, loaded with mushrooms for that extra burst of flavor.",MYR35.80,from MYR21.48,N/A
+1228,no-s-pizza-pos-integration,New,Signature Quattro Chicken (Classic),"Four different flavors - Chicken Pepperoni, Aloha Chicken, Prawn Sensation and Simply Cheese, loaded with mushrooms for that extra burst of flavor.",MYR35.80,from MYR21.48,N/A
+1229,no-s-pizza-pos-integration,New,Vegie Quattro (Favorites),"Four vegetable flavors in one pizza. Crunch spinach, juicy tomatoes, succulent olives and zesty pineapples with fresh green peppers. Vegie Pizza just became lip smacking good.",MYR31.90,from MYR19.14,N/A
+1230,no-s-pizza-pos-integration,Favourites Pizza,BBQ CHICKEN,"SUCCULENT SHREDDED CHICKEN, FRESH ONIONS, GREEN PEPPER TOPPED WITH 100% MOZZARELLA CHEESE & TANGY BBQ SAUCE",MYR31.90,from MYR19.14,N/A
+1231,no-s-pizza-pos-integration,Favourites Pizza,SAMBAL VEGIE,"FRESH MUSHROOMS, GREEN PEPPERS, ONIONS, RIPE OLIVES AND CHERRY TOMATOES ON OUR NEW AND AUTHENTIC SAMBAL SAUCE",MYR31.90,from MYR19.14,N/A
+1232,no-s-pizza-pos-integration,Favourites Pizza,SMOKY BEEF & CHICK,"ONION SLICES, GREEN PEPPERS, GROUND BEEF AND CHICKEN POTPOURRI SAUSAGES ON OUR AWESOME SMOKY BLENDED BBQ SAUCE",MYR31.90,from MYR19.14,N/A
+1233,no-s-pizza-pos-integration,Favourites Pizza,VEGIE FIESTA,"A VEGGIE LOVER'S DREAM. FRESH ONIONS, MUSHROOMS, GREEN PEPPER AND JUICY PINEAPPLES",MYR31.90,from MYR19.14,N/A
+1234,no-s-pizza-pos-integration,Favourites Pizza,VEGIE GALORE,"A DELIGHTFUL MIX OF FRESH ONIONS, GREEN PEPPER, CHERRY TOMATOES, AND MUSHROOMS",MYR31.90,from MYR19.14,N/A
+1235,no-s-pizza-pos-integration,Favourites Pizza,FLAMING TUNA,"DELICIOUS TUNA CHUNKS, FRESH ONIONS TOPPED WITH RED-HOT CHILIES! GET READY FOR A SPICY ENCOUNTER",MYR31.90,from MYR19.14,N/A
+1236,no-s-pizza-pos-integration,Favourites Pizza,SEAFOOD DELIGHT,"OUR SEAFOOD SPECIALTY IS OVERFLOWING WITH SUCCULENT CRAB MEAT, DELICIOUS TUNA CHUNKS, FRESH ONIONS AND GREEN PEPPER",MYR31.90,from MYR19.14,N/A
+1237,no-s-pizza-pos-integration,Classics Pizza,CLASSIC CHICKEN,"LOADED WITH SUCCULENT SHREDDED, FRESH ONIONS, GREEN PEPPER, AND RIPE OLIVES. TRULY DELICIOUS!",MYR35.80,from MYR21.48,N/A
+1238,no-s-pizza-pos-integration,Classics Pizza,EXTRAVAGANZZA,"OUR SIGNATURE PIZZA LOVED BY THE WORLD. TOPPED WITH BEEF PEPPERONI, GROUND BEEF, FRESH ONIONS, GREEN PEPPER, MUSHROOM, AND RIPE OLIVES. NEED WE SAY MORE?",MYR35.80,from MYR21.48,N/A
+1239,no-s-pizza-pos-integration,Classics Pizza,MEAT MANIA,"MEAT LOVERS, GET READY TO MEET YOUR MATCH! LOADED WITH BEEF PEPPERONI, BEEF SAUSAGES, GROUND BEEF, CHICKEN SAUSAGES, AND RIPE OLIVES.",MYR35.80,from MYR21.48,N/A
+1240,no-s-pizza-pos-integration,Classics Pizza,SMOKY PEPPERONI MUSHROOM,BEEF PEPPERONI AND MUSHROOM SLICES ON OUR AWESOME SMOKY BLENDED BBQ SAUCE,MYR35.80,from MYR21.48,N/A
+1241,no-s-pizza-pos-integration,Classics Pizza,SPICY SAMBAL,"A UNIQUELY MALAYSIAN CREATION WITH SUCCULENT SHREDDED CHICKEN, ANCHOVIES, RED-HOT CHILIES, GREEN PEPPER, AND FRESH ONIONS!",MYR35.80,from MYR21.48,N/A
+1242,no-s-pizza-pos-integration,Classics Pizza,SPICY SAUSAGES,"A FIERY MIX OF CHICKEN POTPOURRI SAUSAGES, RED-HOT CHILIES, AND JUICY PINEAPPLES. A HOT FAVOURITE!",MYR35.80,from MYR21.48,N/A
+1243,no-s-pizza-pos-integration,First Class Pizza,CHICKEN CONFIDENTIAL,"ONIONS, CHERRY TOMATOES, PINEAPPLE, CHICKEN POTPOURRI, ROASTED CHICKEN AND SHREDDED CHICKEN ON OUR DELICIOUS TOP SECRET SAUCE",MYR37.80,from MYR22.68,N/A
+1244,no-s-pizza-pos-integration,First Class Pizza,CHICKENSAURUS,"ROASTED CHICKEN, CHICKEN PEPPERONI AND MUSHROOM SLICES ON OUR AWESOME SMOKY BLENDED BBQ SAUCE",MYR37.80,from MYR22.68,N/A
+1245,no-s-pizza-pos-integration,First Class Pizza,MEATASAURUS,"GENEROUS PORTIONS OF EVERYONE'S FAVORITE BEEF PEPPERONI, GROUND BEEF AND FRESH MUSHROOMS ON OUR NEW BLENDED SMOKY BBQ SAUCE",MYR37.80,from MYR22.68,N/A
+1246,no-s-pizza-pos-integration,First Class Pizza,PRAWN SENSATION,"SUCCULENT PRAWNS, MARINATED IN ITALIAN HERBS & SPICES, IMPORTED BELGIAN SPINACH, JUICY CHERRY TOMATOES & ONIONS WITH OUR BRAND NEW PIZZA SAUCE",MYR37.80,from MYR22.68,N/A
+1247,no-s-pizza-pos-integration,First Class Pizza,SAMBAL SURF & TURF,"SUCCULENT PRAWNS MARINATED IN HERBS & SPICES, SHREDDED CHICKEN, JUICY PINEAPPLES AND GREEN PEPPERS ON OUR NEW AND AUTHENTIC SAMBAL SAUCE",MYR37.80,from MYR22.68,N/A
+1248,no-s-pizza-pos-integration,First Class Pizza,TROPICAL SAMBAL PRAWN,"SUCCULENT PRAWNS MARINATED IN HERBS & SPICES. FRESH ONIONS, JUICY PINEAPPLES, RED CHILIES ON OUR NEW AND AUTHENTIC SAMBAL SAUCE",MYR37.80,from MYR22.68,N/A
+1249,no-s-pizza-pos-integration,Sides,SPAGHETTI CHICKEN,Dish Description not available,MYR17.90,MYR10.74,N/A
+1250,no-s-pizza-pos-integration,Sides,FABULOUS FOUR,"THE FABULOUS FOUR IS THE PERFECT PARTNER FOR YOUR PIZZAS, WITH MOUTHWATERING MIX OF SAVOURY TREATS AND SWEET DELIGHTS",MYR33.90,MYR20.34,N/A
+1251,no-s-pizza-pos-integration,Sides,CRAZY CHICKEN CRUNCHIE ORIGINAL,"NEW ORIGINAL FLAVOUR OF OUR DELICIOUS CRAZY CHICKEN CRUNCHIES. TENDER CUTS OF SUCCULENT CHICKEN BREAST, MARINATED AND BREADED THEN BAKED TO PERFECTION",MYR17.90,MYR10.74,N/A
+1252,no-s-pizza-pos-integration,Sides,CRAZY CHICKEN CRUNCHIE TOM YAM,MARINATED IN AUTHENTIC TOM YAM SPICES FOR THAT ' CRAZY ' KICK! CRISPY ON THE OUTSIDE AND PACKED WITH FLAVOR ON THE INSIDE,MYR17.90,MYR10.74,N/A
+1253,no-s-pizza-pos-integration,Sides,CHICKEN WINGS PLAIN,"WELL SEASONED ROASTED CHICKEN WINGS, TENDER AND JUICY",MYR17.90,MYR10.74,N/A
+1254,no-s-pizza-pos-integration,Sides,CHICKEN WINGS BBQ,JUICY AND TENDER ROASTED CHICKEN WINGS TOSSED WITH TANGY BBQ SAUCE,MYR17.90,MYR10.74,N/A
+1255,no-s-pizza-pos-integration,Sides,BREADSTIX,SINK YOUR TEETH INTO 8 BAKED TREATS FILLED WITH GARLIC GOODNESS,MYR11.50,MYR6.90,N/A
+1256,no-s-pizza-pos-integration,Sides,CHEDDAR CHEESE STIX,CHEESY STICKS LOADED WITH CHEDDAR AND SPRINKLED WITH PARMESAN CHEESE,MYR13.90,MYR8.34,N/A
+1257,no-s-pizza-pos-integration,Sides,CINNASTIX,"SOFT AND FLUFFY BREADSTICKS, SPRINKLED WITH CINNAMON AND SUGAR, THEN BAKED TO PERFECTION. SERVED WITH SWEET ICING",MYR11.50,MYR6.90,N/A
+1258,no-s-pizza-pos-integration,Sides,ROASTED CHICKEN DRUMMETS,"JUICY CHICKEN DRUMMETS MARINATED IN DRIED OREGANO, BLACK PEPPER AND GARLIC THEN ROASTED TO PERFECTION",MYR17.90,MYR10.74,N/A
+1259,no-s-pizza-pos-integration,Desserts,DURIAN LAVA CAKE,Irresistible lava cake filled with real D24 durian flesh blended with cheese.,MYR17.90,MYR10.74,N/A
+1260,no-s-pizza-pos-integration,Desserts,BLUEBERRY CHEESECAKE LAVA CAKE,"A CREAMY CHEESECAKE FILLED WITH LUSCIOUS, WARM SAUCE.",MYR15.90,MYR9.54,N/A
+1261,no-s-pizza-pos-integration,Desserts,CHOCOLATE LAVA CAKE,"DISCOVER A LUSCIOUSLY MELTED SOFT CHOCOLATE CENTRE, OVERFLOWING WITH CHOCOLATEY GOODNESS",MYR15.90,MYR9.54,N/A
+1262,no-s-pizza-pos-integration,Drinks,BLEU MINERAL WATER,BLEU MINERAL WATER,MYR5.00,MYR3.00,N/A
+1263,no-s-pizza-pos-integration,Drinks,PEPSI (BOTTLE),PEPSI,MYR9.90,MYR5.94,N/A
+1264,no-s-pizza-pos-integration,Drinks,7UP (BOTTLE),7UP,MYR9.90,MYR5.94,N/A
+1265,no-s-pizza-pos-integration,Drinks,MOUNTAIN DEW (BOTTLE),MOUNTAIN DEW,MYR9.90,MYR5.94,N/A
+1266,no-s-pizza-pos-integration,Drinks,PEPSI BLACK (BOTTLE),PEPSI BLACK 1.5L,MYR9.90,MYR5.94,N/A
+1267,no-s-pizza-pos-integration,Drinks,LIPTON ICE TEA - LEMON (BOTTLE),LIPTON ICE TEA,MYR12.50,MYR7.50,N/A
+1268,no-s-pizza-pos-integration,Drinks,TWISTER ORANGE (BOTTLE),TROPICANA TWISTER ORANGE,MYR15.50,MYR9.30,N/A
+1269,no-s-pizza-pos-integration,Drinks,PEPSI (CAN),PEPSI,MYR7.50,MYR4.50,N/A
+1270,no-s-pizza-pos-integration,Drinks,7UP (CAN),7UP,MYR7.50,MYR4.50,N/A
+1271,no-s-pizza-pos-integration,Drinks,MOUNTAIN DEW (CAN),MOUNTAIN DEW,MYR7.50,MYR4.50,N/A
+1272,no-s-pizza-pos-integration,Drinks,LIPTON ICE TEA - LEMON (CAN),LIPTON ICE TEA,MYR8.50,MYR5.10,N/A
+1273,simply-sedap-cafe-restaurant-relau,Mains,Nasi Ayam,Dish Description not available,MYR8.00,N/A,N/A
+1274,simply-sedap-cafe-restaurant-relau,Mains,Ayam Budu,Dish Description not available,MYR8.50,N/A,N/A
+1275,simply-sedap-cafe-restaurant-relau,Mains,Pecel Ayam,Dish Description not available,MYR8.00,N/A,N/A
+1276,simply-sedap-cafe-restaurant-relau,Mains,Bihun Sup,Dish Description not available,MYR8.00,N/A,N/A
+1277,simply-sedap-cafe-restaurant-relau,Mains,Ayam Rempah,Dish Description not available,MYR8.50,N/A,N/A
+1278,simply-sedap-cafe-restaurant-relau,Mains,Bakso,Dish Description not available,MYR8.00,N/A,N/A
+1279,simply-sedap-cafe-restaurant-relau,Mains,Mi Sup,Dish Description not available,MYR8.00,N/A,N/A
+1280,simply-sedap-cafe-restaurant-relau,Mains,Opor Ayam,Dish Description not available,MYR10.00,N/A,N/A
+1281,simply-sedap-cafe-restaurant-relau,Mains,Soto Ayam,Dish Description not available,MYR10.00,N/A,N/A
+1282,simply-sedap-cafe-restaurant-relau,Mains,Rendang Daging,Dish Description not available,MYR10.00,N/A,N/A
+1283,simply-sedap-cafe-restaurant-relau,Mains,Ayam Madu,Dish Description not available,MYR10.00,N/A,N/A
+1284,simply-sedap-cafe-restaurant-relau,Mains,Lontong Ayam,Dish Description not available,MYR9.00,N/A,N/A
+1285,simply-sedap-cafe-restaurant-relau,Mains,Laksa,Dish Description not available,MYR6.50,N/A,N/A
+1286,simply-sedap-cafe-restaurant-relau,Mains,Kentang Goreng,Dish Description not available,MYR9.00,N/A,N/A
+1287,simply-sedap-cafe-restaurant-relau,Mains,Mee Ayam,Dish Description not available,MYR11.00,N/A,N/A
+1288,simply-sedap-cafe-restaurant-relau,Mains,Bakso Ayam,Dish Description not available,MYR11.00,N/A,N/A
+1289,simply-sedap-cafe-restaurant-relau,Mains,Chicken Chop,Dish Description not available,MYR13.00,N/A,N/A
+1290,simply-sedap-cafe-restaurant-relau,Mains,Sate Ayam,Dish Description not available,MYR13.00,N/A,N/A
+1291,simply-sedap-cafe-restaurant-relau,Mains,Ayam Bakar,Dish Description not available,MYR13.00,N/A,N/A
+1292,simply-sedap-cafe-restaurant-relau,Mains,Ayam Penyet,Dish Description not available,MYR12.00,N/A,N/A
+1293,simply-sedap-cafe-restaurant-relau,Mains,Gulai Tulang,Dish Description not available,MYR11.00,N/A,N/A
+1294,simply-sedap-cafe-restaurant-relau,Mains,Bakso Tulang,Dish Description not available,MYR12.00,N/A,N/A
+1295,simply-sedap-cafe-restaurant-relau,Mains,Bawal Goreng,Dish Description not available,MYR14.50,N/A,N/A
+1296,simply-sedap-cafe-restaurant-relau,Mains,Ikan Goreng,Dish Description not available,MYR10.50,N/A,N/A
+1297,simply-sedap-cafe-restaurant-relau,Mains,Pecel Lele,Dish Description not available,MYR9.00,N/A,N/A
+1298,simply-sedap-cafe-restaurant-relau,Mains,Rendang Ayam,Dish Description not available,MYR10.00,N/A,N/A
+1299,simply-sedap-cafe-restaurant-relau,Mains,Nasi Keli Goreng,Dish Description not available,MYR10.00,N/A,N/A
+1300,simply-sedap-cafe-restaurant-relau,Mains,Bakso Super Special,Dish Description not available,MYR18.50,N/A,N/A
+1301,simply-sedap-cafe-restaurant-relau,Mains,Puyuh Goreng,Dish Description not available,MYR13.00,N/A,N/A
+1302,simply-sedap-cafe-restaurant-relau,Beverages,Ais Nangka,Dish Description not available,MYR7.00,N/A,N/A
+1303,simply-sedap-cafe-restaurant-relau,Beverages,Longan Mix,Dish Description not available,MYR7.00,N/A,N/A
+1304,simply-sedap-cafe-restaurant-relau,Beverages,Coconut Milk,Dish Description not available,MYR7.00,N/A,N/A
+1305,simply-sedap-cafe-restaurant-relau,Beverages,Bandung Special,Dish Description not available,MYR7.00,N/A,N/A
+1306,simply-sedap-cafe-restaurant-relau,Beverages,Laicikang,Dish Description not available,MYR7.00,N/A,N/A
+1307,simply-sedap-cafe-restaurant-relau,Beverages,Ais Kacang,Dish Description not available,MYR7.00,N/A,N/A
+1308,simply-sedap-cafe-restaurant-relau,Beverages,Jagung Special,Dish Description not available,MYR7.00,N/A,N/A
+1309,simply-sedap-cafe-restaurant-relau,Beverages,Cendol,Dish Description not available,MYR7.00,N/A,N/A
+1310,simply-sedap-cafe-restaurant-relau,Beverages,Coconut Shake,Dish Description not available,MYR5.50,N/A,N/A
+1311,simply-sedap-cafe-restaurant-relau,Beverages,Kelapa Lombok,Dish Description not available,MYR5.50,N/A,N/A
+1312,simply-sedap-cafe-restaurant-relau,Beverages,Jagung Cincau,Dish Description not available,MYR4.00,N/A,N/A
+1313,simply-sedap-cafe-restaurant-relau,Beverages,Soya Mix,Dish Description not available,MYR4.00,N/A,N/A
+1314,simply-sedap-cafe-restaurant-relau,Beverages,Teh Cincau,Dish Description not available,MYR4.00,N/A,N/A
+1315,simply-sedap-cafe-restaurant-relau,Beverages,Kelapa,Dish Description not available,MYR4.00,N/A,N/A
+1316,simply-sedap-cafe-restaurant-relau,Beverages,Jus Jambu,Dish Description not available,MYR4.00,N/A,N/A
+1317,simply-sedap-cafe-restaurant-relau,Beverages,Bandung Cincau,Dish Description not available,MYR4.00,N/A,N/A
+1318,simply-sedap-cafe-restaurant-relau,Beverages,Ice Blended,Dish Description not available,MYR5.50,from N/A,N/A
+1319,simply-sedap-cafe-restaurant-relau,Beverages,Kopi Special,Dish Description not available,MYR4.00,from N/A,N/A
+1320,simply-sedap-cafe-restaurant-relau,Beverages,Jus Apple,Dish Description not available,MYR5.50,N/A,N/A
+1321,simply-sedap-cafe-restaurant-relau,Beverages,Jus Oren,Dish Description not available,MYR5.50,N/A,N/A
+1322,simply-sedap-cafe-restaurant-relau,Beverages,Carrot Jus,Dish Description not available,MYR5.50,N/A,N/A
+1323,qbean,Desserts,Taufufah with Gula Melacca,Dish Description not available,MYR5.15,N/A,N/A
+1324,qbean,Desserts,Taufufah with Cane Sugar,Dish Description not available,MYR5.15,N/A,N/A
+1325,qbean,Desserts,Ginger Taufufah with Gula Melacca,Dish Description not available,MYR6.55,N/A,N/A
+1326,qbean,Desserts,Ginger Taufufah with Cane Sugar,Dish Description not available,MYR6.55,N/A,N/A
+1327,qbean,All Day Menu,Soy With Gula Melacca,Dish Description not available,MYR3.75,N/A,N/A
+1328,qbean,All Day Menu,Soy With White Cane Sugar,Dish Description not available,MYR3.75,N/A,N/A
+1329,qbean,All Day Menu,Original Soy Without Sugar,Dish Description not available,MYR3.75,N/A,N/A
+1330,qbean,All Day Menu,Ginger Soy With Gula Melacca,Dish Description not available,MYR6.25,N/A,N/A
+1331,qbean,All Day Menu,Ginger Soy With Cane Sugar,Dish Description not available,MYR6.25,N/A,N/A
+1332,qbean,All Day Menu,Ginger Soy Without Sugar,Dish Description not available,MYR6.25,N/A,N/A
+1333,qbean,All Day Menu,Green Tea Soy,Dish Description not available,MYR6.35,N/A,N/A
+1334,qbean,All Day Menu,Chocolate Soy,Dish Description not available,MYR6.35,N/A,N/A
+1335,sakurajima-japanese-chinese-restaurant-penang-golf-club,Bento,Salmon Teriyaki Bento,Dish Description not available,MYR66.00,N/A,N/A
+1336,sakurajima-japanese-chinese-restaurant-penang-golf-club,Bento,Tori Teriyaki Bento,Dish Description not available,MYR44.00,N/A,N/A
+1337,sakurajima-japanese-chinese-restaurant-penang-golf-club,Bento,Teppanyaki Beef Bento,Dish Description not available,MYR55.00,N/A,N/A
+1338,sakurajima-japanese-chinese-restaurant-penang-golf-club,Noodles,Fried Dry Hor Fun,Dish Description not available,MYR9.80,N/A,N/A
+1339,sakurajima-japanese-chinese-restaurant-penang-golf-club,Noodles,Fried Dry Koay Teow,Dish Description not available,MYR9.80,N/A,N/A
+1340,sakurajima-japanese-chinese-restaurant-penang-golf-club,Noodles,Fried Kuai Hua Noodle,Dish Description not available,MYR10.80,N/A,N/A
+1341,sakurajima-japanese-chinese-restaurant-penang-golf-club,Noodles,Fried Mee Mamak,Dish Description not available,MYR10.80,N/A,N/A
+1342,sakurajima-japanese-chinese-restaurant-penang-golf-club,Noodles,Tom Yam Beehoon,Dish Description not available,MYR10.80,N/A,N/A
+1343,sakurajima-japanese-chinese-restaurant-penang-golf-club,Noodles,Tom Yam Egg Fried Noodle,Dish Description not available,MYR10.80,N/A,N/A
+1344,sakurajima-japanese-chinese-restaurant-penang-golf-club,Rice,Belachan Chicken Rice Set,Dish Description not available,MYR18.80,N/A,N/A
+1345,sakurajima-japanese-chinese-restaurant-penang-golf-club,Rice,Curry Chicken Rice Set,Dish Description not available,MYR18.80,N/A,N/A
+1346,sakurajima-japanese-chinese-restaurant-penang-golf-club,Rice,Lemon Sauce Chicken Rice Set,Dish Description not available,MYR18.80,N/A,N/A
+1347,sakurajima-japanese-chinese-restaurant-penang-golf-club,Rice,Mango Chicken Rice Set,Dish Description not available,MYR18.80,N/A,N/A
+1348,sakurajima-japanese-chinese-restaurant-penang-golf-club,Rice,Marmite Chicken Rice Set,Dish Description not available,MYR18.80,N/A,N/A
+1349,sakurajima-japanese-chinese-restaurant-penang-golf-club,Rice,Salted & Pepper Chicken Rice Set,Dish Description not available,MYR18.80,N/A,N/A
+1350,sakurajima-japanese-chinese-restaurant-penang-golf-club,Rice,Salted Pepper Fish Set,Dish Description not available,MYR18.80,N/A,N/A
+1351,sakurajima-japanese-chinese-restaurant-penang-golf-club,Rice,Sweet & Sour Boneless Chicken Rice Set,Dish Description not available,MYR18.80,N/A,N/A
+1352,sakurajima-japanese-chinese-restaurant-penang-golf-club,Rice,Vegetarian Rice Set,Dish Description not available,MYR18.80,N/A,N/A
+1353,sakurajima-japanese-chinese-restaurant-penang-golf-club,Japanese Meal,Chirasi Don,Dish Description not available,MYR41.00,N/A,N/A
+1354,sakurajima-japanese-chinese-restaurant-penang-golf-club,Japanese Meal,Ebi Tempura,Dish Description not available,MYR27.00,N/A,N/A
+1355,sakurajima-japanese-chinese-restaurant-penang-golf-club,Japanese Meal,Gyu Niku Don,Dish Description not available,MYR32.00,N/A,N/A
+1356,sakurajima-japanese-chinese-restaurant-penang-golf-club,Japanese Meal,Oyako Don,Dish Description not available,MYR23.00,N/A,N/A
+1357,sakurajima-japanese-chinese-restaurant-penang-golf-club,Japanese Meal,Oyster Don,Dish Description not available,MYR30.00,N/A,N/A
+1358,sakurajima-japanese-chinese-restaurant-penang-golf-club,Japanese Meal,Saba Teriyaki Don,Dish Description not available,MYR23.00,N/A,N/A
+1359,sakurajima-japanese-chinese-restaurant-penang-golf-club,Japanese Meal,Salmon Teriyaki Don,Dish Description not available,MYR25.00,N/A,N/A
+1360,sakurajima-japanese-chinese-restaurant-penang-golf-club,Japanese Meal,Tori Katsu Don,Dish Description not available,MYR25.00,N/A,N/A
+1361,sakurajima-japanese-chinese-restaurant-penang-golf-club,Japanese Meal,Tori Teriyaki Don,Dish Description not available,MYR19.00,N/A,N/A
+1362,sakurajima-japanese-chinese-restaurant-penang-golf-club,Japanese Meal,Unagi Don,Dish Description not available,MYR45.00,N/A,N/A
+1363,sakurajima-japanese-chinese-restaurant-penang-golf-club,Side Dishes,Chicken Lobak,Dish Description not available,MYR15.00,N/A,N/A
+1364,sakurajima-japanese-chinese-restaurant-penang-golf-club,Side Dishes,Salted Pepper Chicken,Dish Description not available,MYR18.00,N/A,N/A
+1365,sakurajima-japanese-chinese-restaurant-penang-golf-club,Side Dishes,Sesame Ball,Dish Description not available,MYR8.00,N/A,N/A
+1366,sakurajima-japanese-chinese-restaurant-penang-golf-club,Side Dishes,Spring Roll,Dish Description not available,MYR15.00,N/A,N/A
+1367,blok5-food-drink,Special,Chicken Nugget,Nugget tempura with cili sos & mayonis,MYR7.50,N/A,N/A
+1368,blok5-food-drink,Special,Spicy Chicken Wings,Chicken wing & drum with spicy korean sauce,MYR8.50,N/A,N/A
+1369,blok5-food-drink,Smoothies,M&m Ice Blended,Dish Description not available,MYR8.00,N/A,N/A
+1370,blok5-food-drink,Smoothies,Coffee Blok5,Special made coffea with vanilla icecream topping,MYR7.50,N/A,N/A
+1371,blok5-food-drink,Smoothies,Avocado Chocolate Ice Blended,Dish Description not available,MYR7.50,N/A,N/A
+1372,blok5-food-drink,Smoothies,Blok5 Coconut Shake,Coconut shake with vanilla icecream topping,MYR7.50,N/A,N/A
+1373,blok5-food-drink,Smoothies,Oreo Ice Blended,Dish Description not available,MYR8.50,N/A,N/A
+1374,blok5-food-drink,Smoothies,Snickers Ice Blended,Dish Description not available,MYR8.50,N/A,N/A
+1375,blok5-food-drink,Smoothies,Snickers Ice Blended,Dish Description not available,MYR8.50,N/A,N/A
+1376,blok5-food-drink,Smoothies,Oreo Ice Blended,Dish Description not available,MYR8.50,N/A,N/A
+1377,blok5-food-drink,Fruit Juice,Laici,Dish Description not available,MYR4.50,N/A,N/A
+1378,blok5-food-drink,Fruit Juice,Carrot Juice,Dish Description not available,MYR4.50,N/A,N/A
+1379,blok5-food-drink,Fruit Juice,Fresh Orange,Dish Description not available,MYR4.50,N/A,N/A
+1380,blok5-food-drink,Fruit Juice,Apple Juice,Dish Description not available,MYR4.50,N/A,N/A
+1381,blok5-food-drink,Fruit Juice,Laici,Dish Description not available,MYR4.50,N/A,N/A
+1382,blok5-food-drink,Combo,Combo Chicken Patty,"Fried Chicken Patty,Nasi Goreng, Meatball, Mashed potato and side vege",MYR16.90,N/A,N/A
+1383,blok5-food-drink,Combo,Combo Lamb Grill,"Grilled Lamb, Nasi Goreng, Meatball, Mashed potato and side vege",MYR23.90,N/A,N/A
+1384,blok5-food-drink,Combo,Combo C/Chop Bangsawan,"Fried C/chop, Nasi Goreng, Meatball, Mashed potato and side vege",MYR20.90,N/A,N/A
+1385,blok5-food-drink,Combo,Combo Chicken Grill,"Grilled chicken, Nasi Goreng, Meatball, Mashed potato and side vege",MYR21.90,N/A,N/A
+1386,blok5-food-drink,East,Nasi Lemak Sambal Sotong,"Nasi lemak, telur dadar, kacang & sambal sotong pedas",MYR6.50,N/A,N/A
+1387,blok5-food-drink,East,Nasi Lemak Block 5,"Nasi lemak, telur goreng, kacang, sambal sotong pedas & ayam crispy",MYR10.80,N/A,N/A
+1388,blok5-food-drink,East,Nasi Goreng Sambal Sotong,"Nasi goreng, sambal sotong kering & telur goreng",MYR9.00,N/A,N/A
+1389,blok5-food-drink,East,Nasi Goreng Ayam Crispy,"Nasi goreng, sambal, ayam goreng crispy & telur goreng",MYR9.00,N/A,N/A
+1390,blok5-food-drink,East,Nasi Goreng Block 5,"Nasi goreng, sambal sotong, ayam goreng crispy & telur goreng",MYR12.20,N/A,N/A
+1391,blok5-food-drink,East,Nasi Goreng Sotong Crispy,Dish Description not available,MYR9.50,N/A,N/A
+1392,blok5-food-drink,East,Nasi Lemak Udang Crispy,Dish Description not available,MYR8.50,N/A,N/A
+1393,blok5-food-drink,East,Nasi Goreng Seafood Blok5,Dish Description not available,MYR13.50,N/A,N/A
+1394,blok5-food-drink,East,Nasi Lemak Di Raja Blok5,"Ayam,udang&sotong crispy, sambal sotong",MYR15.50,N/A,N/A
+1395,blok5-food-drink,East,Nasi Goreng Udang Crispy,Dish Description not available,MYR11.00,N/A,N/A
+1396,blok5-food-drink,East,Nasi Lemak Seafood Blok5,Sotong&udang crispy,MYR11.90,N/A,N/A
+1397,blok5-food-drink,East,Nasi Lemak Sotong Crispy,Dish Description not available,MYR7.90,N/A,N/A
+1398,blok5-food-drink,East,Nasi Lemak Ayam Crispy,"Nasi lemak , sambal, ayam goreng crispy, bilis telur kacang",MYR6.50,N/A,N/A
+1399,blok5-food-drink,West,Spaghetti Beef Bolognese,"Spaghetti, daging, cendawan & sos tomato",MYR10.00,N/A,N/A
+1400,blok5-food-drink,West,Spaghetti Chicken Carbonara,"Spaghetti, daging cincang, cendawan & sos carbonara",MYR10.00,N/A,N/A
+1401,blok5-food-drink,West,Chicken Fatty Chop,"Ayam patty, kentang, salad & black pepper gravy",MYR10.00,N/A,N/A
+1402,blok5-food-drink,West,Chicken Chop Bangsawan,"Ayam dada or peha, kentang, salad & black pepper gravy",MYR14.20,N/A,N/A
+1403,blok5-food-drink,West,Spaghetti Beef Bolognese + Ayam Crispy,"Spaghetti, daging cincang, cendawan, sos tomato & ayam crispy",MYR12.20,N/A,N/A
+1404,blok5-food-drink,West,Spaghetti Chicken Carbonara + Ayam Crispy,"Spaghetti, daging cincang, cendawan, sos carbonara & ayam crispy",MYR12.20,N/A,N/A
+1405,blok5-food-drink,West,Nachos Cheese,"Nachos goreng, cili, bawang & cheese",MYR8.20,N/A,N/A
+1406,blok5-food-drink,West,Nachos Beef & Cheese,"Nachos goreng, cili, bawang, cheese & daging bolognese",MYR11.00,N/A,N/A
+1407,blok5-food-drink,West,Lamb Grill Double,Lamb (double) with mashed potato & side vege,MYR23.00,N/A,N/A
+1408,blok5-food-drink,West,Spagetti Bolognese Meatball,"Spageti,cendawan,sos tomato, meatball",MYR13.50,N/A,N/A
+1409,blok5-food-drink,West,Spagetti Bolognese Sambal Sotong,"Spageti,sotong,cendawan,sos tomato+sambal sotong",MYR12.50,N/A,N/A
+1410,blok5-food-drink,West,Lamb Grill Single,Lamb shoulder with mashed potato n side vege,MYR16.50,N/A,N/A
+1411,blok5-food-drink,West,Chicken Grill,"Grilled chicken with mashed potato, side vegetable, homemade black pepper sauce",MYR14.50,N/A,N/A
+1412,blok5-food-drink,West,Mix Grill Platters,"Grilled chicken, lamb, meatball,sausages with mashed potato & side vegetable, homemade black pepper sauce",MYR28.90,N/A,N/A
+1413,blok5-food-drink,Beverages,Teh O,Dish Description not available,MYR1.80,from N/A,N/A
+1414,blok5-food-drink,Beverages,Sirap,Dish Description not available,MYR1.80,from N/A,N/A
+1415,blok5-food-drink,Beverages,Limau,Dish Description not available,MYR1.70,from N/A,N/A
+1416,blok5-food-drink,Beverages,Cordial,Dish Description not available,MYR1.70,from N/A,N/A
+1417,blok5-food-drink,Beverages,Teh Tarik,Dish Description not available,MYR2.20,N/A,N/A
+1418,blok5-food-drink,Beverages,Teh Susu,Dish Description not available,MYR2.20,N/A,N/A
+1419,blok5-food-drink,Beverages,Teh Susu,Dish Description not available,MYR2.50,N/A,N/A
+1420,blok5-food-drink,Beverages,Bandung,Dish Description not available,MYR2.50,N/A,N/A
+1421,blok5-food-drink,Beverages,Teh O Limau,Dish Description not available,MYR2.20,from N/A,N/A
+1422,blok5-food-drink,Beverages,Sirap Limau,Dish Description not available,MYR2.20,from N/A,N/A
+1423,blok5-food-drink,Beverages,Milo,Dish Description not available,MYR3.00,from N/A,N/A
+1424,blok5-food-drink,Beverages,Nescafe,Dish Description not available,MYR3.00,from N/A,N/A
+1425,blok5-food-drink,Beverages,Horlick,Dish Description not available,MYR3.00,N/A,N/A
+1426,blok5-food-drink,Beverages,Horlick,Dish Description not available,MYR3.20,N/A,N/A
+1427,blok5-food-drink,Beverages,Neslo,Dish Description not available,MYR3.20,from N/A,N/A
+1428,aris-cheese-naan-gelugor,Special Naan,Cheese Naan Special,Dish Description not available,MYR11.80,MYR10.03,N/A
+1429,aris-cheese-naan-gelugor,Special Naan,Garlic Cheese Naan Special,Dish Description not available,MYR13.30,MYR11.30,N/A
+1430,aris-cheese-naan-gelugor,Special Naan,Chicken Cheese Naan Special,Dish Description not available,MYR14.70,MYR12.50,N/A
+1431,aris-cheese-naan-gelugor,Special Naan,Beef Cheese Naan Special,Dish Description not available,MYR14.70,MYR12.50,N/A
+1432,aris-cheese-naan-gelugor,Special Naan,Honey Cheese Naan Special,Dish Description not available,MYR13.90,MYR11.82,N/A
+1433,aris-cheese-naan-gelugor,Cheese Naan Manja,Plain Naan,Dish Description not available,MYR3.70,MYR3.14,N/A
+1434,aris-cheese-naan-gelugor,Cheese Naan Manja,Garlic Naan,Dish Description not available,MYR5.10,MYR4.34,N/A
+1435,aris-cheese-naan-gelugor,Cheese Naan Manja,Butter Naan,Dish Description not available,MYR4.50,MYR3.82,N/A
+1436,aris-cheese-naan-gelugor,Cheese Naan Manja,Garlic Butter Naan,Dish Description not available,MYR5.90,MYR5.02,N/A
+1437,aris-cheese-naan-gelugor,Cheese Naan Manja,Cheese Naan,Dish Description not available,MYR8.90,MYR7.56,N/A
+1438,aris-cheese-naan-gelugor,Cheese Naan Manja,Garlic Cheese Naan,Dish Description not available,MYR10.30,MYR8.76,N/A
+1439,aris-cheese-naan-gelugor,Cheese Naan Manja,Chicken Cheese Naan,Dish Description not available,MYR11.80,MYR10.03,N/A
+1440,aris-cheese-naan-gelugor,Cheese Naan Manja,Beef Cheese Naan,Dish Description not available,MYR11.80,MYR10.03,N/A
+1441,aris-cheese-naan-gelugor,Cheese Naan Manja,Honey Cheese Naan,Dish Description not available,MYR11.00,MYR9.35,N/A
+1442,aris-cheese-naan-gelugor,Ayam Tandoori,Ayam Tandoori,Dish Description not available,MYR11.80,MYR10.03,N/A
+1443,aris-cheese-naan-gelugor,Makanan,Nasi Beriyani Ayam Tandoori,Dish Description not available,MYR18.00,MYR15.30,N/A
+1444,aris-cheese-naan-gelugor,Makanan,Nasi Beriyani Kuah Kari Ayam,Dish Description not available,MYR13.00,MYR11.05,N/A
+1445,aris-cheese-naan-gelugor,Makanan,Nasi Beriyani Kuah Kari Daging,Dish Description not available,MYR17.00,MYR14.45,N/A
+1446,aris-cheese-naan-gelugor,Kuah Kuah Pilihan,Kuah Ayam,Dish Description not available,MYR5.90,MYR5.02,N/A
+1447,aris-cheese-naan-gelugor,Kuah Kuah Pilihan,Keema Daging,Dish Description not available,MYR7.40,MYR6.29,N/A
+1448,aris-cheese-naan-gelugor,Kuah Kuah Pilihan,Kuah Daging,Dish Description not available,MYR7.40,MYR6.29,N/A
+1449,aris-cheese-naan-gelugor,Kuah Kuah Pilihan,Kuah Kambing,Dish Description not available,MYR18.00,MYR15.30,N/A
+1450,aris-cheese-naan-gelugor,Kuah Kuah Pilihan,Kuah Sayur,Dish Description not available,MYR3.70,MYR3.14,N/A
+1451,aris-cheese-naan-gelugor,Minuman,Mango Lassi,Dish Description not available,MYR8.00,MYR6.80,N/A

@@ -1,0 +1,28 @@
+,dish_category_title,dish_name,dish_description,original_price,discounted_price,image_url
+0,Mains,Black Pepper Chicken Chop,Dish Description not available,MYR15.80,MYR13.43,N/A
+1,Mains,Mushroom Chicken Chop,Dish Description not available,MYR15.80,MYR13.43,N/A
+2,Mains,Maryland Chicken,Dish Description not available,MYR15.80,MYR13.43,N/A
+3,Mains,Fish & Chips,Dish Description not available,MYR18.80,MYR15.98,N/A
+4,Mains,Black Pepper Lamb Chop,Dish Description not available,MYR23.80,MYR20.23,N/A
+5,Mains,Mushroom Lamb Chop,Dish Description not available,MYR23.80,MYR20.23,N/A
+6,Mains,Aglio Olio Seafood Spaghetti,Dish Description not available,MYR18.80,MYR15.98,N/A
+7,Mains,Aglio Olio Smoked Duck Spaghetti,Dish Description not available,MYR18.80,MYR15.98,N/A
+8,Mains,Aglio Olio Sausage Spaghetti,Dish Description not available,MYR15.80,MYR13.43,N/A
+9,Mains,Carbonara Ham Spaghetti,Dish Description not available,MYR15.80,MYR13.43,N/A
+10,Mains,Carbonara Sausage Spaghetti,Dish Description not available,MYR15.80,MYR13.43,N/A
+11,Mains,Carbonara Chicken Breast Spaghetti,Dish Description not available,MYR15.80,MYR13.43,N/A
+12,Mains,Bolognese Chicken Spaghetti,Dish Description not available,MYR15.80,MYR13.43,N/A
+13,Mains,Bolognese Sausage Spaghetti,Dish Description not available,MYR15.80,MYR13.43,N/A
+14,Mains,Bolognese Chicken Breast Spaghetti,Dish Description not available,MYR15.80,MYR13.43,N/A
+15,Mains,Gong Bao Chicken Rice+Egg,鸡肉.蛋,MYR9.80,MYR8.33,N/A
+16,Mains,Yong Chew Fried Rice+Egg,Prawn.Chicken.Egg,MYR9.80,from MYR8.33,N/A
+17,Mains,Sweet & Sour Chicken Rice+Egg,Chicken.Egg,MYR9.80,from MYR8.33,N/A
+18,Mains,Thai Chicken Chop Rice+Egg,鸡肉.蛋,MYR9.80,from MYR8.33,N/A
+19,Mains,Sambal Chicken Rice+Egg,鸡肉.蛋,MYR9.80,from MYR8.33,N/A
+20,Mains,Sweet& Sour Fish Rice+Egg,鱼肉.蛋,MYR9.80,from MYR8.33,N/A
+21,Side,White Rice,Dish Description not available,MYR1.50,MYR1.28,N/A
+22,Side,Chicke Feet Wan Tan Mee,鸡脚,MYR11.80,from MYR10.03,N/A
+23,Side,Wan Tan Mee,猪肉,MYR10.80,from MYR9.18,N/A
+24,Side,Wan Tan Soup,Dish Description not available,MYR10.80,from MYR9.18,N/A
+25,Side,Mushroom Chicken Chop Rice,鸡肉+蛋,MYR9.80,from MYR8.33,N/A
+26,Side,Black Pepper Chicken Chop Rice+Egg,鸡肉.蛋,MYR9.80,from MYR8.33,N/A

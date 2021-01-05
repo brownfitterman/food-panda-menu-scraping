@@ -40,7 +40,7 @@ for url in list_0:
     
 print()
 print()
-cityname=input('Enter a City Name to get the restaurants info of that city:')
+cityname=input('Enter a City Name to get menu of all restaurants of that city:')
 url="https://www.foodpanda.my/city/"+cityname
 html =  requests.get(url)
 soup=BeautifulSoup( html.text,'lxml')

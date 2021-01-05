@@ -1,0 +1,86 @@
+,dish_category_title,dish_name,dish_description,original_price,discounted_price,image_url
+0,Western Chicken,1. Chicken Maryland,"Served with banana fritter, con on cob, sausage and french fries",MYR17.48,MYR14.86,N/A
+1,Western Chicken,2. Fried Chicken Chop,Served with french fries,MYR13.48,MYR11.46,N/A
+2,Western Chicken,3. Grilled Chicken Chop,Served with french fries,MYR13.48,MYR11.46,N/A
+3,Western Chicken,4. Sizzling Chicken Chop,Served with french fries,MYR15.48,MYR13.16,N/A
+4,Western Fish,5. Fish and Chips,Served with french fries,MYR13.48,MYR11.46,N/A
+5,Western Fish,6. Grilled Fish with Lemon Butter Sauce,Served with french fries,MYR14.98,MYR12.73,N/A
+6,Western Lamb,7. Lamb Chop,Dish Description not available,MYR25.98,MYR22.08,N/A
+7,Western Lamb,8. Sizzling Lamb Chop,Dish Description not available,MYR27.98,MYR23.78,N/A
+8,Western Beef,9. Steak,Dish Description not available,MYR26.98,MYR22.93,N/A
+9,Western Beef,10. Sizzling Steak,Dish Description not available,MYR28.98,MYR24.63,N/A
+10,Western Spaghetti,16. Spaghetti Chicken Bolognese,Pasta tossed in a tomato sauce with fresh herbs and topped with parmesan cheese,MYR18.98,MYR16.13,N/A
+11,Local Noodle Choices,19. Mamak Mee with Chicken Wings,Dish Description not available,MYR16.98,MYR14.43,N/A
+12,Local Noodle Choices,20. Mamak Mee Classic,Dish Description not available,MYR8.48,MYR7.21,N/A
+13,Local Noodle Choices,21. Mamak Mee Hoon,Dish Description not available,MYR8.48,MYR7.21,N/A
+14,Local Noodle Choices,22. Cantonese Fried Kuey Teow,Dish Description not available,MYR10.98,MYR9.33,N/A
+15,Local Noodle Choices,24. Claypot Yee Mee,Dish Description not available,MYR9.48,MYR8.06,N/A
+16,Local Noodle Choices,18. Mamak Supreme,Dish Description not available,MYR16.98,MYR14.43,N/A
+17,Local Rice Choices,36. Sweet and Sour Fish with Rice,Dish Description not available,MYR10.48,MYR8.91,N/A
+18,Local Rice Choices,25. Supreme Fried Rice,Dish Description not available,MYR17.48,MYR14.86,N/A
+19,Local Rice Choices,26. Yong Chow Fried Rice with Blackpepper Chicken,Dish Description not available,MYR14.38,MYR12.22,N/A
+20,Local Rice Choices,27. Yong Chow Fried Rice,Dish Description not available,MYR10.48,MYR8.91,N/A
+21,Local Rice Choices,28. Spicy Sambal Fried Rice,Dish Description not available,MYR10.48,MYR8.91,N/A
+22,Local Rice Choices,30. Blackpper Chicken with Rice,Dish Description not available,MYR10.48,MYR8.91,N/A
+23,Local Rice Choices,33. Thai Style Chicken with Rice,Dish Description not available,MYR10.48,MYR8.91,N/A
+24,Local Rice Choices,34. Thai Style Fish with Rice,Dish Description not available,MYR10.48,MYR8.91,N/A
+25,Local Rice Choices,35. Sweet and Sour Chicken with Rice,Dish Description not available,MYR10.48,MYR8.91,N/A
+26,Thai Best,38. Tomyam Chicken,Dish Description not available,MYR15.98,MYR13.58,N/A
+27,Thai Best,39. Tomyam Chicken,Dish Description not available,MYR24.98,MYR21.23,N/A
+28,Thai Best,40. Tomyam Mix,"With chicken, fish, squid and prawn",MYR17.98,MYR15.28,N/A
+29,Thai Best,41. Tomyam Mix,Dish Description not available,MYR29.98,MYR25.48,N/A
+30,Thai Best,44. Dried Chilli Chicken,Dish Description not available,MYR13.98,MYR11.88,N/A
+31,Thai Best,45. Green Curry Chicken,Dish Description not available,MYR12.98,MYR11.03,N/A
+32,Thai Best,46. 3 Rasa Chicken,Dish Description not available,MYR12.98,MYR11.03,N/A
+33,Thai Best,50. Onion Omelette,Dish Description not available,MYR7.98,MYR6.78,N/A
+34,Thai Best,51. Pineapple Fried Rice,Dish Description not available,MYR11.98,MYR10.18,N/A
+35,Thai Best,52. Thai Fried Rice,Dish Description not available,MYR10.98,MYR9.33,N/A
+36,Thai Best,53. Dried Chilli Chicken with Rice,Dish Description not available,MYR11.98,MYR10.18,N/A
+37,Thai Best,54. Green Curry Chicken with Rice,Dish Description not available,MYR11.98,MYR10.18,N/A
+38,Thai Best,55. Thai Style Chicken with Rice,Dish Description not available,MYR10.98,MYR9.33,N/A
+39,Thai Best,56. 3 Rasa Chicken with Rice,Dish Description not available,MYR10.98,MYR9.33,N/A
+40,Thai Best,57. Mee Hoon Tom Yam,Dish Description not available,MYR11.98,MYR10.18,N/A
+41,Thai Best,58. Mee Hoon Tom Yam,Dish Description not available,MYR13.98,MYR11.88,N/A
+42,Tasty Snacks,59. Snack Platter,Dish Description not available,MYR30.48,MYR25.91,N/A
+43,Tasty Snacks,60. Super Chicken Wings,Dish Description not available,MYR8.48,MYR7.21,N/A
+44,Tasty Snacks,61. Keropok,Dish Description not available,MYR1.98,MYR1.68,N/A
+45,Tasty Snacks,62. Chicken Bites,Dish Description not available,MYR6.98,MYR5.93,N/A
+46,Tasty Snacks,63. Fish Bites,Dish Description not available,MYR7.98,MYR6.78,N/A
+47,Tasty Snacks,64. Spring Rolls,Dish Description not available,MYR9.98,MYR8.48,N/A
+48,Tasty Snacks,65. Coleslaw,Dish Description not available,MYR4.98,MYR4.23,N/A
+49,Tasty Snacks,66. Potato Wedges,Dish Description not available,MYR6.98,MYR5.93,N/A
+50,Tasty Snacks,67. French Fries,Dish Description not available,MYR6.98,MYR5.93,N/A
+51,Tasty Snacks,68. Chicken Nuggets,Dish Description not available,MYR8.98,MYR7.63,N/A
+52,Tasty Snacks,69. Garlic Bread,Dish Description not available,MYR3.98,MYR3.38,N/A
+53,Tasty Snacks,70. Corn on Cob,Dish Description not available,MYR4.98,MYR4.23,N/A
+54,Tasty Snacks,71. Mushroom Soup,Dish Description not available,MYR4.98,MYR4.23,N/A
+55,Beverages,85. Iced Lemon Tea,Dish Description not available,MYR4.98,MYR4.23,N/A
+56,Beverages,86. Honey Lemon,Dish Description not available,MYR4.98,MYR4.23,N/A
+57,Beverages,87. Limau Iced,Dish Description not available,MYR3.98,MYR3.38,N/A
+58,Beverages,89. Soya Bean,Dish Description not available,MYR4.58,MYR3.89,N/A
+59,Beverages,91. Ribena,Dish Description not available,MYR4.98,MYR4.23,N/A
+60,Beverages,92. Ribena with Lemon,Dish Description not available,MYR5.58,MYR4.74,N/A
+61,Beverages,93. Ribena with Lychee,Dish Description not available,MYR5.98,MYR5.08,N/A
+62,Beverages,94. Ribena with Longan,Dish Description not available,MYR5.98,MYR5.08,N/A
+63,Beverages,95. Lychee,Dish Description not available,MYR5.98,MYR5.08,N/A
+64,Beverages,96. Lychee Milk,Dish Description not available,MYR6.58,MYR5.59,N/A
+65,Beverages,97. Longan,Dish Description not available,MYR5.98,MYR5.08,N/A
+66,Beverages,98. Longan Milk,Dish Description not available,MYR6.58,MYR5.59,N/A
+67,Beverages,100. 7 UP,Dish Description not available,MYR3.98,MYR3.38,N/A
+68,Beverages,103. Chinese Tea,Dish Description not available,MYR2.58,MYR2.19,N/A
+69,Beverages,104. Mineral Water,Dish Description not available,MYR2.98,MYR2.53,N/A
+70,Special Blend,106. Sirap Bandung with Longan,Dish Description not available,MYR5.58,MYR4.74,N/A
+71,Special Blend,107.Sirap Bandung with Lychee,Dish Description not available,MYR5.58,MYR4.74,N/A
+72,Special Blend,109. Sirap with Longan,Dish Description not available,MYR4.58,MYR3.89,N/A
+73,Special Blend,110. Sirap with Lychee,Dish Description not available,MYR4.58,MYR3.89,N/A
+74,Special Blend,111. Kalamansi Asam Boi,Dish Description not available,MYR5.58,MYR4.74,N/A
+75,Healthy Juices,117. Apple Grass,"Apple, celery and honeydew",MYR6.98,MYR5.93,N/A
+76,Healthy Juices,121. Honeymoon,Honeydew and apple,MYR6.98,MYR5.93,N/A
+77,Healthy Juices,122. Apple Twister,Apple and Lime,MYR6.98,MYR5.93,N/A
+78,Healthy Juices,125. Summer Wind,"Tomato, ginger and apple",MYR6.98,MYR5.93,N/A
+79,Healthy Juices,126. Sunrise Splendour,"Apple, pineapple and orange",MYR6.98,MYR5.93,N/A
+80,Healthy Juices,128. Apple Juice,Dish Description not available,MYR5.98,MYR5.08,N/A
+81,Healthy Juices,129. Orange Juice,Dish Description not available,MYR5.98,MYR5.08,N/A
+82,Healthy Juices,132. Pineapple Juice,Dish Description not available,MYR5.98,MYR5.08,N/A
+83,Healthy Juices,134. Carrot Juice,Dish Description not available,MYR5.98,MYR5.08,N/A
+84,Healthy Juices,135. Carrot Milk Juice,Dish Description not available,MYR6.58,MYR5.59,N/A
