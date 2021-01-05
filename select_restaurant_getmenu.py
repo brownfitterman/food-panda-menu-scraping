@@ -76,7 +76,8 @@ print()
 u=0
 
 chosen_rest=input('Enter a Restaurant Name to scrape its menu: ')
-
+print()
+print()
 url="https://www.foodpanda.my"+dct[chosen_rest]+chosen_rest
 html =  requests.get(url)
 
@@ -84,7 +85,8 @@ soup=BeautifulSoup( html.text,'lxml')
 
 item=soup.find_all('div',class_='dish-category-section__inner-wrapper')
 
-
+h1=soup.find('h1',class_='fn')    #to get restaurant name 
+restaurant_name=h1.text
 
 for data in item:
     h2=data.find('h2',class_='dish-category-title').text.strip()
@@ -148,7 +150,7 @@ df=pd.DataFrame({'dish_category_title':dish_category_title,
 'discounted_price':discounted_price,
 'image_url':image_url})
 
-filename=chosen_rest+"_menu.csv"
+filename=restaurant_name.replace(' ','_')+"_menu.csv"
 df.to_csv(filename)
 
 print()

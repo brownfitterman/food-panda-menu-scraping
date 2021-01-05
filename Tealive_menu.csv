@@ -1,0 +1,55 @@
+,dish_category_title,dish_name,dish_description,original_price,discounted_price,image_url
+0,Popular Combos,All Day Breakfast Combo,Dish Description not available,MYR19.48,from MYR15.58,N/A
+1,Popular Combos,Lunch and Dinner Combo,Dish Description not available,MYR18.87,from MYR15.10,N/A
+2,Tealive Eats,Original Popcorn Chicken,Crunchy original chicken popcorn,MYR11.93,MYR9.54,N/A
+3,Tealive Eats,BBQ Popcorn Chicken Banjir,Spicy sauce chicken popcorn,MYR12.99,MYR10.39,N/A
+4,Tealive Eats,Crunchy Chicken Roll,Crispy chicken rolls,MYR11.93,MYR9.54,N/A
+5,Tealive Eats,Red Velvet Cake,Dish Description not available,MYR3.71,MYR2.97,N/A
+6,Mi Goreng Boba,1 Cup Brown Sugar Pearl Milk Tea (Reg) + 1 Mi Goreng Boba (101g),Dish Description not available,MYR15.90,MYR12.72,N/A
+7,Mi Goreng Boba,1 Cup Original Pearl Milk Tea (Reg) + 1 Mi Goreng Boba (101g),Dish Description not available,MYR15.90,MYR12.72,N/A
+8,Mi Goreng Boba,1 Cup Superior Coco (Reg) + 1 Mi Goreng Boba (101g),Dish Description not available,MYR15.90,MYR12.72,N/A
+9,Mi Goreng Boba,1 Cup Bang Bang Milk Tea (Reg) + 1 Mi Goreng Boba (101g),Dish Description not available,MYR16.50,MYR13.20,N/A
+10,Mi Goreng Boba,1 Cup Bang Bang Fresh Milk (Reg) + 1 Mi Goreng Boba (101g),Dish Description not available,MYR16.50,MYR13.20,N/A
+11,Mi Goreng Boba,1 Mi Goreng Boba – A’la Carte,Dish Description not available,MYR7.95,MYR6.36,N/A
+12,Signature Bang Bang,WP01. Bang Bang Milk Tea with Brown Sugar Warm Pearls,"Recommended, iced cold milk tea with warm brown sugar pearls",MYR9.10,from MYR7.28,N/A
+13,Signature Bang Bang,WP02. Bang Bang Fresh Milk with Brown Sugar Warm Pearls,"Recommended, cold fresh milk with warm brown sugar pearls",MYR9.10,from MYR7.28,N/A
+14,Signature Bang Bang,WP03. Bang Bang Chocolate with Brown Sugar Warm Pearls,Rich iced coco with warm brown sugar pearls,MYR10.20,from MYR8.16,N/A
+15,Signature Bang Bang,WP03. Bang Bang Coffee with Brown Sugar Warm Pearls,Cold Arabica coffee with warm brown sugar pearls,MYR10.20,from MYR8.16,N/A
+16,Milk Tea,MT01. Signature Brown Sugar Pearl Milk Tea,"Recommended, signature milk tea topped with chewy brown sugar pearls",MYR8.50,from MYR6.80,N/A
+17,Milk Tea,MT02. Original Pearl Milk Tea,"Recommended, classic milk tea topped with signature pearls",MYR8.50,from MYR6.80,N/A
+18,Milk Tea,MT03. Classic Roasted Milk Tea with Grass Jelly,"Recommended, toasty & fragrant milk tea with grass jelly",MYR8.50,from MYR6.80,N/A
+19,Milk Tea,MT10. Black Diamond Milk Tea,Dish Description not available,MYR9.55,from MYR7.64,N/A
+20,Milk Tea,MT04. Red Bean Pearl Milk Tea,Classic milk tea with Japanese red beans and pearls,MYR9.55,from MYR7.64,N/A
+21,Milk Tea,MT05. Hazelnut Milk Tea,"Recommended, Aromatic milk tea infused with hazelnut",MYR8.50,from MYR6.80,N/A
+22,Milk Tea,MT07. Earl Grey Milk Tea,Soothing milk tea with the light notes of earl grey,MYR8.50,from MYR6.80,N/A
+23,Milk Tea,MT08. Malty Milk Tea (Horlicks),"Served cold, Smooth milk tea with the maltiness of Horlicks",MYR8.50,from MYR6.80,N/A
+24,Milk Tea,MT09. Signature Milk Tea,Back-to-basic milk tea without toppings,MYR7.40,from MYR5.92,N/A
+25,Milk Tea,MT09. Original Milk Tea,Back-to-basic milk tea without toppings,MYR7.40,from MYR5.92,N/A
+26,Milk Tea,MT09. Classic Roasted Milk Tea,Back-to-basic milk tea without toppings,MYR7.40,from MYR5.92,N/A
+27,Coco,CCL1. Milk Choc Shaka Lava with Oreo Cookie Pieces,Dish Description not available,MYR10.60,from MYR8.48,N/A
+28,Coco,CC01. Superior Coco,"Recommended, creamy blend of rich coco and fresh cream",MYR8.50,from MYR6.80,N/A
+29,Coco,CC03. Hazelnut Coco,Rich coco with the taste of toasted hazelnut,MYR8.50,from MYR6.80,N/A
+30,Coco,CC04. Coco Latte,"Recommended, rich coco served with frothy milk",MYR9.10,from MYR7.28,N/A
+31,Coco,CC07. Malty Coco (Horlicks),"Served cold, rich coco with the maltiness of Horlicks",MYR9.10,from MYR7.28,N/A
+32,Coffee,CF01. Signature Coffee,Signature blend of 100% premium Arabica coffee,MYR10.20,from MYR8.16,N/A
+33,Coffee,CF03. Latte,"Recommended, 100% premium Arabica coffee served with frothy milk",MYR10.20,from MYR8.16,N/A
+34,Coffee,CF04. Coco Mocha,"Recommended, fusion of aromatic premium coffee and rich chocolate",MYR10.20,from MYR8.16,N/A
+35,Coffee,CF05. Hazelnut Latte,100% premium Arabica coffee with a twist of hazelnut,MYR10.20,from MYR8.16,N/A
+36,Coffee,CF06. Americano,Classic and fragrant black coffee,MYR9.55,from MYR7.64,N/A
+37,Coffee,Black Diamond Signature Coffee,Signature blend of 100% premium Arabica coffee,MYR12.19,from MYR9.75,N/A
+38,Nishio Fine Matcha,NS01. Nishio Matcha with Warm Pearls,Dish Description not available,MYR11.65,from MYR9.32,N/A
+39,Nishio Fine Matcha,NS02. Nishio Matcha Milk Tea with Red Bean,Dish Description not available,MYR10.60,from MYR8.48,N/A
+40,Nishio Fine Matcha,NS04. Nishio Matcha Latte,Dish Description not available,MYR10.60,from MYR8.48,N/A
+41,Fruit Tea,SFT01. Sparkling Mango Tea,"Half ice | Recommended, sparkling jasmine green tea with mango notes and Chia Seed / 3Q Jelly",MYR9.10,from MYR7.28,N/A
+42,Fruit Tea,SFT02. Sparkling Passion Fruit Tea,"Half ice | Recommended, sparkling passion fruit tea with Chia Seed / 3Q Jelly",MYR9.10,from MYR7.28,N/A
+43,Fruit Tea,SFT03. Sparkling Lemonade Tea,"Half ice | Recommended, sparkling jasmine green tea with zesty lemon and Chia Seed / 3Q Jelly",MYR9.10,from MYR7.28,N/A
+44,Fruit Tea,SFT04. Sparkling Lychee Tea,Half ice | Sparkling green tea with the tropical lushness of lychee,MYR9.10,from MYR7.28,N/A
+45,Fruit Tea,SFT05. Sparkling Plum Tea,Half ice | Sparkling sweet and sour plum tea with Chia Seed / 3Q Jelly,MYR9.10,from MYR7.28,N/A
+46,Fruit Tea,SFT06. Sparkling Honey Lemon with Aloe Vera,"Half ice | Recommended, fizzy mix of natural honey & fresh lemon juice with aloe vera cubes",MYR9.55,from MYR7.64,N/A
+47,Fruit Tea,SFT07. Sparkling Iced Plum Cooler,Half ice | Bubbly iced lemon juice with tangy taste of plum,MYR8.50,from MYR6.80,N/A
+48,Crafted Tea,CT03. Rose Puer Tea Latte,"Recommended, rich PuEr tea with milk and a delicate hint of rose",MYR9.10,from MYR7.28,N/A
+49,Crafted Tea,CT04. Earl Grey Tea Latte,"Recommended, soothing infusion of earl grey tea with milk",MYR9.10,from MYR7.28,N/A
+50,Crafted Tea,CT05. Rose Puer Tea,Rich PuEr tea with a delicate hint of rose,MYR8.05,from MYR6.44,N/A
+51,Crafted Tea,CT06. Earl Grey Tea,A delicate yet classic serving of earl grey tea,MYR8.05,from MYR6.44,N/A
+52,Crafted Tea,CT07. Jasmine Green Tea,Japanese green tea with floral notes of jasmine,MYR8.05,from MYR6.44,N/A
+53,Smoothie,Strawberry Pudding Smoothies,Large size,MYR10.60,from MYR8.48,N/A

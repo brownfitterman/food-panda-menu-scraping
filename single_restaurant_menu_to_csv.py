@@ -11,6 +11,9 @@ soup=BeautifulSoup( html.text,'lxml')
 
 item=soup.find_all('div',class_='dish-category-section__inner-wrapper')
 
+h1=soup.find('h1',class_='fn')    #to get restaurant name 
+restaurant_name=h1.text
+
 dish_category_title=[]
 dish_name=[]
 dish_description=[]
@@ -79,5 +82,6 @@ df=pd.DataFrame({'dish_category_title':dish_category_title,
 'discounted_price':discounted_price,
 'image_url':image_url})
 
-df.to_csv('menu_scraped.csv')
+filename=restaurant_name.replace(' ','_')+"_menu.csv"
+df.to_csv(filename)
 

@@ -1,0 +1,52 @@
+,dish_category_title,dish_name,dish_description,original_price,discounted_price,image_url
+0,Salads,A02. Crispy Chicken Salad,"Crispy chicken, romaine lettuce, lollo rossa, cherry tomatoes, cucumber & roasted sesame dressing",MYR16.00,N/A,N/A
+1,Mains,M01. Signature Chicken Chop,"Deep-fried marinated chicken chop, potatoes fries, side salad & creamy asian pesto sauce",MYR21.00,from N/A,N/A
+2,Mains,M02. Salted Egg Chicken Chop,"Deep-fried marinated chicken chop, creamy salted egg sauce, sweet potatoes fries, in hot sizzling plate",MYR23.00,from N/A,N/A
+3,Small Bites,D01. Jumbo Chicken Satay,6 Pcs,MYR19.00,N/A,N/A
+4,Small Bites,D02. Potato Fries with Sriracha Mayo,Dish Description not available,MYR10.00,N/A,N/A
+5,Small Bites,D03. Sweet Potato Fries,Dish Description not available,MYR12.00,N/A,N/A
+6,Small Bites,D07. Salted Egg Croissant,Dish Description not available,MYR9.00,N/A,N/A
+7,Small Bites,D08. Green Tea Croissant,Dish Description not available,MYR9.00,N/A,N/A
+8,Small Bites,D09. Seaweed Chip,Dish Description not available,MYR9.50,N/A,N/A
+9,Small Bites,D10. Fried Lion's Head,Fish paste,MYR12.50,N/A,N/A
+10,Small Bites,D11. Signature Chip,Dish Description not available,MYR9.00,N/A,N/A
+11,Pasta,P01. Spaghetti with Crispy Chicken Chop,"Deep-fried chicken chop, creamy Asian pesto sauce, side salad & sriracha mayo",MYR24.00,N/A,N/A
+12,Pasta,P02. Spicy Chicken Aglio Olio,"Spicy. Lemongrass chicken, mushroom shimeji, mushroom eryngii, garlic, onion, dried shrimp chili & chili flakes",MYR21.00,N/A,N/A
+13,Pasta,P04B. Spaghetti Teriyaki Beef,"Onion, garlic, mushroom shimeji, mushroom eryngii, teriyaki sauce, bonito flakes, seaweed & Chinese parsley",MYR22.00,N/A,N/A
+14,Pasta,P04C. Spaghetti Teriyaki Chicken,"Tenderloin beef, onion, garlic, mushroom shimeji, capsicum, black pepper & mushroom eryngii",MYR21.00,N/A,N/A
+15,Pasta,P05B. Spaghetti Black Pepper Beef,"Turkey slice, mushroom shimeji, mushroom eryngii, garlic, onion, finished with cream, egg & parmesan cheese",MYR22.00,N/A,N/A
+16,Pasta,P05C. Spaghetti Black Pepper Chicken,"Spicy, minced chicken, baby corn, capsicum, basil, long bean, onion, garlic & chili flakes",MYR20.00,N/A,N/A
+17,Pasta,P06. Spaghetti Carbonara,"Turkey slice, mushroom shimeji, mushroom eryngii, garlic, onion, finished with cream, egg & parmesan cheese",MYR21.00,N/A,N/A
+18,Pasta,P07. Spicy Thai Aglio Olio,"Spicy, minced chicken, baby corn, capsicum, basil, long bean, onion, garlic & chili flakes",MYR19.00,N/A,N/A
+19,Pasta,P08. Spaghetti Meatballs,"Minced chicken, pomodoro sauce, beef meatballs, parmesan cheese, tomato puree & basil",MYR20.00,N/A,N/A
+20,Pasta,P12. Tomyam Prawn Spaghetti,"Spicy, mushroom shimeji, garlic, chili flakes & chinese parsley",MYR20.00,N/A,N/A
+21,Rice,R04. Crispy Chicken with Cream Sauce,Crispy deep-fried boneless chicken topped with creamy butter cream sauce along with rempah rice,MYR21.00,N/A,N/A
+22,Rice,R05. Lemongrass Chicken,"Spicy chicken, marinated lemongrass chicken thigh, thai garlic fish sauce & rempah rice",MYR21.00,N/A,N/A
+23,Rice,R07. Mixed Mushroom with Rice,"Pan-fried mushroom shimeji, mushroom eryngii, onion slice with our signature sauce",MYR20.00,N/A,N/A
+24,Chocolate,E01. Chocolate Latte,Dish Description not available,MYR12.00,from N/A,N/A
+25,Chocolate,E02. Belgium Dark Chocolate,80%,MYR15.00,N/A,N/A
+26,Chocolate,E03. Belgium Milk Chocolate,50%,MYR14.50,N/A,N/A
+27,Chocolate,E04. Mint Chocolate,Dish Description not available,MYR13.00,from N/A,N/A
+28,Chocolate,E05. Hazelnut Chocolate,Dish Description not available,MYR13.00,from N/A,N/A
+29,Coffee,C03. Americano,Dish Description not available,MYR8.00,from N/A,N/A
+30,Coffee,C05. Flat White,Hot,MYR11.00,N/A,N/A
+31,Coffee,C06. Latte,Dish Description not available,MYR11.00,from N/A,N/A
+32,Coffee,C07. Cappuccino,Dish Description not available,MYR11.00,from N/A,N/A
+33,Coffee,C08. Mocha,Dish Description not available,MYR12.00,from N/A,N/A
+34,Coffee,C09. Roasted Hazelnut Latte,Dish Description not available,MYR12.00,from N/A,N/A
+35,Coffee,C10. Coconut Latte,Dish Description not available,MYR12.00,from N/A,N/A
+36,Coffee,C11. Rose Latte,Dish Description not available,MYR13.00,from N/A,N/A
+37,Coffee,C13. Toffee Nut Latte,Dish Description not available,MYR12.00,from N/A,N/A
+38,Non Coffee Latte,N03. Organic Soy Milk,Dish Description not available,MYR8.50,from N/A,N/A
+39,Non Coffee Latte,N04. Fresh Milk,Dish Description not available,MYR7.50,from N/A,N/A
+40,Non Coffee Latte,N05. Honey Milk,Dish Description not available,MYR8.50,from N/A,N/A
+41,Refreshing Lemonade,L01. Lemonade,Dish Description not available,MYR10.00,N/A,N/A
+42,Refreshing Lemonade,L02. Pink Lemonade,Dish Description not available,MYR12.00,N/A,N/A
+43,Refreshing Lemonade,L03. Rose Lemonade,Dish Description not available,MYR12.00,N/A,N/A
+44,Refreshing Lemonade,L04. Mint Lemonade,Dish Description not available,MYR12.00,N/A,N/A
+45,Refreshing Lemonade,L05. Lime Lemongrass Soda,Dish Description not available,MYR11.00,N/A,N/A
+46,Refreshing Lemonade,L06. Passionfruit Soda,Dish Description not available,MYR11.00,N/A,N/A
+47,Refreshing Lemonade,L07. Lemon Soda,Dish Description not available,MYR11.00,N/A,N/A
+48,Refreshing Lemonade,L08. Honey Lemon,Dish Description not available,MYR10.00,N/A,N/A
+49,Refreshing Lemonade,L09. Lemon Passionfruit,Dish Description not available,MYR10.00,N/A,N/A
+50,Refreshing Lemonade,"L10. Triple Sour - Lime, Lemon, Sour Plum",Dish Description not available,MYR10.00,N/A,N/A

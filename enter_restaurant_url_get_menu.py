@@ -27,7 +27,7 @@ soup=BeautifulSoup( html.text,'lxml')
 item=soup.find_all('div',class_='dish-category-section__inner-wrapper')
 
 
-h1=soup.find('h1',class_='fn')
+h1=soup.find('h1',class_='fn')    #to get restaurant name 
 restaurant_name=h1.text
 
 
