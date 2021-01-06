@@ -16,6 +16,9 @@ rating_count=[]
 image_url=[]
 longitude=[]
 latitude=[]
+tags=[]
+telephone=[]
+postalcode=[]
 
 print('Welcome to Food Panda Menu Scrapper!')
 print()
@@ -55,33 +58,23 @@ for data in data_all:
     rating.append(rat) 
     rating_count.append(count)  #no. of people votes taken for the rating
 
-    # tag=data.find('ul',class_='vendor-cuisines')
-    # for tag in tag:
-    #     print(tag)
-    
-    # tag=data.find('ul',class_='vendor-cuisines') 
-    # for tags in tag:
-    #     list_1=tags.find('li')
-    #     list_1=str(list_1)
-    #     list_1=list_1.split()
-    #     print(list_1) 
-    tag=data.find('ul',class_='vendor-cuisines')
-    tag=(tag.text.replace(' ','').strip())
-    tag_list=tag.split()
 
-    print('tag=', end='')
-    for element in tag_list[3:]:
-        print( element ,end=',')
+
+    tag_all_in_one=data.find('ul',class_='vendor-cuisines')
+    tag_all_in_one=(tag_all_in_one.text.replace(' ','').strip())
+    all_tag_list=tag_all_in_one.split()
+    tgs=""
+
+    for each_t in all_tag_list[3:]:
+        tgs=tgs+","+each_t
     
-    print()
-    print()
+    tags.append(tgs)
+
+
 
 
     timings=data.find('span',class_='schedule-times')
     op_time=timings.text.strip()
-    # timing=data.find('span',class_='green-class')
-    # timing=timing.text.strip()
-    # op_time=timing+" "+op_time
     opening_time.append(op_time)
 
 
@@ -116,20 +109,27 @@ except:
     latitude.append("")
 
 
+try:
+    tel_index=script.find('tel')
+    tel=script[tel_index+13:]
+    tel=(tel.split())[0]
+    tel=tel.split('"')
+    tel=tel[0]
+    telephone.append(tel)
+except:
+    telephone.append('')
 
-telephone_index=script.find('telephone')
-telephone=script[telephone_index+13:]
-telephone=(telephone.split())[0]
-telephone=telephone.split('"')
-telephone=telephone[0]
-print(telephone)
 
-postalCode_index=script.find('postalCode')
-postalCode=script[postalCode_index+14:]
-postalCode=(postalCode.split())[0]
-postalCode=postalCode.split('"')
-postalCode=postalCode[0]
-print(postalCode)
+try:
+    postal_index=script.find('postalCode')
+    postal=script[postal_index+14:]
+    postal=(postal.split())[0]
+    postal=postal.split('"')
+    postal=postal[0]
+    postalcode.append(postal)
+except:
+    postalcode.append('')
+
 
 
 
@@ -142,7 +142,10 @@ dct=({'Name of Restaurant':name,
 'Rating Count':rating_count,
 'Image URL':image_url,
 'Longitude':longitude,
-'Latitude':latitude})
+'Latitude':latitude,
+'Tags': tags,
+'Tel No.': telephone,
+'Postal Code': postalcode})
 
 
 for k,v in dct.items():
