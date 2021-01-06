@@ -59,6 +59,22 @@ for data in data_all:
     # for tag in tag:
     #     print(tag)
     
+    # tag=data.find('ul',class_='vendor-cuisines') 
+    # for tags in tag:
+    #     list_1=tags.find('li')
+    #     list_1=str(list_1)
+    #     list_1=list_1.split()
+    #     print(list_1) 
+    tag=data.find('ul',class_='vendor-cuisines')
+    tag=(tag.text.replace(' ','').strip())
+    tag_list=tag.split()
+
+    print('tag=', end='')
+    for element in tag_list[3:]:
+        print( element ,end=',')
+    
+    print()
+    print()
 
 
     timings=data.find('span',class_='schedule-times')
@@ -80,10 +96,10 @@ for data in data_all:
 
 
 
-try:
-    script=soup2.find_all('script')[1]
-    script=str(script)
+script=soup2.find_all('script')[1]
+script=str(script)
 
+try:
     longitude_index=script.find('longitude')
     long=script[longitude_index+12:]
     long=(long.split())[0]
@@ -98,6 +114,22 @@ try:
 except:
     longitude.append("")
     latitude.append("")
+
+
+
+telephone_index=script.find('telephone')
+telephone=script[telephone_index+13:]
+telephone=(telephone.split())[0]
+telephone=telephone.split('"')
+telephone=telephone[0]
+print(telephone)
+
+postalCode_index=script.find('postalCode')
+postalCode=script[postalCode_index+14:]
+postalCode=(postalCode.split())[0]
+postalCode=postalCode.split('"')
+postalCode=postalCode[0]
+print(postalCode)
 
 
 
