@@ -15,6 +15,8 @@ delivery_hours=[]
 rating=[]
 rating_count=[]
 image_url=[]
+longitude=[]
+latitude=[]
 
 htm =  requests.get("https://www.foodpanda.my/")
 
@@ -124,6 +126,25 @@ for rest_url in all_r:
         loc=loc.text.strip()
         address.append(loc)
 
+    try:
+        script=soup2.find_all('script')[1]
+        script=str(script)
+
+        longitude_index=script.find('longitude')
+        long=script[longitude_index+12:]
+        long=(long.split())[0]
+        longitude.append(long)
+
+
+        latitude_index=script.find('latitude')
+        lat=script[latitude_index+10:]
+        lat=(lat.split())[0]
+        lat=lat[:-1]
+        latitude.append(lat)
+    except:
+        longitude.append("")
+        latitude.append("")
+
 
 df=pd.DataFrame({'Name of Restaurant':name,
 'Address':address,
@@ -131,7 +152,9 @@ df=pd.DataFrame({'Name of Restaurant':name,
 'Delivery Hours':delivery_hours,
 'Rating':rating,
 'Rating Count':rating_count,
-'Image URL':image_url})
+'Image URL':image_url,
+'Longitude':longitude,
+'Latitude':latitude})
 
 
 filename=cityname+"_restaurants_info.csv"

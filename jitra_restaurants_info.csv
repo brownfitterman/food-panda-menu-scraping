@@ -1,83 +1,83 @@
-,Name of Restaurant,Address,Opening Time,Delivery Hours,Rating,Rating Count,Image URL
-0,Nia Mee Bandung Muo-R-(Yellow Truck),"No 1, Yellow Truck Medan Selera, Jln Sg Korok,Kg Tok Kesop, Jitra Kedah",3:00 PM - 11:59 PM,"Mon,Wed-Sun3:00PM-11:59PM,3:00PM-11:59PM",N/A,N/A,"""https://images.deliveryhero.io/image/fd-my/LH/q0uk-hero.jpg"
-1,Wak Zainal Mi kari,"TAMAN TUNKU SARINA 06000 JITRA JITRA, KEDAH 06000",5:00 PM - 11:00 PM,"Mon-Sun5:00PM-11:00PM,5:00PM-11:00PM",5/5,1,"""https://images.deliveryhero.io/image/fd-my/LH/r8ga-hero.jpg"
-2,Bihun Sup Kedah,Taman Kempas Sebelah Cmart,12:00 PM - 10:00 PM,"Mon12:00PM-9:59PM,12:00PM-9:59PM
+,Name of Restaurant,Address,Opening Time,Delivery Hours,Rating,Rating Count,Image URL,Longitude,Latitude
+0,Gfive Corner,"Jalan Titi Kerbau, Kampung Paya Nongmi, Changlun, Kedah",4:00 PM - 8:59 PM,"Mon-Sun4:00PM-8:59PM,4:00PM-8:59PM",4.4/5,42,https://images.deliveryhero.io/image/fd-my/LH/q9kd-hero.jpg,100.4187431,"6.4362746,"
+1,Restoran Sri Impian Jitra (Famous Mee Rebus In Jitra),12 Taman Damai Jaya,9:00 AM - 7:45 PM,"Mon-Thu,Sat,Sun9:00AM-7:45PM,9:00AM-7:45PM",4.6/5,468,https://images.deliveryhero.io/image/fd-my/LH/r1tt-hero.jpg,100.419848,"6.280812,"
+2,Abang Burn Corner,Hadapan Dominos Pizza Bandar Darulaman Jaya,6:00 PM - 11:59 PM,"Mon,Wed-Sun6:00PM-11:59PM,6:00PM-11:59PM",4.3/5,16,https://images.deliveryhero.io/image/fd-my/LH/q8qh-hero.jpg,100.419901,"6.244085,"
+3,Man Mee Kari (Medan Penjaja Tanah Merah),"No.7, Medan Penjaja Tanah Merah, Kedah",11:00 AM - 7:00 PM,"Mon,Tue,Thu-Sun11:00AM-7:00PM,11:00AM-7:00PM",4.4/5,125,https://images.deliveryhero.io/image/fd-my/LH/q1sq-hero.jpg,100.4205224,"6.2410246,"
+4,Mee Awang,"304 F, Jalan Sungai Korok",12:00 PM - 9:45 PM,"Mon,Tue,Thu,Sat,Sun12:00PM-9:45PM,12:00PM-9:45PM
 
-Tue-Sun12:00PM-10:00PM,12:00PM-10:00PM",N/A,N/A,"""https://images.deliveryhero.io/image/fd-my/LH/r0sa-hero.jpg"
-3,Bueno,"No .1, Mix Legacy Cafe, Jalan Ilmu Hadapan Masjid Tjg. Pauh, Bandar Darulaman",3:30 PM - 11:15 PM,"Mon-Sun3:30PM-11:15PM,3:30PM-11:15PM",4.7/5,215,"""https://images.deliveryhero.io/image/fd-my/LH/q6yq-hero.jpg"
-4,Authentic Indo (Stesen Bas Ekspress),"N0.5, Medan Selera Muhibbah, Bandar Darulaman, Jitra, Kedah",11:30 AM - 11:00 PM,"Mon-Thu,Sun11:30AM-11:00PM,11:30AM-11:00PM",4.3/5,576,"""https://images.deliveryhero.io/image/fd-my/LH/q8dl-hero.jpg"
-5,Gfive Corner,"Jalan Titi Kerbau, Kampung Paya Nongmi, Changlun, Kedah",4:00 PM - 8:59 PM,"Mon-Sun4:00PM-8:59PM,4:00PM-8:59PM",4.4/5,42,"""https://images.deliveryhero.io/image/fd-my/LH/q9kd-hero.jpg"
-6,Abang Burn Corner,Hadapan Dominos Pizza Bandar Darulaman Jaya,6:00 PM - 11:59 PM,"Mon,Wed-Sun6:00PM-11:59PM,6:00PM-11:59PM",4.3/5,16,"""https://images.deliveryhero.io/image/fd-my/LH/q8qh-hero.jpg"
-7,Kak Mona café,"No. 16, Medan Selera Jitra 1",3:00 PM - 11:00 PM,"Mon-Sun3:00PM-11:00PM,3:00PM-11:00PM",1/5,1,"""https://images.deliveryhero.io/image/fd-my/LH/r5hv-hero.jpg"
-8,Bob Burger Tts,"No. 1511 D'aman shoppe, Jalan Sara 2,Taman Tunku Sarina",4:45 PM - 11:45 PM,"Mon-Sat4:45PM-11:45PM,4:45PM-11:45PM
+Wed9:00AM-9:00PM,9:00AM-9:00PM",4.4/5,96,https://images.deliveryhero.io/image/fd-my/LH/r4vr-hero.jpg,100.41694,"6.264311,"
+5,Eva Cafe,"147 A,Jalan PJ 6, Pekan Jitra 2, Jitra, Kedah",9:30 AM - 6:45 PM,"Mon-Thu,Sat,Sun9:30AM-6:45PM,9:30AM-6:45PM",4.1/5,125,https://images.deliveryhero.io/image/fd-my/LH/q3wt-hero.jpg,100.419169,"6.257959,"
+6,Belanga Hangit (Food Garage),"Food Garage, Lot 7360, Jalan Taman Sri, Jitra, Kedah",2:00 PM - 11:30 PM,"Tue-Sun2:00PM-11:30PM,2:00PM-11:30PM",4.1/5,323,https://images.deliveryhero.io/image/fd-my/LH/q2id-hero.jpg,100.419407,"6.24318,"
+7,Bueno,"No .1, Mix Legacy Cafe, Jalan Ilmu Hadapan Masjid Tjg. Pauh, Bandar Darulaman",3:30 PM - 11:15 PM,"Mon-Sun3:30PM-11:15PM,3:30PM-11:15PM",4.7/5,216,https://images.deliveryhero.io/image/fd-my/LH/q6yq-hero.jpg,100.42036,"6.250552,"
+8,Coq Pisang Ganja,Kampung Seberang,10:00 AM - 7:00 PM,"Mon-Sun10:00AM-7:00PM,10:00AM-7:00PM",4.4/5,7,https://images.deliveryhero.io/image/fd-my/LH/r2rm-hero.jpg,100.414281,"6.266947,"
+9,Mok Cunn Corner,"36a, Jalan Ilmu, Bandar Darulaman Jaya",11:00 AM - 4:00 PM,"Mon-Sun11:00AM-4:00PM,11:00AM-4:00PM",4.5/5,76,https://images.deliveryhero.io/image/fd-my/LH/r8rf-hero.jpg,100.423074,"6.251918,"
+10,Amran Teh Tarik (Legend),"Dewan Umno,Taman Ihsan",9:00 AM - 7:00 PM,"Tue-Thu,Sun9:00AM-7:00PM,9:00AM-7:00PM",4.7/5,45,https://images.deliveryhero.io/image/fd-my/LH/q8qc-hero.jpg,100.421523,"6.258041,"
+11,D' Yunk Kafe,"Lot 400,No. 1 & 2, KLB 20, Jalan Kelubi Luar, Kampung Kelubi Luar, Jitra",1:00 PM - 9:45 PM,"Tue-Sun1:00PM-9:45PM,1:00PM-9:45PM",4.5/5,317,https://images.deliveryhero.io/image/fd-my/LH/q5fv-hero.jpg,100.438161,"6.26458,"
+12,MBH SIBLINGS SUCCESS EMPIRE,"No. 47, Taman Damai Jaya, Jalan Changlun, Jitra Kedah",8:00 AM - 11:59 PM,"Mon-Sun8:00AM-11:59PM,8:00AM-11:59PM",4.8/5,7,https://images.deliveryhero.io/image/fd-my/LH/q4hz-hero.jpg,100.418157,"6.281103,"
+13,Nia Mee Bandung Muo-R-(Yellow Truck),"No 1, Yellow Truck Medan Selera, Jln Sg Korok,Kg Tok Kesop, Jitra Kedah",3:00 PM - 11:59 PM,"Mon,Wed-Sun3:00PM-11:59PM,3:00PM-11:59PM",N/A,N/A,https://images.deliveryhero.io/image/fd-my/LH/q0uk-hero.jpg,100.412835,"6.263005,"
+14,Sup Meletop Bang Mat Daging,Lot 134 Taman Desa Damai,10:00 AM - 9:30 PM,"Mon-Sun10:00AM-9:30PM,10:00AM-9:30PM",4/5,71,https://images.deliveryhero.io/image/fd-my/LH/r7cp-hero.jpg,100.419182,"6.277651,"
+15,Chill Cafe,"LOT KEDAI BERSEBELAHAN SMK JITRA 06000 JITRA, JITRA, KEDAH 06000",8:00 PM - 11:59 PM,"Mon-Sun8:00PM-11:59PM,8:00PM-11:59PM",1.5/5,2,https://images.deliveryhero.io/image/fd-my/LH/r5cn-hero.jpg,100.42017,"6.259976,"
+16,Authentic Indo (Stesen Bas Ekspress),"N0.5, Medan Selera Muhibbah, Bandar Darulaman, Jitra, Kedah",11:30 AM - 11:00 PM,"Mon-Thu,Sun11:30AM-11:00PM,11:30AM-11:00PM",4.3/5,578,https://images.deliveryhero.io/image/fd-my/LH/q8dl-hero.jpg,100.420566,"6.235933,"
+17,Restoran Wadi Sinai,"No. 49 GF, College Height Commercial Square",1:00 PM - 10:15 PM,"Mon-Sun1:00PM-10:15PM,1:00PM-10:15PM",4.6/5,54,https://images.deliveryhero.io/image/fd-my/LH/q5bg-hero.jpg,100.420132,"6.231907,"
+18,Umie's Jitra Kitchen,"26, Jalan Ilmu, Bukit Indah Jitra, kedah 06000",10:00 AM - 10:00 PM,"Mon-Sun10:00AM-10:00PM,10:00AM-10:00PM",3.6/5,31,https://images.deliveryhero.io/image/fd-my/LH/r5sv-hero.jpg,100.4295333,"6.2409383,"
+19,Jenjuno Cafe,"No. 5 Lot Bawah Jalan Taman Bahagia, Jitra",6:30 PM - 11:00 PM,"Mon-Fri,Sun6:30PM-11:00PM,6:30PM-11:00PM",4.1/5,50,https://images.deliveryhero.io/image/fd-my/LH/q7ro-hero.jpg,100.4202637,"6.2544614,"
+20,House of Takoyaki,"No.6, Tingkat Bawah, Pekan Jitra 3, Jitra, Kedah",10:00 PM - 11:15 PM,"Tue10:00PM-11:15PM,10:00PM-11:15PM",4.3/5,107,https://images.deliveryhero.io/image/fd-my/LH/q9ld-hero.jpg,100.418476,"6.261541,"
+21,Restoran Celapak,"No 3, Jalan Sinaran, Taman Sinaran Indah, Kedah",5:00 PM - 11:59 PM,"Mon,Tue,Thu-Sun5:00PM-11:59PM,5:00PM-11:59PM",4.3/5,328,https://images.deliveryhero.io/image/fd-my/LH/r9mf-hero.jpg,100.407951,"6.271708,"
+22,Wak Zainal Mi kari,"TAMAN TUNKU SARINA 06000 JITRA JITRA, KEDAH 06000",5:00 PM - 11:00 PM,"Mon-Sun5:00PM-11:00PM,5:00PM-11:00PM",5/5,1,https://images.deliveryhero.io/image/fd-my/LH/r8ga-hero.jpg,100.453122,"6.257789,"
+23,Bob Burger Tts,"No. 1511 D'aman shoppe, Jalan Sara 2,Taman Tunku Sarina",4:45 PM - 11:45 PM,"Mon-Sat4:45PM-11:45PM,4:45PM-11:45PM
 
-Sun4:30PM-11:45PM,4:30PM-11:45PM",4.7/5,218,"""https://images.deliveryhero.io/image/fd-my/LH/r4ki-hero.jpg"
-9,Kak Nab Mee Kari & Gulai Temenung Panas (Medan Mahsuri),"No.6, Medan Selera Mahsuri, Taman Mahsuri, Jitra, Kedah",10:00 AM - 7:00 PM,"Tue-Sun10:00AM-7:00PM,10:00AM-7:00PM",4.5/5,138,"""https://images.deliveryhero.io/image/fd-my/LH/q5zk-hero.jpg"
-10,Pak Lang Roti Canai (Taman Siswa),"No 8, Medan Taman Siswa, Jalan Siswa 8, Taman Siswa 2, Jitra, Kedah",8:00 AM - 12:00 PM,"Mon,Tue,Sat,Sun5:00PM-11:45PM,8:00AM-12:00PM,5:00PM-11:45PM,8:00AM-12:00PM
+Sun4:30PM-11:45PM,4:30PM-11:45PM",4.7/5,219,https://images.deliveryhero.io/image/fd-my/LH/r4ki-hero.jpg,100.45314935,"6.2581469,"
+24,Nenda Cafe,"N0 57-A, Bandar Darulaman Jaya, Kubang Pasu",3:00 PM - 10:00 PM,"Mon,Tue,Thu,Sat,Sun3:00PM-10:00PM,3:00PM-10:00PM
 
-Wed,Fri8:00AM-12:00PM,5:00PM-11:45PM,8:00AM-12:00PM,5:00PM-11:45PM",4.7/5,720,"""https://images.deliveryhero.io/image/fd-my/LH/q2xg-hero.jpg"
-11,Pak Leh Station,"1509, Jalan Sara 2, Taman Tunku Sarina 2, Jitra Kedah",3:00 PM - 10:00 PM,"Mon-Fri,Sun3:00PM-10:00PM,3:00PM-10:00PM",4.2/5,158,"""https://images.deliveryhero.io/image/fd-my/LH/q7rc-hero.jpg"
-12,KFC VSQ,"KFC VSQ Petaling Jaya Level G , Tower 1 , VSQuare @ PJ city center , Jalan Utara , bandar Petaling Jaya",8:00 AM - 7:30 PM,"Mon-Sun8:00AM-7:30PM,8:00AM-7:30PM",4.4/5,3345,"""https://images.deliveryhero.io/image/fd-my/LH/n8wj-hero.jpg"
-13,Blackwood Coffee & Chocolate Jitra,"Plot Blackwood, Lot 21 Jalan Industri Darulaman 1, Kawasan Perusahaan Bandar Darul Aman",11:00 AM - 9:30 PM,"Mon-Sun11:00AM-9:30PM,11:00AM-9:30PM",4.3/5,148,"""https://images.deliveryhero.io/image/fd-my/LH/q8kh-hero.jpg"
-14,Restoran Celapak,"No 3, Jalan Sinaran, Taman Sinaran Indah, Kedah",5:00 PM - 11:59 PM,"Mon,Tue,Thu-Sun5:00PM-11:59PM,5:00PM-11:59PM",4.3/5,320,"""https://images.deliveryhero.io/image/fd-my/LH/r9mf-hero.jpg"
-15,Jeruk Madu Pak Ali Jitra,"243,Tingkat Bawah Jln PJ 2/2",10:00 AM - 6:00 PM,"Mon-Thu,Sat,Sun10:00AM-6:00PM,10:00AM-6:00PM",5/5,3,"""https://images.deliveryhero.io/image/fd-my/LH/q2vi-hero.jpg"
-16,Kedai Makan Kak Ya & Dik An,"Jalan Taman Tunku Sarina, Jitra, Kedah",11:30 AM - 9:30 PM,"Mon-Thu,Sat,Sun11:30AM-9:30PM,11:30AM-9:30PM
+Fri4:00PM-10:00PM,4:00PM-10:00PM",4.2/5,51,https://images.deliveryhero.io/image/fd-my/LH/q2vp-hero.jpg,100.420485,"6.242631,"
+25,Marrybrown (Komtar),"The Top Komtar, Block 2B, Level 5, Lot R4 & R5, Penang Road, GT 1",10:30 AM - 9:00 PM,"Mon-Sun10:30AM-9:00PM,10:30AM-9:00PM",4.5/5,2529,https://images.deliveryhero.io/image/fd-my/LH/m6hy-hero.jpg,100.3299467,"5.41495375,"
+26,Restoran Transit Teh Tarik,"No 10, Taman Damai Jaya",4:00 PM - 11:59 PM,"Mon-Sun4:00PM-11:59PM,4:00PM-11:59PM",4.3/5,3,https://images.deliveryhero.io/image/fd-my/LH/r7du-hero.jpg,100.419894,"6.280942,"
+27,RESTORAN AL BARASH @ MIX LEGACY CAFE,"Jalan Ilmu Hadapan Masjid Tanjung Pauh, Bandar Darulaman",4:00 PM - 11:59 PM,"Mon-Sun4:00PM-11:59PM,4:00PM-11:59PM",4/5,3,https://images.deliveryhero.io/image/fd-my/LH/r1qg-hero.jpg,100.420329,"6.250544,"
+28,Jeruk Madu Pak Ali Jitra,"243,Tingkat Bawah Jln PJ 2/2",10:00 AM - 6:00 PM,"Mon-Thu,Sat,Sun10:00AM-6:00PM,10:00AM-6:00PM",5/5,3,https://images.deliveryhero.io/image/fd-my/LH/q2vi-hero.jpg,100.4198062,"6.2562237,"
+29,Restoran Nasi Kandar Yasmeen (Jitra),"No 6-B & 7-A, Bandar Darulaman Jaya, Kedah",10:00 AM - 11:45 PM,"Mon-Sun10:00AM-11:45PM,10:00AM-11:45PM",4.3/5,523,https://images.deliveryhero.io/image/fd-my/LH/q5ct-hero.jpg,100.420109,"6.244612,"
+30,Karipap Rempah Giling,"No 5,Kampung Padang,Jitra Kedah",10:00 AM - 6:00 PM,"Mon-Thu,Sat,Sun10:00AM-6:00PM,10:00AM-6:00PM",4.3/5,15,https://images.deliveryhero.io/image/fd-my/LH/q0ex-hero.jpg,100.4118426,"6.2678893,"
+31,Kak Mona café,"No. 16, Medan Selera Jitra 1",3:00 PM - 11:00 PM,"Mon-Sun3:00PM-11:00PM,3:00PM-11:00PM",1/5,1,https://images.deliveryhero.io/image/fd-my/LH/r5hv-hero.jpg,100.418975,"6.263036,"
+32,Restoran Halban Jaya,"No 2,Tmn Sri Halban, Jitra",12:00 PM - 11:00 PM,"Mon-Sun12:00PM-11:00PM,12:00PM-11:00PM",4.5/5,786,https://images.deliveryhero.io/image/fd-my/LH/q4ao-hero.jpg,100.419489,"6.2446571,"
+33,Chaq Own Burger & Pita Kebab,Hadapan Domino's Pizza Bandar Darulaman Jaya,6:00 PM - 11:59 PM,"Mon-Sun6:00PM-11:59PM,6:00PM-11:59PM",4.2/5,7,https://images.deliveryhero.io/image/fd-my/LH/r2sb-hero.jpg,100.420099,"6.244887,"
+34,Bihun Sup Kedah,Taman Kempas Sebelah Cmart,12:00 PM - 10:00 PM,"Mon12:00PM-9:59PM,12:00PM-9:59PM
 
-Fri11:30AM-9:30PM",4.4/5,125,"""https://images.deliveryhero.io/image/fd-my/LH/q1qg-hero.jpg"
-17,Damia Ayam Gunting (Cmart BDI),"No 4, Dalam Cmart BDI, Jitra, Kedah",11:00 AM - 9:30 PM,"Mon-Sun11:00AM-9:30PM,11:00AM-9:30PM",4.7/5,124,"""https://images.deliveryhero.io/image/fd-my/LH/q5iw-hero.jpg"
-18,Sir Kebab Istanbul,"No 9, Jalan Tanah Merah, Taman Sri Halban kubang pasu",12:00 PM - 10:30 PM,"Mon-Sun12:00PM-10:30PM,12:00PM-10:30PM",4.7/5,284,"""https://images.deliveryhero.io/image/fd-my/LH/r5ij-hero.jpg"
-19,MBH SIBLINGS SUCCESS EMPIRE,"No. 47, Taman Damai Jaya, Jalan Changlun, Jitra Kedah",8:00 AM - 11:59 PM,"Mon-Sun8:00AM-11:59PM,8:00AM-11:59PM",4.8/5,7,"""https://images.deliveryhero.io/image/fd-my/LH/q4hz-hero.jpg"
-20,Farid Western,Hadapan Dominos Pizza Bandar Darulaman Jaya,6:00 PM - 11:59 PM,"Mon,Wed-Sun6:00PM-11:59PM,6:00PM-11:59PM",3.4/5,5,"""https://images.deliveryhero.io/image/fd-my/LH/q3jb-hero.jpg"
-21,Pine 2,"39 taman malik jalan pegawai,Lorong cahaya
-Alor setat, Kedah 05050",5:00 PM - 11:00 PM,"Mon,Tue,Thu-Sun5:00PM-11:00PM,5:00PM-11:00PM",4.4/5,2010,"""https://images.deliveryhero.io/image/fd-my/LH/o9za-hero.jpg"
-22,Aniza Set Talam,"Kampung Paya Nongmi, Bukit Kayu Hitam, Kedah",5:00 PM - 10:30 PM,"Mon-Sat5:00PM-10:30PM,5:00PM-11:00PM",3.8/5,114,"""https://images.deliveryhero.io/image/fd-my/LH/q8jm-hero.jpg"
-23,Pak John Cafe,No.2 Gerai Makan Majlis Bandaran,12:30 PM - 11:59 PM,"Mon-Sun12:30PM-11:59PM,12:30PM-11:59PM",4.4/5,154,"""https://images.deliveryhero.io/image/fd-my/LH/r5iq-hero.jpg"
-24,Belanga Hangit (Food Garage),"Food Garage, Lot 7360, Jalan Taman Sri, Jitra, Kedah",2:00 PM - 11:30 PM,"Tue-Sun2:00PM-11:30PM,2:00PM-11:30PM",4.1/5,319,"""https://images.deliveryhero.io/image/fd-my/LH/q2id-hero.jpg"
-25,Restoran Transit Teh Tarik,"No 10, Taman Damai Jaya",4:00 PM - 11:59 PM,"Mon-Sun4:00PM-11:59PM,4:00PM-11:59PM",4.3/5,3,"""https://images.deliveryhero.io/image/fd-my/LH/r7du-hero.jpg"
-26,Amet Char Kuey Teow,"No 5, Medan Selera Taman Sri Aman",4:00 PM - 11:00 PM,"Mon-Fri,Sun4:00PM-11:00PM,4:00PM-11:00PM",4/5,81,"""https://images.deliveryhero.io/image/fd-my/LH/q1lw-hero.jpg"
-27,Jenjuno Cafe,"No. 5 Lot Bawah Jalan Taman Bahagia, Jitra",6:30 PM - 11:00 PM,"Mon-Fri,Sun6:30PM-11:00PM,6:30PM-11:00PM",4.1/5,50,"""https://images.deliveryhero.io/image/fd-my/LH/q7ro-hero.jpg"
-28,Restoran Halban Jaya,"No 2,Tmn Sri Halban, Jitra",12:00 PM - 11:00 PM,"Mon-Sun12:00PM-11:00PM,12:00PM-11:00PM",4.5/5,779,"""https://images.deliveryhero.io/image/fd-my/LH/q4ao-hero.jpg"
-29,Churrostime(Jitra),Seberang Jln Besar Hotel Darulaman,2:00 PM - 5:00 PM,"Mon-Thu,Sat,Sun2:00PM-5:00PM,2:00PM-5:00PM",4.5/5,12,"""https://images.deliveryhero.io/image/fd-my/LH/q2go-hero.jpg"
-30,RESTORAN AL BARASH @ MIX LEGACY CAFE,"Jalan Ilmu Hadapan Masjid Tanjung Pauh, Bandar Darulaman",4:00 PM - 11:59 PM,"Mon-Sun4:00PM-11:59PM,4:00PM-11:59PM",4/5,3,"""https://images.deliveryhero.io/image/fd-my/LH/r1qg-hero.jpg"
-31,Mee Awang,"304 F, Jalan Sungai Korok",12:00 PM - 9:45 PM,"Mon,Tue,Thu,Sat,Sun12:00PM-9:45PM,12:00PM-9:45PM
+Tue-Sun12:00PM-10:00PM,12:00PM-10:00PM",N/A,N/A,https://images.deliveryhero.io/image/fd-my/LH/r0sa-hero.jpg,100.430633,"6.435332,"
+35,Sate Lia,"No.17 Medan Selera Jitra 1, Pekan Jitra",5:00 PM - 10:00 PM,"Mon-Thu,Sat,Sun5:00PM-10:00PM,5:00PM-10:00PM",N/A,N/A,https://images.deliveryhero.io/image/fd-my/LH/r2jo-hero.jpg,100.420825,"6.266967,"
+36,Kedai Makan Kak Ya & Dik An,"Jalan Taman Tunku Sarina, Jitra, Kedah",11:30 AM - 9:30 PM,"Mon-Thu,Sat,Sun11:30AM-9:30PM,11:30AM-9:30PM
 
-Wed9:00AM-9:00PM,9:00AM-9:00PM",4.4/5,96,"""https://images.deliveryhero.io/image/fd-my/LH/r4vr-hero.jpg"
-32,Kek Sayang (Jitra),"244, Jalan PJ2/2, Pekan Jitra 2",10:30 AM - 7:00 PM,"Mon-Sun10:30AM-7:00PM,10:30AM-7:00PM",4.3/5,56,"""https://images.deliveryhero.io/image/fd-my/LH/r1ge-hero.jpg"
-33,Chill Cafe,"LOT KEDAI BERSEBELAHAN SMK JITRA 06000 JITRA, JITRA, KEDAH 06000",8:00 PM - 11:59 PM,"Mon-Sun8:00PM-11:59PM,8:00PM-11:59PM",1.5/5,2,"""https://images.deliveryhero.io/image/fd-my/LH/r5cn-hero.jpg"
-34,Food Mania,"No.6, Tingkat Bawah, Pekan Jitra 3, Jitra, Kedah",10:00 AM - 9:00 PM,"Sun10:00AM-9:00PM,10:00AM-9:00PM",4.5/5,12,"""https://images.deliveryhero.io/image/fd-my/LH/q0si-hero.jpg"
-35,Nenda Cafe,"N0 57-A, Bandar Darulaman Jaya, Kubang Pasu",3:00 PM - 10:00 PM,"Mon,Tue,Thu,Sat,Sun3:00PM-10:00PM,3:00PM-10:00PM
-
-Fri4:00PM-10:00PM,4:00PM-10:00PM",4.2/5,51,"""https://images.deliveryhero.io/image/fd-my/LH/q2vp-hero.jpg"
-36,Eva Cafe,"147 A,Jalan PJ 6, Pekan Jitra 2, Jitra, Kedah",9:30 AM - 6:45 PM,"Mon-Thu,Sat,Sun9:30AM-6:45PM,9:30AM-6:45PM",4.1/5,125,"""https://images.deliveryhero.io/image/fd-my/LH/q3wt-hero.jpg"
-37,Restoran Nasi Kukus Utara (Matang Pagar),Kampung Matang Pagar,10:00 AM - 7:00 PM,"Mon-Sun10:00AM-7:00PM,10:00AM-7:00PM",4.5/5,1215,"""https://images.deliveryhero.io/image/fd-my/LH/n1fa-hero.jpg"
-38,D' Yunk Kafe,"Lot 400,No. 1 & 2, KLB 20, Jalan Kelubi Luar, Kampung Kelubi Luar, Jitra",1:00 PM - 9:45 PM,"Tue-Sun1:00PM-9:45PM,1:00PM-9:45PM",4.5/5,317,"""https://images.deliveryhero.io/image/fd-my/LH/q5fv-hero.jpg"
-39,Restoran Nasi Kandar Yasmeen (Jitra),"No 6-B & 7-A, Bandar Darulaman Jaya, Kedah",10:00 AM - 11:45 PM,"Mon-Sun10:00AM-11:45PM,10:00AM-11:45PM",4.3/5,514,"""https://images.deliveryhero.io/image/fd-my/LH/q5ct-hero.jpg"
-40,Sup Meletop Bang Mat Daging,Lot 134 Taman Desa Damai,10:00 AM - 9:30 PM,"Mon-Sun10:00AM-9:30PM,10:00AM-9:30PM",4/5,71,"""https://images.deliveryhero.io/image/fd-my/LH/r7cp-hero.jpg"
-41,Sate Lia,"No.17 Medan Selera Jitra 1, Pekan Jitra",5:00 PM - 10:00 PM,"Mon-Thu,Sat,Sun5:00PM-10:00PM,5:00PM-10:00PM",N/A,N/A,"""https://images.deliveryhero.io/image/fd-my/LH/r2jo-hero.jpg"
-42,OBI CAFE,No. 3 Bandar Darul Aman,3:00 PM - 11:59 PM,"Mon-Wed,Fri,Sat3:00PM-11:59PM,12:00AM-12:30AM,3:00PM-11:59PM,12:00AM-2:00AM
-
-Thu,Sun3:00PM-11:59PM,12:00AM-12:30AM,12:00AM-2:00AM,3:00PM-11:59PM",N/A,N/A,"""https://images.deliveryhero.io/image/fd-my/LH/r1jr-hero.jpg"
-43,Chaq Own Burger & Pita Kebab,Hadapan Domino's Pizza Bandar Darulaman Jaya,6:00 PM - 11:59 PM,"Mon-Sun6:00PM-11:59PM,6:00PM-11:59PM",4.2/5,7,"""https://images.deliveryhero.io/image/fd-my/LH/r2sb-hero.jpg"
-44,Nasi Lemak Panas Taman Pasu,"Hadapan Cuci 2 Ekspress, Taman Pasu",8:00 AM - 11:59 PM,"Mon-Thu,Sun8:00AM-11:59PM,8:00AM-11:59PM",3.9/5,142,"""https://images.deliveryhero.io/image/fd-my/LH/q9mr-hero.jpg"
-45,Thug Cafe,"219, Suria Commercial Centre, Jalan Baru Hospital Daerah Taman Suria 2",2:00 PM - 10:00 PM,"Mon-Thu,Sat,Sun2:00PM-10:00PM,2:00PM-10:00PM",4.4/5,576,"""https://images.deliveryhero.io/image/fd-my/LH/r3bm-hero.jpg"
-46,Addin Sejati Enterprise,"19, Lorong Sejahtera, Kampung Hijrah",10:00 AM - 7:00 PM,"Mon-Sat10:00AM-7:00PM,10:00AM-7:00PM",N/A,N/A,"""https://images.deliveryhero.io/image/fd-my/LH/r3ke-hero.jpg"
-47,Marrybrown (Komtar),"The Top Komtar, Block 2B, Level 5, Lot R4 & R5, Penang Road, GT 1",10:30 AM - 9:00 PM,"Mon-Sun10:30AM-9:00PM,10:30AM-9:00PM",4.5/5,2515,"""https://images.deliveryhero.io/image/fd-my/LH/m6hy-hero.jpg"
-48,Coq Pisang Ganja,Kampung Seberang,10:00 AM - 7:00 PM,"Mon-Sun10:00AM-7:00PM,10:00AM-7:00PM",4.4/5,7,"""https://images.deliveryhero.io/image/fd-my/LH/r2rm-hero.jpg"
-49,Football Marche,"50-52 Jalan Tanah Merah, Bandar Darulaman, Jitra, Kedah",12:00 PM - 11:59 PM,"Mon-Sun12:00PM-11:59PM,12:00PM-11:59PM",4.3/5,791,"""https://images.deliveryhero.io/image/fd-my/LH/q5ag-hero.jpg"
-50,Restoran Sri Impian Jitra (Famous Mee Rebus In Jitra),12 Taman Damai Jaya,9:00 AM - 7:45 PM,"Mon-Thu,Sat,Sun9:00AM-7:45PM,9:00AM-7:45PM",4.6/5,468,"""https://images.deliveryhero.io/image/fd-my/LH/r1tt-hero.jpg"
-51,Umie's Jitra Kitchen,"26, Jalan Ilmu, Bukit Indah Jitra, kedah 06000",10:00 AM - 10:00 PM,"Mon-Sun10:00AM-10:00PM,10:00AM-10:00PM",3.6/5,31,"""https://images.deliveryhero.io/image/fd-my/LH/r5sv-hero.jpg"
-52,Nittha Cafe,"G 45 Jitra Mall, Pekan Jitra",11:15 AM - 6:45 PM,"Mon-Thu,Sat,Sun11:15AM-6:45PM,11:15AM-6:45PM",4.6/5,232,"""https://images.deliveryhero.io/image/fd-my/LH/r6lu-hero.jpg"
-53,Nasi Kandaq Beratoqqq,"No. 70A Bandar Baru Darulaman, Pekan Jitra",6:00 PM - 11:59 PM,"Mon-Sun6:00PM-11:59PM,6:00PM-11:59PM",3.7/5,4,"""https://images.deliveryhero.io/image/fd-my/LH/r1oi-hero.jpg"
-54,Karipap Rempah Giling,"No 5,Kampung Padang,Jitra Kedah",10:00 AM - 6:00 PM,"Mon-Thu,Sat,Sun10:00AM-6:00PM,10:00AM-6:00PM",4.3/5,15,"""https://images.deliveryhero.io/image/fd-my/LH/q0ex-hero.jpg"
-55,Mok Cunn Corner,"36a, Jalan Ilmu, Bandar Darulaman Jaya",11:00 AM - 4:00 PM,"Mon-Sun11:00AM-4:00PM,11:00AM-4:00PM",4.5/5,76,"""https://images.deliveryhero.io/image/fd-my/LH/r8rf-hero.jpg"
-56,Megat Char Koey Teow,Hadapan Dominos Pizza Bandar Darulaman Jaya,6:30 PM - 11:59 PM,"Mon-Sun6:30PM-11:59PM,6:30PM-11:59PM",4.7/5,42,"""https://images.deliveryhero.io/image/fd-my/LH/q7ac-hero.jpg"
-57,Pak Majid Kacang Pool,"No 7, Medan Taman Siswa",8:00 AM - 5:30 PM,"Tue,Wed8:00AM-5:30PM,7:45AM-5:30PM
+Fri11:30AM-9:30PM",4.4/5,125,https://images.deliveryhero.io/image/fd-my/LH/q1qg-hero.jpg,100.4470269,"6.2525535,"
+37,Food Mania,"No.6, Tingkat Bawah, Pekan Jitra 3, Jitra, Kedah",10:00 AM - 9:00 PM,"Sun10:00AM-9:00PM,10:00AM-9:00PM",4.5/5,12,https://images.deliveryhero.io/image/fd-my/LH/q0si-hero.jpg,100.419243,"6.260687,"
+38,Pak John Cafe,No.2 Gerai Makan Majlis Bandaran,12:30 PM - 11:59 PM,"Mon-Sun12:30PM-11:59PM,12:30PM-11:59PM",4.4/5,159,https://images.deliveryhero.io/image/fd-my/LH/r5iq-hero.jpg,100.426938,"6.253923,"
+39,Aniza Set Talam,"Kampung Paya Nongmi, Bukit Kayu Hitam, Kedah",5:00 PM - 10:30 PM,"Mon-Sat5:00PM-10:30PM,5:00PM-11:00PM",3.8/5,114,https://images.deliveryhero.io/image/fd-my/LH/q8jm-hero.jpg,100.426373,"6.432358,"
+40,Restoran Nasi Kukus Utara (Matang Pagar),Kampung Matang Pagar,10:00 AM - 7:00 PM,"Mon-Sun10:00AM-7:00PM,10:00AM-7:00PM",4.5/5,1222,https://images.deliveryhero.io/image/fd-my/LH/n1fa-hero.jpg,101.56099701,"3.24025989,"
+41,KFC VSQ,"KFC VSQ Petaling Jaya Level G , Tower 1 , VSQuare @ PJ city center , Jalan Utara , bandar Petaling Jaya",8:00 AM - 7:30 PM,"Mon-Sun8:00AM-7:30PM,8:00AM-7:30PM",4.4/5,3351,https://images.deliveryhero.io/image/fd-my/LH/n8wj-hero.jpg,101.6400354,"3.1072086,"
+42,Amet Char Kuey Teow,"No 5, Medan Selera Taman Sri Aman",4:00 PM - 11:00 PM,"Mon-Fri,Sun4:00PM-11:00PM,4:00PM-11:00PM",4/5,81,https://images.deliveryhero.io/image/fd-my/LH/q1lw-hero.jpg,100.426987,"6.253972,"
+43,Sir Kebab Istanbul,"No 9, Jalan Tanah Merah, Taman Sri Halban kubang pasu",12:00 PM - 10:30 PM,"Mon-Sun12:00PM-10:30PM,12:00PM-10:30PM",4.7/5,284,https://images.deliveryhero.io/image/fd-my/LH/r5ij-hero.jpg,100.419436,"6.244674,"
+44,Yusof Jan Nasi Jagung Changlun,"Hadapan PPK (Pertubuhan Peladang Kawasan), Lebuhraya Changlun - Bukit Kayu Hitam, Changlun",9:00 AM - 2:00 PM,"Mon-Thu,Sat,Sun9:00AM-2:00PM,9:00AM-2:00PM",4.4/5,87,https://images.deliveryhero.io/image/fd-my/LH/q9nd-hero.jpg,100.428389,"6.424496,"
+45,Kek Sayang (Jitra),"244, Jalan PJ2/2, Pekan Jitra 2",10:30 AM - 7:00 PM,"Mon-Sun10:30AM-7:00PM,10:30AM-7:00PM",4.3/5,56,https://images.deliveryhero.io/image/fd-my/LH/r1ge-hero.jpg,100.419502,"6.256434,"
+46,Addin Sejati Enterprise,"19, Lorong Sejahtera, Kampung Hijrah",10:00 AM - 7:00 PM,"Mon-Sat10:00AM-7:00PM,10:00AM-7:00PM",N/A,N/A,https://images.deliveryhero.io/image/fd-my/LH/r3ke-hero.jpg,100.4143807,"6.2697154,"
+47,Farid Western,Hadapan Dominos Pizza Bandar Darulaman Jaya,6:00 PM - 11:59 PM,"Mon,Wed-Sun6:00PM-11:59PM,6:00PM-11:59PM",3.4/5,5,https://images.deliveryhero.io/image/fd-my/LH/q3jb-hero.jpg,100.420103,"6.244886,"
+48,Nasi Kandaq Beratoqqq,"No. 70A Bandar Baru Darulaman, Pekan Jitra",6:00 PM - 11:59 PM,"Mon-Sun6:00PM-11:59PM,6:00PM-11:59PM",3.7/5,4,https://images.deliveryhero.io/image/fd-my/LH/r1oi-hero.jpg,100.420056,"6.244614,"
+49,Pak Leh Station,"1509, Jalan Sara 2, Taman Tunku Sarina 2, Jitra Kedah",3:00 PM - 10:00 PM,"Mon-Fri,Sun3:00PM-10:00PM,3:00PM-10:00PM",4.2/5,158,https://images.deliveryhero.io/image/fd-my/LH/q7rc-hero.jpg,100.453038,"6.257885,"
+50,Kak Nab Mee Kari & Gulai Temenung Panas (Medan Mahsuri),"No.6, Medan Selera Mahsuri, Taman Mahsuri, Jitra, Kedah",10:00 AM - 7:00 PM,"Tue-Sun10:00AM-7:00PM,10:00AM-7:00PM",4.5/5,138,https://images.deliveryhero.io/image/fd-my/LH/q5zk-hero.jpg,100.423865,"6.237174,"
+51,Pak Majid Kacang Pool,"No 7, Medan Taman Siswa",8:00 AM - 1:30 PM,"Tue,Wed8:00AM-5:30PM,7:45AM-5:30PM
 
 Thu,Sat,Sun8:00AM-1:30PM,7:45AM-1:30PM
 
-Fri8:00AM-10:30AM,7:45AM-10:30AM",4.5/5,103,"""https://images.deliveryhero.io/image/fd-my/LH/q3ex-hero.jpg"
-58,Amran Teh Tarik (Legend),"Dewan Umno,Taman Ihsan",9:00 AM - 7:00 PM,"Tue-Thu,Sun9:00AM-7:00PM,9:00AM-7:00PM",4.7/5,45,"""https://images.deliveryhero.io/image/fd-my/LH/q8qc-hero.jpg"
-59,Restoran Wadi Sinai,"No. 49 GF, College Height Commercial Square",1:00 PM - 10:15 PM,"Mon-Sun1:00PM-10:15PM,1:00PM-10:15PM",4.6/5,54,"""https://images.deliveryhero.io/image/fd-my/LH/q5bg-hero.jpg"
-60,Yusof Jan Nasi Jagung Changlun,"Hadapan PPK (Pertubuhan Peladang Kawasan), Lebuhraya Changlun - Bukit Kayu Hitam, Changlun",9:00 AM - 2:00 PM,"Mon-Thu,Sat,Sun9:00AM-2:00PM,9:00AM-2:00PM",4.4/5,81,"""https://images.deliveryhero.io/image/fd-my/LH/q9nd-hero.jpg"
-61,Man Mee Kari (Medan Penjaja Tanah Merah),"No.7, Medan Penjaja Tanah Merah, Kedah",11:00 AM - 7:00 PM,"Mon,Tue,Thu-Sun11:00AM-7:00PM,11:00AM-7:00PM",4.4/5,125,"""https://images.deliveryhero.io/image/fd-my/LH/q1sq-hero.jpg"
-62,House of Takoyaki,"No.6, Tingkat Bawah, Pekan Jitra 3, Jitra, Kedah",10:00 PM - 11:15 PM,"Tue10:00PM-11:15PM,10:00PM-11:15PM",4.3/5,107,"""https://images.deliveryhero.io/image/fd-my/LH/q9ld-hero.jpg"
+Fri8:00AM-10:30AM,7:45AM-10:30AM",4.5/5,106,https://images.deliveryhero.io/image/fd-my/LH/q3ex-hero.jpg,100.4205456,"6.239049,"
+52,Damia Ayam Gunting (Cmart BDI),"No 4, Dalam Cmart BDI, Jitra, Kedah",11:00 AM - 9:30 PM,"Mon-Sun11:00AM-9:30PM,11:00AM-9:30PM",4.7/5,124,https://images.deliveryhero.io/image/fd-my/LH/q5iw-hero.jpg,100.429305,"6.252843,"
+53,Pak Lang Roti Canai (Taman Siswa),"No 8, Medan Taman Siswa, Jalan Siswa 8, Taman Siswa 2, Jitra, Kedah",8:00 AM - 12:00 PM,"Mon,Tue,Sat,Sun5:00PM-11:45PM,8:00AM-12:00PM,5:00PM-11:45PM,8:00AM-12:00PM
+
+Wed,Fri8:00AM-12:00PM,5:00PM-11:45PM,8:00AM-12:00PM,5:00PM-11:45PM",4.7/5,730,https://images.deliveryhero.io/image/fd-my/LH/q2xg-hero.jpg,100.420727,"6.239147,"
+54,Nittha Cafe,"G 45 Jitra Mall, Pekan Jitra",11:15 AM - 6:45 PM,"Mon-Thu,Sat,Sun11:15AM-6:45PM,11:15AM-6:45PM",4.6/5,234,https://images.deliveryhero.io/image/fd-my/LH/r6lu-hero.jpg,100.419128,"6.261239,"
+55,Pine 2,"39 taman malik jalan pegawai,Lorong cahaya
+Alor setat, Kedah 05050",5:00 PM - 11:00 PM,"Mon,Tue,Thu-Sun5:00PM-11:00PM,5:00PM-11:00PM",4.4/5,2031,https://images.deliveryhero.io/image/fd-my/LH/o9za-hero.jpg,100.36639931,"6.11655709,"
+56,Thug Cafe,"219, Suria Commercial Centre, Jalan Baru Hospital Daerah Taman Suria 2",2:00 PM - 10:00 PM,"Mon-Thu,Sat,Sun2:00PM-10:00PM,2:00PM-10:00PM",4.4/5,578,https://images.deliveryhero.io/image/fd-my/LH/r3bm-hero.jpg,100.413331,"6.277641,"
+57,Nasi Lemak Panas Taman Pasu,"Hadapan Cuci 2 Ekspress, Taman Pasu",8:00 AM - 11:59 PM,"Mon-Thu,Sun8:00AM-11:59PM,8:00AM-11:59PM",3.9/5,142,https://images.deliveryhero.io/image/fd-my/LH/q9mr-hero.jpg,100.416522,"6.27781,"
+58,Football Marche,"50-52 Jalan Tanah Merah, Bandar Darulaman, Jitra, Kedah",12:00 PM - 11:59 PM,"Mon-Sun12:00PM-11:59PM,12:00PM-11:59PM",4.3/5,799,https://images.deliveryhero.io/image/fd-my/LH/q5ag-hero.jpg,100.420435,"6.238592,"
+59,Megat Char Koey Teow,Hadapan Dominos Pizza Bandar Darulaman Jaya,6:30 PM - 11:59 PM,"Mon-Sun6:30PM-11:59PM,6:30PM-11:59PM",4.7/5,42,https://images.deliveryhero.io/image/fd-my/LH/q7ac-hero.jpg,100.420104,"6.244907,"
+60,Churrostime(Jitra),Seberang Jln Besar Hotel Darulaman,2:00 PM - 5:00 PM,"Mon-Thu,Sat,Sun2:00PM-5:00PM,2:00PM-5:00PM",4.5/5,12,https://images.deliveryhero.io/image/fd-my/LH/q2go-hero.jpg,100.423291,"6.237676,"
+61,OBI CAFE,No. 3 Bandar Darul Aman,3:00 PM - 11:59 PM,"Mon-Wed,Fri,Sat3:00PM-11:59PM,12:00AM-12:30AM,3:00PM-11:59PM,12:00AM-2:00AM
+
+Thu,Sun3:00PM-11:59PM,12:00AM-12:30AM,12:00AM-2:00AM,3:00PM-11:59PM",N/A,N/A,https://images.deliveryhero.io/image/fd-my/LH/r1jr-hero.jpg,100.420457,"6.240671,"
+62,Blackwood Coffee & Chocolate Jitra,"Plot Blackwood, Lot 21 Jalan Industri Darulaman 1, Kawasan Perusahaan Bandar Darul Aman",11:00 AM - 9:30 PM,"Mon-Sun11:00AM-9:30PM,11:00AM-9:30PM",4.3/5,148,https://images.deliveryhero.io/image/fd-my/LH/q8kh-hero.jpg,100.429246,"6.253209,"
