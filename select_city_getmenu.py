@@ -4,6 +4,7 @@ import csv
 import pandas as pd
 
 restaurant_name=[]
+restaurant_url=[]
 dish_category_title=[]
 dish_name=[]
 dish_description=[]
@@ -95,6 +96,7 @@ for rest in all_r:
             item=title.text.strip()
             dish_name.append(item)
             restaurant_name.append(restaurant)
+            restaurant_url.append(url)
             
 
         title_descs=data.find_all('div',class_='dish-info')
@@ -144,6 +146,7 @@ for rest in all_r:
 
 
 df=pd.DataFrame({'restaurant_name':restaurant_name,
+'restaurant_url':restaurant_url,
 'dish_category_title':dish_category_title,
 'dish_name':dish_name,
 'dish_description':dish_description,

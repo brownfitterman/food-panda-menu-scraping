@@ -3,6 +3,8 @@ import requests
 import csv
 import pandas as pd
 
+restaurant_full_name=[]
+restaurant_url=[]
 dish_category_title=[]
 dish_name=[]
 dish_description=[]
@@ -39,6 +41,8 @@ for data in item:
         dish_category_title.append(h2)
         item=title.text.strip()
         dish_name.append(item)
+        restaurant_full_name.append(restaurant_name)
+        restaurant_url.append(rest_url)
         
 
     title_descs=data.find_all('div',class_='dish-info')
@@ -87,7 +91,9 @@ if (len(image_url)!=len(dish_name)):
         image_url.append("N/A")
 
 
-df=pd.DataFrame({'dish_category_title':dish_category_title,
+df=pd.DataFrame({'Restaurant Name': restaurant_full_name,
+'Restaurant URL': restaurant_url,
+'dish_category_title':dish_category_title,
 'dish_name':dish_name,
 'dish_description':dish_description,
 'original_price':original_price,

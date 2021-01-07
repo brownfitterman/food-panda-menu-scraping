@@ -9,6 +9,7 @@ all_r=[]
 
 name=[]
 address=[]
+restaurant_url=[]
 opening_time=[]
 delivery_hours=[]
 rating=[]
@@ -179,9 +180,19 @@ try:
 except:
     postalcode.append('')
 
+try:
+    re_url_index=script.find('url')
+    re_url=script[re_url_index+7:]
+    re_url=(re_url.split('"'))[0]
+    restaurant_url.append(re_url)
+
+except:
+    restaurant_url.append('')
+
 
 dct=({'Name of Restaurant':name,
 'Address':address,
+'Restaurant URL': restaurant_url,
 'Opening Time':opening_time,
 'Delivery Hours':delivery_hours,
 'Rating':rating,
