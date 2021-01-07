@@ -17,6 +17,9 @@ rating_count=[]
 image_url=[]
 longitude=[]
 latitude=[]
+tags=[]
+telephone=[]
+postalcode=[]
 
 htm =  requests.get("https://www.foodpanda.my/")
 
@@ -103,9 +106,15 @@ for rest_url in all_r:
         rating.append(rat) 
         rating_count.append(count)  #no. of people votes taken for the rating
 
-        # tag=data.find('ul',class_='vendor-cuisines')
-        # for tag in tag:
-        #     print(tag)
+        tag_all_in_one=data.find('ul',class_='vendor-cuisines')
+        tag_all_in_one=(tag_all_in_one.text.replace(' ','').strip())
+        all_tag_list=tag_all_in_one.split()
+        tgs=""
+
+        for each_t in all_tag_list[3:]:
+            tgs=tgs+","+each_t
+        
+        tags.append(tgs)
         
 
 
@@ -145,6 +154,23 @@ for rest_url in all_r:
         longitude.append("")
         latitude.append("")
 
+    try:
+        tel_index=script.find('tel')
+        tel=script[tel_index+13:]
+        tel=(((tel.split())[0]).split('"'))[0]
+        telephone.append(tel)
+    except:
+        telephone.append('')
+
+
+    try:
+        postal_index=script.find('postalCode')
+        postal=script[postal_index+14:]
+        postal=(((postal.split())[0]).split('"'))[0]
+        postalcode.append(postal)
+    except:
+        postalcode.append('')
+
 
 df=pd.DataFrame({'Name of Restaurant':name,
 'Address':address,
@@ -154,7 +180,10 @@ df=pd.DataFrame({'Name of Restaurant':name,
 'Rating Count':rating_count,
 'Image URL':image_url,
 'Longitude':longitude,
-'Latitude':latitude})
+'Latitude':latitude,
+'Tags': tags,
+'Tel No.': telephone,
+'Postal Code': postalcode})
 
 
 filename=cityname+"_restaurants_info.csv"
