@@ -112,9 +112,7 @@ except:
 try:
     tel_index=script.find('tel')
     tel=script[tel_index+13:]
-    tel=(tel.split())[0]
-    tel=tel.split('"')
-    tel=tel[0]
+    tel=(((tel.split())[0]).split('"'))[0]
     telephone.append(tel)
 except:
     telephone.append('')
@@ -123,9 +121,7 @@ except:
 try:
     postal_index=script.find('postalCode')
     postal=script[postal_index+14:]
-    postal=(postal.split())[0]
-    postal=postal.split('"')
-    postal=postal[0]
+    postal=(((postal.split())[0]).split('"'))[0]
     postalcode.append(postal)
 except:
     postalcode.append('')
