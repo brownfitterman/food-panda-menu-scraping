@@ -72,7 +72,8 @@ r_count=0
 
 for rest in all_r:
     r_count=r_count+1
-    restaurant=rest[17:]
+    print(rest)
+    restaurant=(rest.split("/"))[3]
     print('Restaurant #'+str(r_count)+' '+ 'Name: '+ restaurant+'  scraped successfully',end=' ')
     for i in range(50-len(restaurant)):
         print(" ",end="")

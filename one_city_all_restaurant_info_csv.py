@@ -72,8 +72,9 @@ print('Scraping the info of the restaurants one by one.')
 print()
 u=0
 for rest_url in all_r:
+    print(rest_url)
     u=u+1
-    rest_name=rest_url[17:]
+    rest_name=(rest_url.split('/'))[3]
     print('Restaurant #'+str(u)+' '+ 'Name: '+ rest_name+'  scraped successfully',end=' ')
     for i in range(50-len(rest_name)):
         print(" ",end="")

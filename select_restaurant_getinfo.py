@@ -65,8 +65,9 @@ for url in list_1:
     url=(((url.split())[5]).split('='))[1]
     url=url[1:-2]
     all_r.append(url)
-    restaur_name=url[17:]
-    dct[restaur_name]= url[:17]
+    url_split_in_list=url.split("/")
+    restaur_name=url_split_in_list[3]
+    dct[restaur_name]= "/"+url_split_in_list[1]+"/"+url_split_in_list[2]+"/"
     restaur_name=restaur_name.rstrip()
     # print(restaur_name)
     print(restaur_name, end='')
