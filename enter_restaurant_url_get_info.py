@@ -35,7 +35,7 @@ html2 =  requests.get(rest_url)
 
 soup2=BeautifulSoup( html2.text,'lxml')
 
-# data=soup.find_all('script',id_='template-confirm-preorder')
+
 data_all=soup2.find_all('div',class_='modal fade rich-description')
 
 for data in data_all:
