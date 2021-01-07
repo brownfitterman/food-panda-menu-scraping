@@ -120,9 +120,6 @@ for rest_url in all_r:
 
         timings=data.find('span',class_='schedule-times')
         op_time=timings.text.strip()
-        # timing=data.find('span',class_='green-class')
-        # timing=timing.text.strip()
-        # op_time=timing+" "+op_time
         opening_time.append(op_time)
 
 
