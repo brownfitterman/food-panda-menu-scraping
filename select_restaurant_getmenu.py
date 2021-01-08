@@ -132,20 +132,32 @@ for data in item:
         original_price.append(org_price)
         discounted_price.append(dis_price)
         
-    images=data.find_all('picture')
-    for img in images:
-        img=str(img)
-        img=((img.split())[5]).split('=')
-        img=(((img[1])[1:]).split('?'))[0]
-        image_url.append(img)
+    # images=data.find_all('picture')
+    # for img in images:
+    #     img=str(img)
+    #     img=((img.split())[5]).split('=')
+    #     img=(((img[1])[1:]).split('?'))[0]
+    #     image_url.append(img)
+
+    pic=data.find_all('li',class_='dish-card h-product menu__item')
+    for img in pic:
+        image=img.find('div',class_='photo u-photo b-lazy')
+        if image is None:
+            image_url.append('N/A')
+        else:
+            image=str(image)
+            image=image[image.find('data-src')+9:]
+            image=(image.split('?'))[0]
+            image=image[1:]
+            image_url.append(image)
 
 # now lists are made for the categories
 #we will now use the lists as pandas series and create a pandas dataframe
 
-if (len(image_url)!=len(dish_name)):
-    image_url=[]
-    for i in range(len(dish_name)):
-        image_url.append("N/A")
+# if (len(image_url)!=len(dish_name)):
+#     image_url=[]
+#     for i in range(len(dish_name)):
+#         image_url.append("N/A")
 
 
 df=pd.DataFrame({'Restaurant Name': restaurant_full_name,
