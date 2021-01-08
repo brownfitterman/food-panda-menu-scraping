@@ -33,22 +33,17 @@ h1=soup.find('h1',class_='fn')    #to get restaurant name
 restaurant_name=h1.text
 
 
-lst=[]
+
 for data in item:
     pic=data.find_all('li',class_='dish-card h-product menu__item')
     for img in pic:
-        images=img.find('div',class_='photo u-photo b-lazy')
-        lst.append(images)
-
-
-
-for element in lst:
-    if element is None:
-        print('n/a')
-    else:
-        element=str(element)
-        element=element[element.find('data-src')+9:]
-        element=(element.split('?'))[0]
-        element=element[1:]
-        print(element)
+        image=img.find('div',class_='photo u-photo b-lazy')
+        if image is None:
+            print('N/A')
+        else:
+            image=str(image)
+            image=image[image.find('data-src')+9:]
+            image=(image.split('?'))[0]
+            image=image[1:]
+            print(image)
 
