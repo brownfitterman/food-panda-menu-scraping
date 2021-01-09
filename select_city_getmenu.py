@@ -157,14 +157,15 @@ for rest in all_r:
     #         image_url.append("N/A")
 
 
-df=pd.DataFrame({'restaurant_name':restaurant_name,
-'restaurant_url':restaurant_url,
-'dish_category_title':dish_category_title,
-'dish_name':dish_name,
-'dish_description':dish_description,
-'original_price':original_price,
-'discounted_price':discounted_price,
-'image_url':image_url})
+
+df=pd.DataFrame({'Restaurant Name': restaurant_name,
+'Restaurant URL': restaurant_url,
+'Dish Category Title':dish_category_title,
+'Dish Name':dish_name,
+'Dish Description':dish_description,
+'Original Price':original_price,
+'Discounted Price':discounted_price,
+'Image URL':image_url})
 
 filename=cityname+"_all_rests_menu.csv"
 df.to_csv(filename)
