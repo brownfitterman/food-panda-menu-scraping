@@ -106,12 +106,12 @@ if (len(image_url)!=len(dish_name)):
 
 df=pd.DataFrame({'Restaurant Name': restaurant_full_name,
 'Restaurant URL': restaurant_url,
-'dish_category_title':dish_category_title,
-'dish_name':dish_name,
-'dish_description':dish_description,
-'original_price':original_price,
-'discounted_price':discounted_price,
-'image_url':image_url})
+'Dish Category Title':dish_category_title,
+'Dish Name':dish_name,
+'Dish Description':dish_description,
+'Original Price':original_price,
+'Discounted Price':discounted_price,
+'Image URL':image_url})
 
 filename=restaurant_name.replace(' ','_')+"_menu.csv"
 df.to_csv(filename)
