@@ -12,4 +12,29 @@ There are six scripts:
 6. select_restaurant_getmenu.py       : runnning the script returns name of all cities, enter a city, it returns name of all restaurants of that city, enter a restaurant and menu of all restaurants of that city will be exported to a csv file
 
 
+The info scripts scrapes the following:
+Name of Restaurant
+Address
+Restaurant URL
+Opening Time
+Delivery Hours
+Rating
+Rating Count
+Image URL
+Longitude
+Latitude
+Tags
+Tel No.
+Postal Code
+
+The menu scripts scrapes the following:
+Restaurant Name
+Restaurant URL
+Dish Category Title
+Dish Name
+Dish Description
+Original Price
+Discounted Price
+Image URL
+
 Made By: Ashutosh Sharma (Github: ashucrma)   &   Dheeraj Joshi (Github: dheeraj009joshi)
