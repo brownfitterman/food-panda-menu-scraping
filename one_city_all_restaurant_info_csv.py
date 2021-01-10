@@ -30,7 +30,7 @@ rests0=soup0.find('ul',class_='city-list')
 
 print('Welcome to Food Panda Restaurants Info Scrapper!')
 print()
-print('Food Panda Malaysia')
+print('Scraping Food Panda Malaysia Website......')
 print()
 print()
 print('Food Panda is available in these cities of Malaysia:')

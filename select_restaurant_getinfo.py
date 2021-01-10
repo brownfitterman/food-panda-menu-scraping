@@ -23,7 +23,7 @@ postalcode=[]
 
 print('Welcome to Food Panda Menu Scrapper!')
 print()
-print('Food Panda Malaysia')
+print('Scraping Food Panda Malaysia Website......')
 print()
 print()
 print('Food Panda is available in these cities of Malaysia:')

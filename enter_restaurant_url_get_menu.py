@@ -15,7 +15,7 @@ all_r=[]
 
 print('Welcome to Food Panda Menu Scrapper!')
 print()
-print('Food Panda Malaysia')
+print('Scraping Food Panda Malaysia Website......')
 print()
 
 print()
