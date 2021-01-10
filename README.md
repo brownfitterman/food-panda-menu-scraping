@@ -1,5 +1,5 @@
 # Food-Panda-Menu-Scraper
-Python Script to scrape the entire menu of Food Panda.
+Python Script to scrape the entire menu and info of all restaurants of Food Panda.
 The scraping is done using Beautiful Soup and Requests.
 
 There are six scripts:
