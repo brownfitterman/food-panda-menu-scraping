@@ -79,7 +79,7 @@ for rest in all_r:
     for i in range(50-len(restaurant)):
         print(" ",end="")
     print(str(total_rests-r_count)+" left")
-    url="https://www.foodpanda.my"+rest
+    url="https://www.foodpanda.my/zh"+rest
     html =  requests.get(url)
 
     soup=BeautifulSoup( html.text,'lxml')

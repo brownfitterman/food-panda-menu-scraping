@@ -91,7 +91,7 @@ print()
 print()
 
 
-rest_url="https://www.foodpanda.my"+dct[chosen_rest]+chosen_rest+"#restaurant-info"
+rest_url="https://www.foodpanda.my/zh"+dct[chosen_rest]+chosen_rest+"#restaurant-info"
 html2 =  requests.get(rest_url)
 
 soup2=BeautifulSoup( html2.text,'lxml')

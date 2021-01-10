@@ -81,7 +81,7 @@ u=0
 chosen_rest=input('Enter a Restaurant Name to scrape its menu: ')
 print()
 print()
-url="https://www.foodpanda.my"+dct[chosen_rest]+chosen_rest
+url="https://www.foodpanda.my/zh"+dct[chosen_rest]+chosen_rest
 html =  requests.get(url)
 
 soup=BeautifulSoup( html.text,'lxml')
